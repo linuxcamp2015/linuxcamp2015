@@ -1,0 +1,415 @@
+INFO	[2015-07-15 13:20:09:233] <4324> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 13:20:09:233] <4324> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 13:20:09:233] <4324> type:chkfake
+DEBUG	[2015-07-15 13:20:09:233] <4324> debug:true
+DEBUG	[2015-07-15 13:20:09:233] <4324> enctype:asym
+DEBUG	[2015-07-15 13:20:09:233] <4324> admin:1111
+DEBUG	[2015-07-15 13:20:09:233] <4324> checkopt:false
+DEBUG	[2015-07-15 13:20:09:233] <4324> mid:Kisssig002
+DEBUG	[2015-07-15 13:20:09:233] <4324> price:1
+DEBUG	[2015-07-15 13:20:09:233] <4324> nointerest:no
+DEBUG	[2015-07-15 13:20:09:233] <4324> quotabase:¼±ÅÃ:ÀÏ½ÃºÒ:2°³¿ù:3°³¿ù:6°³¿ù
+INFO	[2015-07-15 13:20:09:233] <4324> Check Field OK
+INFO	[2015-07-15 13:20:09:234] <4324> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 13:20:09:234] <4324> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 13:20:09:235] <4324> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxMzIwMDkyMzQ5OTY3NQ==
+
+INFO	[2015-07-15 13:20:09:235] <4324> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 13:20:09:236] <4324> ===============================================================
+INFO	[2015-07-15 13:20:41:902] <6656> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 13:20:41:903] <6656> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 13:20:41:903] <6656> type:chkfake
+DEBUG	[2015-07-15 13:20:41:903] <6656> debug:true
+DEBUG	[2015-07-15 13:20:41:903] <6656> enctype:asym
+DEBUG	[2015-07-15 13:20:41:903] <6656> admin:1111
+DEBUG	[2015-07-15 13:20:41:903] <6656> checkopt:false
+DEBUG	[2015-07-15 13:20:41:903] <6656> mid:Kisssig002
+DEBUG	[2015-07-15 13:20:41:903] <6656> price:1
+DEBUG	[2015-07-15 13:20:41:903] <6656> nointerest:no
+DEBUG	[2015-07-15 13:20:41:903] <6656> quotabase:¼±ÅÃ:ÀÏ½ÃºÒ:2°³¿ù:3°³¿ù:6°³¿ù
+INFO	[2015-07-15 13:20:41:903] <6656> Check Field OK
+INFO	[2015-07-15 13:20:41:903] <6656> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 13:20:41:904] <6656> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 13:20:41:905] <6656> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxMzIwNDE5MDQ4NjkxNg==
+
+INFO	[2015-07-15 13:20:41:905] <6656> END chkfake  Laptime:[0.006sec]
+INFO	[2015-07-15 13:20:41:905] <6656> ===============================================================
+INFO	[2015-07-15 13:41:21:377] <31040> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 13:41:21:377] <31040> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 13:41:21:377] <31040> type:chkfake
+DEBUG	[2015-07-15 13:41:21:377] <31040> debug:true
+DEBUG	[2015-07-15 13:41:21:377] <31040> enctype:asym
+DEBUG	[2015-07-15 13:41:21:377] <31040> admin:1111
+DEBUG	[2015-07-15 13:41:21:377] <31040> checkopt:false
+DEBUG	[2015-07-15 13:41:21:377] <31040> mid:Kisssig002
+DEBUG	[2015-07-15 13:41:21:377] <31040> price:1000
+DEBUG	[2015-07-15 13:41:21:377] <31040> nointerest:no
+DEBUG	[2015-07-15 13:41:21:377] <31040> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 13:41:21:377] <31040> Check Field OK
+INFO	[2015-07-15 13:41:21:377] <31040> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 13:41:21:378] <31040> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 13:41:21:379] <31040> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxMzQxMjEzNzgzODUzNw==
+
+INFO	[2015-07-15 13:41:21:379] <31040> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 13:41:21:379] <31040> ===============================================================
+INFO	[2015-07-15 14:23:44:726] <4325> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:23:44:726] <4325> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:23:44:726] <4325> type:chkfake
+DEBUG	[2015-07-15 14:23:44:726] <4325> debug:true
+DEBUG	[2015-07-15 14:23:44:726] <4325> enctype:asym
+DEBUG	[2015-07-15 14:23:44:726] <4325> admin:1111
+DEBUG	[2015-07-15 14:23:44:726] <4325> checkopt:false
+DEBUG	[2015-07-15 14:23:44:726] <4325> mid:Kisssig002
+DEBUG	[2015-07-15 14:23:44:726] <4325> price:1000
+DEBUG	[2015-07-15 14:23:44:726] <4325> nointerest:no
+DEBUG	[2015-07-15 14:23:44:726] <4325> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:23:44:726] <4325> Check Field OK
+INFO	[2015-07-15 14:23:44:726] <4325> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:23:44:727] <4325> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:23:44:728] <4325> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDIzNDQ3Mjc5NTQxMA==
+
+INFO	[2015-07-15 14:23:44:728] <4325> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 14:23:44:728] <4325> ===============================================================
+INFO	[2015-07-15 14:32:01:302] <6832> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:32:01:303] <6832> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:32:01:303] <6832> type:chkfake
+DEBUG	[2015-07-15 14:32:01:303] <6832> debug:true
+DEBUG	[2015-07-15 14:32:01:303] <6832> enctype:asym
+DEBUG	[2015-07-15 14:32:01:303] <6832> admin:1111
+DEBUG	[2015-07-15 14:32:01:303] <6832> checkopt:false
+DEBUG	[2015-07-15 14:32:01:303] <6832> mid:Kisssig002
+DEBUG	[2015-07-15 14:32:01:303] <6832> price:1000
+DEBUG	[2015-07-15 14:32:01:303] <6832> nointerest:no
+DEBUG	[2015-07-15 14:32:01:303] <6832> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:32:01:303] <6832> Check Field OK
+INFO	[2015-07-15 14:32:01:303] <6832> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:32:01:303] <6832> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:32:01:305] <6832> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDMyMDEzMDQ5MDIxOQ==
+
+INFO	[2015-07-15 14:32:01:305] <6832> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 14:32:01:305] <6832> ===============================================================
+INFO	[2015-07-15 14:33:05:5] <27797> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:33:05:5] <27797> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:33:05:5] <27797> type:chkfake
+DEBUG	[2015-07-15 14:33:05:5] <27797> debug:true
+DEBUG	[2015-07-15 14:33:05:5] <27797> enctype:asym
+DEBUG	[2015-07-15 14:33:05:5] <27797> admin:1111
+DEBUG	[2015-07-15 14:33:05:5] <27797> checkopt:false
+DEBUG	[2015-07-15 14:33:05:5] <27797> mid:Kisssig002
+DEBUG	[2015-07-15 14:33:05:5] <27797> price:1000
+DEBUG	[2015-07-15 14:33:05:5] <27797> nointerest:no
+DEBUG	[2015-07-15 14:33:05:5] <27797> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:33:05:5] <27797> Check Field OK
+INFO	[2015-07-15 14:33:05:5] <27797> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:33:05:6] <27797> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:33:05:7] <27797> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDMzMDUwMDY3Njc3MA==
+
+INFO	[2015-07-15 14:33:05:7] <27797> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 14:33:05:7] <27797> ===============================================================
+INFO	[2015-07-15 14:33:05:89] <4325> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:33:05:89] <4325> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:33:05:89] <4325> type:chkfake
+DEBUG	[2015-07-15 14:33:05:89] <4325> debug:true
+DEBUG	[2015-07-15 14:33:05:89] <4325> enctype:asym
+DEBUG	[2015-07-15 14:33:05:89] <4325> admin:1111
+DEBUG	[2015-07-15 14:33:05:89] <4325> checkopt:false
+DEBUG	[2015-07-15 14:33:05:89] <4325> mid:Kisssig002
+DEBUG	[2015-07-15 14:33:05:89] <4325> price:1000
+DEBUG	[2015-07-15 14:33:05:89] <4325> nointerest:no
+DEBUG	[2015-07-15 14:33:05:89] <4325> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:33:05:89] <4325> Check Field OK
+INFO	[2015-07-15 14:33:05:90] <4325> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:33:05:90] <4325> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:33:05:91] <4325> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDMzMDUwOTA3NDg4Mg==
+
+INFO	[2015-07-15 14:33:05:92] <4325> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-15 14:33:05:92] <4325> ===============================================================
+INFO	[2015-07-15 14:33:31:926] <6828> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:33:31:926] <6828> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:33:31:926] <6828> type:chkfake
+DEBUG	[2015-07-15 14:33:31:926] <6828> debug:true
+DEBUG	[2015-07-15 14:33:31:926] <6828> enctype:asym
+DEBUG	[2015-07-15 14:33:31:926] <6828> admin:1111
+DEBUG	[2015-07-15 14:33:31:926] <6828> checkopt:false
+DEBUG	[2015-07-15 14:33:31:926] <6828> mid:Kisssig002
+DEBUG	[2015-07-15 14:33:31:926] <6828> price:1000
+DEBUG	[2015-07-15 14:33:31:926] <6828> nointerest:no
+DEBUG	[2015-07-15 14:33:31:926] <6828> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:33:31:926] <6828> Check Field OK
+INFO	[2015-07-15 14:33:31:926] <6828> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:33:31:927] <6828> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:33:31:928] <6828> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDMzMzE5MjcxMDU2Mw==
+
+INFO	[2015-07-15 14:33:31:928] <6828> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 14:33:31:928] <6828> ===============================================================
+INFO	[2015-07-15 14:35:59:462] <4324> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:35:59:462] <4324> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:35:59:462] <4324> type:chkfake
+DEBUG	[2015-07-15 14:35:59:462] <4324> debug:true
+DEBUG	[2015-07-15 14:35:59:462] <4324> enctype:asym
+DEBUG	[2015-07-15 14:35:59:462] <4324> admin:1111
+DEBUG	[2015-07-15 14:35:59:462] <4324> checkopt:false
+DEBUG	[2015-07-15 14:35:59:462] <4324> mid:Kisssig002
+DEBUG	[2015-07-15 14:35:59:462] <4324> price:1000
+DEBUG	[2015-07-15 14:35:59:462] <4324> nointerest:no
+DEBUG	[2015-07-15 14:35:59:462] <4324> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:35:59:462] <4324> Check Field OK
+INFO	[2015-07-15 14:35:59:462] <4324> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:35:59:463] <4324> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:35:59:464] <4324> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDM1NTk0NjMxNDQ1NQ==
+
+INFO	[2015-07-15 14:35:59:464] <4324> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 14:35:59:464] <4324> ===============================================================
+INFO	[2015-07-15 14:43:07:884] <6832> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:43:07:884] <6832> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:43:07:884] <6832> type:chkfake
+DEBUG	[2015-07-15 14:43:07:884] <6832> debug:true
+DEBUG	[2015-07-15 14:43:07:884] <6832> enctype:asym
+DEBUG	[2015-07-15 14:43:07:884] <6832> admin:1111
+DEBUG	[2015-07-15 14:43:07:884] <6832> checkopt:false
+DEBUG	[2015-07-15 14:43:07:884] <6832> mid:Kisssig002
+DEBUG	[2015-07-15 14:43:07:884] <6832> price:1000
+DEBUG	[2015-07-15 14:43:07:884] <6832> nointerest:no
+DEBUG	[2015-07-15 14:43:07:884] <6832> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 14:43:07:884] <6832> Check Field OK
+INFO	[2015-07-15 14:43:07:885] <6832> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:43:07:885] <6832> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 14:43:07:886] <6832> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNDQzMDc4ODU1NjgxMA==
+
+INFO	[2015-07-15 14:43:07:887] <6832> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 14:43:07:887] <6832> ===============================================================
+INFO	[2015-07-15 15:26:33:881] <6890> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 15:26:33:882] <6890> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 15:26:33:882] <6890> type:chkfake
+DEBUG	[2015-07-15 15:26:33:882] <6890> debug:true
+DEBUG	[2015-07-15 15:26:33:882] <6890> enctype:asym
+DEBUG	[2015-07-15 15:26:33:882] <6890> admin:1111
+DEBUG	[2015-07-15 15:26:33:882] <6890> checkopt:false
+DEBUG	[2015-07-15 15:26:33:882] <6890> mid:Kisssig002
+DEBUG	[2015-07-15 15:26:33:882] <6890> price:1000
+DEBUG	[2015-07-15 15:26:33:882] <6890> nointerest:no
+DEBUG	[2015-07-15 15:26:33:882] <6890> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 15:26:33:882] <6890> Check Field OK
+INFO	[2015-07-15 15:26:33:882] <6890> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 15:26:33:882] <6890> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 15:26:33:884] <6890> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNTI2MzM4ODI2MzAwMA==
+
+INFO	[2015-07-15 15:26:33:884] <6890> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-15 15:26:33:884] <6890> ===============================================================
+INFO	[2015-07-15 15:30:09:3] <6828> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 15:30:09:3] <6828> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 15:30:09:3] <6828> type:chkfake
+DEBUG	[2015-07-15 15:30:09:3] <6828> debug:true
+DEBUG	[2015-07-15 15:30:09:3] <6828> enctype:asym
+DEBUG	[2015-07-15 15:30:09:3] <6828> admin:1111
+DEBUG	[2015-07-15 15:30:09:3] <6828> checkopt:false
+DEBUG	[2015-07-15 15:30:09:3] <6828> mid:Kisssig002
+DEBUG	[2015-07-15 15:30:09:3] <6828> price:1000
+DEBUG	[2015-07-15 15:30:09:3] <6828> nointerest:no
+DEBUG	[2015-07-15 15:30:09:3] <6828> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 15:30:09:3] <6828> Check Field OK
+INFO	[2015-07-15 15:30:09:3] <6828> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 15:30:09:4] <6828> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 15:30:09:5] <6828> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNTMwMDkwMDQ4Nzg3Mw==
+
+INFO	[2015-07-15 15:30:09:5] <6828> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-15 15:30:09:5] <6828> ===============================================================
+INFO	[2015-07-15 15:30:31:250] <6832> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 15:30:31:251] <6832> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 15:30:31:251] <6832> type:chkfake
+DEBUG	[2015-07-15 15:30:31:251] <6832> debug:true
+DEBUG	[2015-07-15 15:30:31:251] <6832> enctype:asym
+DEBUG	[2015-07-15 15:30:31:251] <6832> admin:1111
+DEBUG	[2015-07-15 15:30:31:251] <6832> checkopt:false
+DEBUG	[2015-07-15 15:30:31:251] <6832> mid:Kisssig002
+DEBUG	[2015-07-15 15:30:31:251] <6832> price:1000
+DEBUG	[2015-07-15 15:30:31:251] <6832> nointerest:no
+DEBUG	[2015-07-15 15:30:31:251] <6832> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 15:30:31:251] <6832> Check Field OK
+INFO	[2015-07-15 15:30:31:251] <6832> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 15:30:31:251] <6832> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 15:30:31:253] <6832> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNTMwMzEyNTExNDc5MA==
+
+INFO	[2015-07-15 15:30:31:253] <6832> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-15 15:30:31:253] <6832> ===============================================================
+INFO	[2015-07-15 15:31:25:369] <7316> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 15:31:25:369] <7316> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 15:31:25:369] <7316> type:securepay
+DEBUG	[2015-07-15 15:31:25:369] <7316> pgid:INIphpISP_
+DEBUG	[2015-07-15 15:31:25:369] <7316> subpgip:203.238.3.10
+DEBUG	[2015-07-15 15:31:25:369] <7316> admin:1111
+DEBUG	[2015-07-15 15:31:25:369] <7316> debug:true
+DEBUG	[2015-07-15 15:31:25:369] <7316> uid:
+DEBUG	[2015-07-15 15:31:25:369] <7316> goodname:축구공
+DEBUG	[2015-07-15 15:31:25:369] <7316> currency:WON
+DEBUG	[2015-07-15 15:31:25:369] <7316> mid:Kisssig002
+DEBUG	[2015-07-15 15:31:25:369] <7316> rn:MjAxNTA3MTUxNTMwMzEyNTExNDc5MA==
+
+DEBUG	[2015-07-15 15:31:25:369] <7316> price:1000
+DEBUG	[2015-07-15 15:31:25:369] <7316> enctype:
+DEBUG	[2015-07-15 15:31:25:369] <7316> buyername:홍길동
+DEBUG	[2015-07-15 15:31:25:369] <7316> buyertel:011-123-1234
+DEBUG	[2015-07-15 15:31:25:369] <7316> buyeremail:0194152342@naver.com
+DEBUG	[2015-07-15 15:31:25:369] <7316> paymethod:VCard
+DEBUG	[2015-07-15 15:31:25:369] <7316> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=oid_1234567890&ver_trace=main(6095,6058)vcard(6091)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&rn=3/jEtW4vAE1d6giA2/MTAJGVvqNwjBKW6EoANbaCizo=
+&VCode=050204040016666&VQuota=00&VNoint=0&ip=192.168.132.1&mac=005056C00008&cardpoint=9&custemail=0194152342@naver.com&price=4uDsrkVGcE4gjnub+tIuGLKwnbZZ5Wc=
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=oaLi6D6lS5OKUORYSNv4RgojyE%2b1nxpgqJGHnnrdVqMJqFDOx5n6hzxQlB%2fs%2bzbd%0d%0aGjxN2fY%2feQ94Xa%2bHul6h1suobDdElI35S8BVYNfTDLCiUVSUSe9Mz6nrq3ENb5l1%0d%0axX5gOzWFuvDb80pTg%2bXsC4e0YQR%2fnUof5Wk8F1NqDqU%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3dd1F%2f96RAoH1DyGZH0HDHga7xwiKJiVY4UByUWp6RwFfGPT5yMbRO9tHxar0HGP8M%250aME64dBZeMvcWYv%2fn26iA7hZ0hLIWKL3q%252b7VZGQEfv%252bM%252ba8qDpb84c2GPT5OXR%252bdW%250a0nXYeIZqdrmD4n56a8D9sg9NTfLihJftNCBC1CQXU%252buD5aAxF2cvTAQ7UPpdPXRV%250avXCMYm1W8I6Ah%252bL7MliI3OwQ4YWsSWsL7G0%2fYe7%252bKvi3SYoLu2NITixBEhEubZK9%250avSXg%252bwF%252b15A26IF%252bVdM2GLXeB4P2ltbXA7lyqdya9oFZEXbJBOoQmP5Pk0h9heoy%250a63CeS8llvIs16xpl41V7kqvgb26lUYI3VfOe%2fN2S671mwvXtrmyaKZafG4RVBKk8%250arhrreWUyliztheCQvvEjBwIfU8Q0qct8KJu1G6SpWK%252bEe2aS0gzyJVUwfcyivRC6%250add6I5Z1G2qDN0Yl75aFPLNGnkTkpTCPmphk8TBfST7yjLuk6Y68Ey1JDWMQD7wnL%250aaVAuQioujoQ9nHjfbYIIvc6hcBxKc1rD0%252b1H93XWDrWhwfhyOnVGzJmNpG%252bsoOwu%250ay0%2fwYcQw13TeXFEFCYsDcly%252bSqsXMAl51Ebdk1zyoZs%253d%250a%26PubCert%3d&ts=150715152819CbLFxwSRoHS9yDmRGyyhRg001096&src_flg=0&OSv=IE11_Win7 6.01.7601 SP1 Professional_64B (CDN) (notray:J) [Kisssig002] (61_secuni_npapi)&ip2=220.67.133.30
+DEBUG	[2015-07-15 15:31:25:369] <7316> sessionkey:VCard
+DEBUG	[2015-07-15 15:31:25:369] <7316> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 15:31:25:369] <7316> cardcode:06
+DEBUG	[2015-07-15 15:31:25:369] <7316> parentemail:parents@parents.com
+DEBUG	[2015-07-15 15:31:25:369] <7316> recvname:
+DEBUG	[2015-07-15 15:31:25:369] <7316> recvtel:
+DEBUG	[2015-07-15 15:31:25:369] <7316> recvaddr:
+DEBUG	[2015-07-15 15:31:25:369] <7316> recvpostnum:
+DEBUG	[2015-07-15 15:31:25:369] <7316> recvmsg:
+DEBUG	[2015-07-15 15:31:25:369] <7316> joincard:
+DEBUG	[2015-07-15 15:31:25:369] <7316> joinexpire:
+DEBUG	[2015-07-15 15:31:25:369] <7316> id_customer:
+INFO	[2015-07-15 15:31:25:369] <7316> Check Field OK
+INFO	[2015-07-15 15:31:25:369] <7316> Make TID OK INIphpISP_Kisssig00220150715153125691706
+INFO	[2015-07-15 15:31:25:370] <7316> PI PUB KEY LOAD OK [39]
+INFO	[2015-07-15 15:31:25:370] <7316> PG PUB KEY LOAD OK [30]
+INFO	[2015-07-15 15:31:25:371] <7316> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 15:31:25:371] <7316> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-07-15 15:31:25:373] <7316> MAKE BODY OK
+INFO	[2015-07-15 15:31:25:374] <7316> SIGN OK
+INFO	[2015-07-15 15:31:25:374] <7316> MAKE HEAD OK
+INFO	[2015-07-15 15:31:25:374] <7316> MSG_TO_PG:[0353200175R SHA1                   0                  39                  300200Kisssig002                1000INIphpISP_Kisssig00220150715153125691706<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>Kisssig002</SMID>
+	      <GoodsName urlencode="1">%EC%B6%95%EA%B5%AC%EA%B3%B5</GoodsName>
+	      <GoodsPrice>1000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%ED%99%8D%EA%B8%B8%EB%8F%99</BuyerName>
+	    <BuyerTel>011-123-1234</BuyerTel>
+	    <BuyerEmail urlencode="1">0194152342%40naver.com</BuyerEmail>
+	    <ParentEmail urlencode="1">parents%40parents.com</ParentEmail>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Doid_1234567890%26ver_trace%3Dmain%286095%2C6058%29vcard%286091%29card%286138%2C6122%29n%286008%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286006%29P%286033%29en%286052%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAE1d6giA2%2FMTAJGVvqNwjBKW6EoANbaCizo%3D%0D%0A%26VCode%3D050204040016666%26VQuota%3D00%26VNoint%3D0%26ip%3D192.168.132.1%26mac%3D005056C00008%26cardpoint%3D9%26custemail%3D0194152342%40naver.com%26price%3D4uDsrkVGcE4gjnub%2BtIuGLKwnbZZ5Wc%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DoaLi6D6lS5OKUORYSNv4RgojyE%252b1nxpgqJGHnnrdVqMJqFDOx5n6hzxQlB%252fs%252bzbd%250d%250aGjxN2fY%252feQ94Xa%252bHul6h1suobDdElI35S8BVYNfTDLCiUVSUSe9Mz6nrq3ENb5l1%250d%250axX5gOzWFuvDb80pTg%252bXsC4e0YQR%252fnUof5Wk8F1NqDqU%253d%250d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253d%2526Data%253dd1F%252f96RAoH1DyGZH0HDHga7xwiKJiVY4UByUWp6RwFfGPT5yMbRO9tHxar0HGP8M%25250aME64dBZeMvcWYv%252fn26iA7hZ0hLIWKL3q%25252b7VZGQEfv%25252bM%25252ba8qDpb84c2GPT5OXR%25252bdW%25250a0nXYeIZqdrmD4n56a8D9sg9NTfLihJftNCBC1CQXU%25252buD5aAxF2cvTAQ7UPpdPXRV%25250avXCMYm1W8I6Ah%25252bL7MliI3OwQ4YWsSWsL7G0%252fYe7%25252bKvi3SYoLu2NITixBEhEubZK9%25250avSXg%25252bwF%25252b15A26IF%25252bVdM2GLXeB4P2ltbXA7lyqdya9oFZEXbJBOoQmP5Pk0h9heoy%25250a63CeS8llvIs16xpl41V7kqvgb26lUYI3VfOe%252fN2S671mwvXtrmyaKZafG4RVBKk8%25250arhrreWUyliztheCQvvEjBwIfU8Q0qct8KJu1G6SpWK%25252bEe2aS0gzyJVUwfcyivRC6%25250add6I5Z1G2qDN0Yl75aFPLNGnkTkpTCPmphk8TBfST7yjLuk6Y68Ey1JDWMQD7wnL%25250aaVAuQioujoQ9nHjfbYIIvc6hcBxKc1rD0%25252b1H93XWDrWhwfhyOnVGzJmNpG%25252bsoOwu%25250ay0%252fwYcQw13TeXFEFCYsDcly%25252bSqsXMAl51Ebdk1zyoZs%25253d%25250a%2526PubCert%253d%26ts%3D150715152819CbLFxwSRoHS9yDmRGyyhRg001096%26src_flg%3D0%26OSv%3DIE11_Win7+6.01.7601+SP1+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5BKisssig002%5D+%2861_secuni_npapi%29%26ip2%3D220.67.133.30</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.your_domain.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.13.0-44-genericPHP:5.5.9-1ub</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA3MTUxNTMwMzEyNTExNDc5MA==
+</TXRN></ManageInfo></INIpay>YmARls00IBSiuGEHb6VdP8dFHyXTwLLpHm8kQEnF6UytvZJtgEbqQUFjTGQhXs03
+NpouGmoJcqg03JTxMGZzkF/EGlf4hz7cre4S5/TuMc+q8jfwx3ScSNlJvGvGK53I
+oEn14JuWM2V8VCPD56xSmbtbdXEDzNHE0OZpU0hqWYI=
+]
+INFO	[2015-07-15 15:31:25:374] <7316> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-07-15 15:31:25:377] <7316> SOCKET CONNECT OK
+INFO	[2015-07-15 15:31:25:377] <7316> SEND OK
+INFO	[2015-07-15 15:31:26:723] <7316> RECV OK
+INFO	[2015-07-15 15:31:26:723] <7316> MSG_FROM_PG:[0277200175D SHA1                   0                  39                  300210Kisssig002                1000INIphpISP_Kisssig00220150715153125691706<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">oid_1234567890</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>Kisssig002</SMID>
+      <GoodsName urlencode="1">%EC%B6%95%EA%B5%AC%EA%B3%B5</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>1000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>G+fXMUNLGO8gV7F5eVWf48exfycRuvoQQjIzAJw6TyR2EAhhsRZYY+ix3IMFQ4LK
+7Mic2znCYIFDAq5xll6fva4PJ/bK2Ul9sXw2G6/rJZ/bRpIY7dEOqvE1NmG+r0pF
+QDEWgTZHJ/6fm+6Ba7rMrChGiG7iqf8KV3DNTPLHQ64p6UjgJq/msA==
+</SessionKey>
+      <Encrypted>WciGBazAYAJiAUyK6yxH7LaldnbZSRLzRlXTieWTGk+Xio723pAx99FtfYaZ3HzH
+4djkInBIUGHGShbWWNVDDalQUq4LVy7B1MefbPUpLp8SrtbEumOk4TBCET5aOrET
+CQxb/N2p5FPnQixvnGZHq0DQKd+cHI5iFmLxzsLytvQGEjERB9XYi8vmaOpcrtau
+Q/1ScyB3c8LOyIZf++Ehw8yiLMu+WI+kj0eDl/gKvAikJJ4SZ1ji0QuOBGUhF7Op
+Qa6rj45eD4bdX14hlNHVYA3we7wEusN3C4Mj3gDqJdqlePy7JdOXnHybjXz93ES7
+PHFYE8qGMCWREQOmGU/RRBUpdUxBMXQWPFfZx5lxP6gPTMFAi382Ch/eV8IYpJJX
+KXa1Rgwz3Cw1u+q4WmcRi/4B4VvH9niq2D0iY4A4wcnrayKBDPLMtN+sOwY2knSF
+8Z82kC0sFx/FMlzB8kk0I0Z/eUAvRzmqeXUUCfA+i53t1lssG1xO0w0u0fX3DEmP
+28r8ukW9HV4GlzstgfMvzjQxTg+FwmfRc2hFw7BdbYVtCNRrruFRlmUk8UnhvRaJ
++xyDq3r9M69hxeBAqE1iOJF5bkPVnuhPhrdv5/Rj2W/2JX61rzbk1m83/K8friKz
+yBfOJE29zZiuWcjjjZ0RdyFAVCZwvJGkdFTl85nvv1UQwGkokBOq4BWBmOYfwEXi
+iRRwTR8//Xuy/twvcuGjqQrHfUExAAsZszRu8KCFeiE5WhWGuvcmtcwZ0pZvwZ66
+NxspCoV7Qz9hDNwsj2spFPKwmE4Fxk1VXibUCDEvQL67hJTk6EEL2E/xoYW6VY6b
+HTe2NGB1LRg5Iewt23ZB5F+swwv2NdMHP5MYD+1aQ5/4ASQPJBUdg9fJXdlR96Yn
+eNwiv5qI9063lgl9794eu/IhX61f4pANBXCLpaTb+YW49Xh0MFkZc1eJampQDAn+
+u+VgcBJJIhIPUPUJ9PCQzsFwwmnXkhwMl53f1P1zG6poSY45ZMqcsktbYp4jmRxU
+yeDtVPfj64C+Ze9OHvHAcgxEwkKfveMNZgYZQ8IDtUMEWnMQ8q87zZeWzHwlENUE
+/RZ6j7lb+z3rNrq4HkgWy7GnqDGD+AiIPSARjfhxcdWIvcznZxEo+kwUaZ2Grpq/
+Id8wOBSsslVaGHAcVnmdlvq28zz7+9f6SVReTNjRNwfMy3Rh29H0yurTMiFAbynY
+OPskjfCFpEAwMvypqC7nPlKJW8OhvMY3p+5JG57kC5yLpX38bq1UgGnYRQjpsyu0
+zOIpmXc2/cxnNQOUNKAAhO921urqLU+rX3KmlxQ0GoWzFbLV1CcV7rx4Bwx1EWwo
+BnA4TYUAuVqujrIqgK3/lqoJ0Nyh3I2M4/PeyT45yP8Qwv8g1Eift3lKcqnPS99a
+l3PbaYxCOW5avd02dbK8awgafn+k0m3i/vbhFApVHaU=
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+1jYyCGoHaq8xHSYSS/692ePiLXQEWlHC0fW3TmX1OBYOA72EG0K3YfF+URl6x+ro
+DTBf+ZpvJNq0qmq2GwejAAgN/vcPGRY9qStzcKIQ8Iwm47mNfpaRXD8Tc1qMqno7
+h4cMISyOkoZfcVSNr1/x8A3sxxN2h/Q1Qgm2szrOzkk=
+]
+INFO	[2015-07-15 15:31:26:724] <7316> VERIFY OK
+INFO	[2015-07-15 15:31:26:724] <7316> PARSE HEAD OK
+INFO	[2015-07-15 15:31:26:727] <7316> PARSE BODY OK
+INFO	[2015-07-15 16:42:18:514] <6832> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 16:42:18:515] <6832> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 16:42:18:515] <6832> type:chkfake
+DEBUG	[2015-07-15 16:42:18:515] <6832> debug:true
+DEBUG	[2015-07-15 16:42:18:515] <6832> enctype:asym
+DEBUG	[2015-07-15 16:42:18:515] <6832> admin:1111
+DEBUG	[2015-07-15 16:42:18:515] <6832> checkopt:false
+DEBUG	[2015-07-15 16:42:18:515] <6832> mid:Kisssig002
+DEBUG	[2015-07-15 16:42:18:515] <6832> price:1000
+DEBUG	[2015-07-15 16:42:18:515] <6832> nointerest:no
+DEBUG	[2015-07-15 16:42:18:515] <6832> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2015-07-15 16:42:18:515] <6832> Check Field OK
+INFO	[2015-07-15 16:42:18:515] <6832> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 16:42:18:515] <6832> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-15 16:42:18:517] <6832> CHKFAKE KEY MAKE OK:MjAxNTA3MTUxNjQyMTg1MTU4MTA5NQ==
+
+INFO	[2015-07-15 16:42:18:517] <6832> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-15 16:42:18:517] <6832> ===============================================================

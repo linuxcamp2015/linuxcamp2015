@@ -1,0 +1,374 @@
+INFO	[2015-07-15 14:23:47:562] <4325> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:23:47:562] <4325> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:23:47:562] <4325> type:securepay
+DEBUG	[2015-07-15 14:23:47:562] <4325> pgid:INIphp
+DEBUG	[2015-07-15 14:23:47:562] <4325> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:23:47:562] <4325> admin:1111
+DEBUG	[2015-07-15 14:23:47:562] <4325> debug:true
+DEBUG	[2015-07-15 14:23:47:562] <4325> uid:
+DEBUG	[2015-07-15 14:23:47:562] <4325> goodname:Ï∂ïÍµ¨Í≥µ
+DEBUG	[2015-07-15 14:23:47:562] <4325> currency:WON
+DEBUG	[2015-07-15 14:23:47:562] <4325> mid:INIpayTest
+DEBUG	[2015-07-15 14:23:47:562] <4325> rn:MjAxNTA3MTUxNDIzNDQ3Mjc5NTQxMA==
+
+DEBUG	[2015-07-15 14:23:47:562] <4325> price:1000
+DEBUG	[2015-07-15 14:23:47:562] <4325> enctype:
+DEBUG	[2015-07-15 14:23:47:562] <4325> buyername:ÌôçÍ∏∏Îèô
+DEBUG	[2015-07-15 14:23:47:562] <4325> buyertel:011-123-1234
+DEBUG	[2015-07-15 14:23:47:562] <4325> buyeremail:hkd@abcd.com
+DEBUG	[2015-07-15 14:23:47:562] <4325> paymethod:
+DEBUG	[2015-07-15 14:23:47:562] <4325> encrypted:
+DEBUG	[2015-07-15 14:23:47:562] <4325> sessionkey:
+DEBUG	[2015-07-15 14:23:47:562] <4325> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:23:47:562] <4325> cardcode:
+DEBUG	[2015-07-15 14:23:47:562] <4325> parentemail:parents@parents.com
+DEBUG	[2015-07-15 14:23:47:562] <4325> recvname:
+DEBUG	[2015-07-15 14:23:47:562] <4325> recvtel:
+DEBUG	[2015-07-15 14:23:47:562] <4325> recvaddr:
+DEBUG	[2015-07-15 14:23:47:562] <4325> recvpostnum:
+DEBUG	[2015-07-15 14:23:47:562] <4325> recvmsg:
+DEBUG	[2015-07-15 14:23:47:562] <4325> joincard:
+DEBUG	[2015-07-15 14:23:47:562] <4325> joinexpire:
+DEBUG	[2015-07-15 14:23:47:562] <4325> id_customer:
+ERROR	[2015-07-15 14:23:47:567] <4325> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-15 14:23:47:567] <4325> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.005sec]
+INFO	[2015-07-15 14:23:47:568] <4325> ===============================================================
+INFO	[2015-07-15 14:25:17:36] <31040> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:25:17:37] <31040> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:25:17:37] <31040> type:securepay
+DEBUG	[2015-07-15 14:25:17:37] <31040> pgid:INIphp
+DEBUG	[2015-07-15 14:25:17:37] <31040> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:25:17:37] <31040> admin:1111
+DEBUG	[2015-07-15 14:25:17:37] <31040> debug:true
+DEBUG	[2015-07-15 14:25:17:37] <31040> uid:
+DEBUG	[2015-07-15 14:25:17:37] <31040> goodname:Ï∂ïÍµ¨Í≥µ
+DEBUG	[2015-07-15 14:25:17:37] <31040> currency:WON
+DEBUG	[2015-07-15 14:25:17:37] <31040> mid:INIpayTest
+DEBUG	[2015-07-15 14:25:17:37] <31040> rn:MjAxNTA3MTUxNDIzNDQ3Mjc5NTQxMA==
+
+DEBUG	[2015-07-15 14:25:17:37] <31040> price:1000
+DEBUG	[2015-07-15 14:25:17:37] <31040> enctype:
+DEBUG	[2015-07-15 14:25:17:37] <31040> buyername:ÌôçÍ∏∏Îèô
+DEBUG	[2015-07-15 14:25:17:37] <31040> buyertel:011-123-1234
+DEBUG	[2015-07-15 14:25:17:37] <31040> buyeremail:hkd@abcd.com
+DEBUG	[2015-07-15 14:25:17:37] <31040> paymethod:
+DEBUG	[2015-07-15 14:25:17:37] <31040> encrypted:
+DEBUG	[2015-07-15 14:25:17:37] <31040> sessionkey:
+DEBUG	[2015-07-15 14:25:17:37] <31040> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:25:17:37] <31040> cardcode:
+DEBUG	[2015-07-15 14:25:17:37] <31040> parentemail:parents@parents.com
+DEBUG	[2015-07-15 14:25:17:37] <31040> recvname:
+DEBUG	[2015-07-15 14:25:17:37] <31040> recvtel:
+DEBUG	[2015-07-15 14:25:17:37] <31040> recvaddr:
+DEBUG	[2015-07-15 14:25:17:37] <31040> recvpostnum:
+DEBUG	[2015-07-15 14:25:17:37] <31040> recvmsg:
+DEBUG	[2015-07-15 14:25:17:37] <31040> joincard:
+DEBUG	[2015-07-15 14:25:17:37] <31040> joinexpire:
+DEBUG	[2015-07-15 14:25:17:37] <31040> id_customer:
+ERROR	[2015-07-15 14:25:17:41] <31040> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-15 14:25:17:41] <31040> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.005sec]
+INFO	[2015-07-15 14:25:17:41] <31040> ===============================================================
+INFO	[2015-07-15 14:32:54:106] <6578> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:32:54:106] <6578> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:32:54:106] <6578> type:securepay
+DEBUG	[2015-07-15 14:32:54:106] <6578> pgid:INIphp
+DEBUG	[2015-07-15 14:32:54:106] <6578> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:32:54:106] <6578> admin:1111
+DEBUG	[2015-07-15 14:32:54:106] <6578> debug:true
+DEBUG	[2015-07-15 14:32:54:106] <6578> uid:
+DEBUG	[2015-07-15 14:32:54:106] <6578> goodname:
+DEBUG	[2015-07-15 14:32:54:106] <6578> currency:
+DEBUG	[2015-07-15 14:32:54:106] <6578> mid:INIpayTest
+DEBUG	[2015-07-15 14:32:54:106] <6578> rn:MjAxNTA3MTUxNDMyMDEzMDQ5MDIxOQ==
+
+DEBUG	[2015-07-15 14:32:54:106] <6578> price:1000
+DEBUG	[2015-07-15 14:32:54:106] <6578> enctype:
+DEBUG	[2015-07-15 14:32:54:106] <6578> buyername:
+DEBUG	[2015-07-15 14:32:54:106] <6578> buyertel:
+DEBUG	[2015-07-15 14:32:54:106] <6578> buyeremail:
+DEBUG	[2015-07-15 14:32:54:106] <6578> paymethod:
+DEBUG	[2015-07-15 14:32:54:106] <6578> encrypted:
+DEBUG	[2015-07-15 14:32:54:106] <6578> sessionkey:
+DEBUG	[2015-07-15 14:32:54:106] <6578> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:32:54:106] <6578> cardcode:
+DEBUG	[2015-07-15 14:32:54:106] <6578> parentemail:
+DEBUG	[2015-07-15 14:32:54:106] <6578> recvname:
+DEBUG	[2015-07-15 14:32:54:106] <6578> recvtel:
+DEBUG	[2015-07-15 14:32:54:106] <6578> recvaddr:
+DEBUG	[2015-07-15 14:32:54:106] <6578> recvpostnum:
+DEBUG	[2015-07-15 14:32:54:106] <6578> recvmsg:
+DEBUG	[2015-07-15 14:32:54:106] <6578> joincard:
+DEBUG	[2015-07-15 14:32:54:106] <6578> joinexpire:
+DEBUG	[2015-07-15 14:32:54:106] <6578> id_customer:
+ERROR	[2015-07-15 14:32:54:113] <6578> « ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-15 14:32:54:113] <6578> END securepay [TX9224|« ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.007sec]
+INFO	[2015-07-15 14:32:54:113] <6578> ===============================================================
+INFO	[2015-07-15 14:33:28:516] <6828> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:33:28:516] <6828> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:33:28:516] <6828> type:securepay
+DEBUG	[2015-07-15 14:33:28:516] <6828> pgid:INIphp
+DEBUG	[2015-07-15 14:33:28:516] <6828> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:33:28:516] <6828> admin:1111
+DEBUG	[2015-07-15 14:33:28:516] <6828> debug:true
+DEBUG	[2015-07-15 14:33:28:516] <6828> uid:
+DEBUG	[2015-07-15 14:33:28:516] <6828> goodname:
+DEBUG	[2015-07-15 14:33:28:516] <6828> currency:
+DEBUG	[2015-07-15 14:33:28:516] <6828> mid:INIpayTest
+DEBUG	[2015-07-15 14:33:28:516] <6828> rn:MjAxNTA3MTUxNDMzMDUwOTA3NDg4Mg==
+
+DEBUG	[2015-07-15 14:33:28:516] <6828> price:1000
+DEBUG	[2015-07-15 14:33:28:516] <6828> enctype:
+DEBUG	[2015-07-15 14:33:28:516] <6828> buyername:
+DEBUG	[2015-07-15 14:33:28:516] <6828> buyertel:
+DEBUG	[2015-07-15 14:33:28:516] <6828> buyeremail:
+DEBUG	[2015-07-15 14:33:28:516] <6828> paymethod:
+DEBUG	[2015-07-15 14:33:28:516] <6828> encrypted:
+DEBUG	[2015-07-15 14:33:28:516] <6828> sessionkey:
+DEBUG	[2015-07-15 14:33:28:516] <6828> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:33:28:516] <6828> cardcode:
+DEBUG	[2015-07-15 14:33:28:516] <6828> parentemail:
+DEBUG	[2015-07-15 14:33:28:516] <6828> recvname:
+DEBUG	[2015-07-15 14:33:28:516] <6828> recvtel:
+DEBUG	[2015-07-15 14:33:28:516] <6828> recvaddr:
+DEBUG	[2015-07-15 14:33:28:516] <6828> recvpostnum:
+DEBUG	[2015-07-15 14:33:28:516] <6828> recvmsg:
+DEBUG	[2015-07-15 14:33:28:516] <6828> joincard:
+DEBUG	[2015-07-15 14:33:28:516] <6828> joinexpire:
+DEBUG	[2015-07-15 14:33:28:516] <6828> id_customer:
+ERROR	[2015-07-15 14:33:28:522] <6828> « ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-15 14:33:28:522] <6828> END securepay [TX9224|« ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-15 14:33:28:522] <6828> ===============================================================
+INFO	[2015-07-15 14:36:45:440] <6890> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:36:45:440] <6890> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:36:45:440] <6890> type:securepay
+DEBUG	[2015-07-15 14:36:45:440] <6890> pgid:INIphpISP_
+DEBUG	[2015-07-15 14:36:45:440] <6890> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:36:45:440] <6890> admin:1111
+DEBUG	[2015-07-15 14:36:45:440] <6890> debug:true
+DEBUG	[2015-07-15 14:36:45:440] <6890> uid:
+DEBUG	[2015-07-15 14:36:45:440] <6890> goodname:Ï∂ïÍµ¨Í≥µ
+DEBUG	[2015-07-15 14:36:45:440] <6890> currency:WON
+DEBUG	[2015-07-15 14:36:45:440] <6890> mid:INIpayTest
+DEBUG	[2015-07-15 14:36:45:440] <6890> rn:MjAxNTA3MTUxNDM1NTk0NjMxNDQ1NQ==
+
+DEBUG	[2015-07-15 14:36:45:440] <6890> price:1000
+DEBUG	[2015-07-15 14:36:45:440] <6890> enctype:
+DEBUG	[2015-07-15 14:36:45:440] <6890> buyername:ÌôçÍ∏∏Îèô
+DEBUG	[2015-07-15 14:36:45:440] <6890> buyertel:011-123-1234
+DEBUG	[2015-07-15 14:36:45:440] <6890> buyeremail:hkd@abcd.com
+DEBUG	[2015-07-15 14:36:45:440] <6890> paymethod:VCard
+DEBUG	[2015-07-15 14:36:45:440] <6890> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=oid_1234567890&ver_trace=main(6095,6058)vcard(6091)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&rn=3/jEtW4vAE1d6giA2+MTRpK7kOpwshqW6EoyMbWSizo=
+&VCode=050204040016666&VQuota=00&VNoint=0&ip=192.168.132.1&mac=005056C00008&cardpoint=9&custemail=hkd@abcd.com&price=4uDsrkVGcE4gjnub+tIuGLKwnbZZ5Wc=
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=FB4LEHNnhHF2DS72vz8cwBgs4i1yp5ynWu9x6nPwLHpdtPZ7yCASe2yILRzD1dFh%0d%0as890gIHe4TYsqbs74lAYnNUuRIG%2bOy%2bu51EgSmLOtyHvsnyNEL1Ib7AqVDf4Y6ke%0d%0ad%2fC%2fVL9vq1NvOYqg5wxA29qCA19FELV7oF30cY1cSvQ%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3dDtH%2ft%252bb42zFAe6r6LlPotU4aYJD2YiV8zOjPqOGIRlsB3KpjEJGtYwYe%2f7Rm8GUf%250aw3qLuW4Dp5qjkjFrovsqw%2fs2%2fiCKp2vKjl0SvIuFM8vEu12ycW3Poh%252bdNUC7dVM7%250aZvJsgIJVnw2YeTMPHiezWna%252b%252b4IAaJhCGIrXIIFkxr2scBa%252bvZDc3ago0W66CswB%250aqaWr6fW1gELTojwJ%2fc6fADHkr659PsN9gW746JgX3ZCOPplB5ExkwGdM7%252bK5YEDo%250aKK0ww%2fSJnRR84MdlisKR5zUbYK5IZ%252b3bAuDGdPDhxpyKFSsCyQyyllOM3KKYhYSp%250a5TVYkC%2fEfMs8b1JOYmxfszKHu0JQWh9RTklpNIHAbthgF42WJRzqQ%252bI2TJ9cYZt8%250aK7a0XvQSLvIHLJM3mY5zJL70Ih0iyAJAmW%252b3lsjTDcGEyJ%252bIRtRue%252bSe3AF7qwdD%250agsZcTAje9WLJtwFhAXxA4rdT1Z7aOKNDIXHnCA%2fizIXHkYq0fdRnQ32a%2fxqiJ8wv%250am5Csvpjl7h7AWav9KNR2%2fwEdxWMNV9ympmWi5645FLIdKUwBpS3udt5PVvAAiTl1%250aFS7TUO%252btBABcpIPeA%252bQwBLJSfmwaxhKry6TQ4wY2keU%253d%250a%26PubCert%3d&ts=150715143340AzsbA8D6oh4D7xM7Dj2Rww001082&src_flg=0&OSv=IE11_Win7 6.01.7601 SP1 Professional_64B (PL2) (notray:J) [Kisssig002] (61_secuni_npapi)&ip2=220.67.133.30
+DEBUG	[2015-07-15 14:36:45:440] <6890> sessionkey:VCard
+DEBUG	[2015-07-15 14:36:45:440] <6890> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:36:45:440] <6890> cardcode:06
+DEBUG	[2015-07-15 14:36:45:440] <6890> parentemail:parents@parents.com
+DEBUG	[2015-07-15 14:36:45:440] <6890> recvname:
+DEBUG	[2015-07-15 14:36:45:440] <6890> recvtel:
+DEBUG	[2015-07-15 14:36:45:440] <6890> recvaddr:
+DEBUG	[2015-07-15 14:36:45:440] <6890> recvpostnum:
+DEBUG	[2015-07-15 14:36:45:440] <6890> recvmsg:
+DEBUG	[2015-07-15 14:36:45:440] <6890> joincard:
+DEBUG	[2015-07-15 14:36:45:440] <6890> joinexpire:
+DEBUG	[2015-07-15 14:36:45:440] <6890> id_customer:
+INFO	[2015-07-15 14:36:45:440] <6890> Check Field OK
+INFO	[2015-07-15 14:36:45:440] <6890> Make TID OK INIphpISP_INIpayTest20150715143645403915
+INFO	[2015-07-15 14:36:45:440] <6890> PI PUB KEY LOAD OK [39]
+INFO	[2015-07-15 14:36:45:441] <6890> PG PUB KEY LOAD OK [30]
+INFO	[2015-07-15 14:36:45:441] <6890> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-15 14:36:45:441] <6890> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-07-15 14:36:45:443] <6890> MAKE BODY OK
+INFO	[2015-07-15 14:36:45:444] <6890> SIGN OK
+INFO	[2015-07-15 14:36:45:444] <6890> MAKE HEAD OK
+INFO	[2015-07-15 14:36:45:444] <6890> MSG_TO_PG:[0351800175R SHA1                   0                  39                  300200INIpayTest                1000INIphpISP_INIpayTest20150715143645403915<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>INIpayTest</SMID>
+	      <GoodsName urlencode="1">%EC%B6%95%EA%B5%AC%EA%B3%B5</GoodsName>
+	      <GoodsPrice>1000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%ED%99%8D%EA%B8%B8%EB%8F%99</BuyerName>
+	    <BuyerTel>011-123-1234</BuyerTel>
+	    <BuyerEmail urlencode="1">hkd%40abcd.com</BuyerEmail>
+	    <ParentEmail urlencode="1">parents%40parents.com</ParentEmail>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Doid_1234567890%26ver_trace%3Dmain%286095%2C6058%29vcard%286091%29card%286138%2C6122%29n%286008%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286006%29P%286033%29en%286052%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAE1d6giA2%2BMTRpK7kOpwshqW6EoyMbWSizo%3D%0D%0A%26VCode%3D050204040016666%26VQuota%3D00%26VNoint%3D0%26ip%3D192.168.132.1%26mac%3D005056C00008%26cardpoint%3D9%26custemail%3Dhkd%40abcd.com%26price%3D4uDsrkVGcE4gjnub%2BtIuGLKwnbZZ5Wc%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DFB4LEHNnhHF2DS72vz8cwBgs4i1yp5ynWu9x6nPwLHpdtPZ7yCASe2yILRzD1dFh%250d%250as890gIHe4TYsqbs74lAYnNUuRIG%252bOy%252bu51EgSmLOtyHvsnyNEL1Ib7AqVDf4Y6ke%250d%250ad%252fC%252fVL9vq1NvOYqg5wxA29qCA19FELV7oF30cY1cSvQ%253d%250d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253d%2526Data%253dDtH%252ft%25252bb42zFAe6r6LlPotU4aYJD2YiV8zOjPqOGIRlsB3KpjEJGtYwYe%252f7Rm8GUf%25250aw3qLuW4Dp5qjkjFrovsqw%252fs2%252fiCKp2vKjl0SvIuFM8vEu12ycW3Poh%25252bdNUC7dVM7%25250aZvJsgIJVnw2YeTMPHiezWna%25252b%25252b4IAaJhCGIrXIIFkxr2scBa%25252bvZDc3ago0W66CswB%25250aqaWr6fW1gELTojwJ%252fc6fADHkr659PsN9gW746JgX3ZCOPplB5ExkwGdM7%25252bK5YEDo%25250aKK0ww%252fSJnRR84MdlisKR5zUbYK5IZ%25252b3bAuDGdPDhxpyKFSsCyQyyllOM3KKYhYSp%25250a5TVYkC%252fEfMs8b1JOYmxfszKHu0JQWh9RTklpNIHAbthgF42WJRzqQ%25252bI2TJ9cYZt8%25250aK7a0XvQSLvIHLJM3mY5zJL70Ih0iyAJAmW%25252b3lsjTDcGEyJ%25252bIRtRue%25252bSe3AF7qwdD%25250agsZcTAje9WLJtwFhAXxA4rdT1Z7aOKNDIXHnCA%252fizIXHkYq0fdRnQ32a%252fxqiJ8wv%25250am5Csvpjl7h7AWav9KNR2%252fwEdxWMNV9ympmWi5645FLIdKUwBpS3udt5PVvAAiTl1%25250aFS7TUO%25252btBABcpIPeA%25252bQwBLJSfmwaxhKry6TQ4wY2keU%25253d%25250a%2526PubCert%253d%26ts%3D150715143340AzsbA8D6oh4D7xM7Dj2Rww001082%26src_flg%3D0%26OSv%3DIE11_Win7+6.01.7601+SP1+Professional_64B+%28PL2%29+%28notray%3AJ%29+%5BKisssig002%5D+%2861_secuni_npapi%29%26ip2%3D220.67.133.30</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.your_domain.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.13.0-44-genericPHP:5.5.9-1ub</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA3MTUxNDM1NTk0NjMxNDQ1NQ==
+</TXRN></ManageInfo></INIpay>hLbzhwTg/ZE6RL6wiRQ+2pg4y+GcvVYfhYAihrIxZjhvz9zqHnsUqH3T/lv8ZPGS
+LZhlauAgjaxO22HyBlatPSh0e0NTkzPr6dzkboX68nOu1eYrrRXEBr4uoo73uxoo
+EbdCFiAjvwozZau94JWoVaoFnlkyi/Vq4uzzp03Seak=
+]
+INFO	[2015-07-15 14:36:45:445] <6890> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-07-15 14:36:45:448] <6890> SOCKET CONNECT OK
+INFO	[2015-07-15 14:36:45:448] <6890> SEND OK
+INFO	[2015-07-15 14:36:46:865] <6890> RECV OK
+INFO	[2015-07-15 14:36:46:865] <6890> MSG_FROM_PG:[0285700175D SHA1                   0                  39                  300210INIpayTest                1000INIphpISP_INIpayTest20150715143645403915<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">oid_1234567890</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>INIpayTest</SMID>
+      <GoodsName urlencode="1">%EC%B6%95%EA%B5%AC%EA%B3%B5</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>1000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>YhJixaUE08bJwFIRsnCxGXxtlYhrvTVg/a+s0V9xlwTRinwkSUU3ZJcHr3o9icn4
+16uWuGEDL/AhVuvZjlm2OPGLlGax26VD/Hj1V+/Oc5yQAmMj+3Fdb0TPk+eViU3S
+xm3+g+OeSj9Yq6+j3fJitEyQ1+ZdQ/zP5DBflwu9FHnazkPpUxI6AQ==
+</SessionKey>
+      <Encrypted>2d1VsMK7safQqQnIEMDLRO72mqOzKAvGOG2DoBGdEqYtKcy7YglVzqq2vEw4vh9h
+wVlr3x85G8GkJ6l9MjsLK7kpaR+LPMvxsSHGdbTpVu1nXZnSmqJDR0VUFskv3pUG
+70SzkPgxaPpQRxjmQ1PYexRf9RpGosNyqWzAjqSIRgX+KMGYW/qeEgz33Xb6JYfc
+Oz4H3COMXtLT7Gjxdq6QNBQ6OYyY/eB/F7MmoC0iqBpN703sUzTG/Bf1fWGBZ0Lk
+s2JrFK9cSI258pg7sqwxDuzBkQEbUyQohINgJSaWKLEuz2E4byzAv18ixFYa1hkd
+x/8iqx+k2U2Ux8GrJE4rWIu07ZPnp0TSBF4WsAQemwc7GEkePca21Usxd2/uTxZI
+EKnFZd+Dw9tRqkPMCevMNpoKbbDdaOQOgSWcTLP7hwYW+guadx7PYB4eEc7b93oI
+T9iS7CYSlyRp/Pe5ETyNXbgGb/hpu9APF+0yK9fFyElbYUvYi4KEFm7zrecyTF+R
+F7Jeu1vb1a4TBzXlRSgJxKycixT38NbFaGPzRBpcyb+D5jCDv7h5uQnwqjxKNBdA
+0WXjTYkY+CcNl/BWWGSJJlY2f0Iuv+WzFnufqfKNcenXIs6s+O/AGCO0tNQ5j580
+W8HOVVmUxMFpYdO8yJS9BnJNZwEvNCexjntM/rFmOIm6b2lAG5QoU7WOc4Ql969l
+aDzbekNAcdXghaqEZz2N5V4JNHLcFUAFkLvmghqKMAJ2V+7sI+l4EuL4lwXYmnRw
+yII01+mpwkwlzHV8Faoi3/BS9Ecvuhw+7dXv10M3nTrgHdO/Hv4SwVHnAt6qNLT4
+iK05mkQPwEk5fveWtdIpcogkZLryPssw8rEEjrmleihXhf6azXXXTudfxYfPgg13
+bZoh3EX7y+tzzJgHKYPLjI8v8ihjH0DNAlz3JrmX+3XSfJKvq7XSgi9Jbs8aXY6r
+vsImBzLMP4VY54XD8+s4zKWGdy/fhWP1itD0deHU8U/LngUbCB4bJ99BFW8RA2S3
+TVUtCn4jXoFqQtGlnRQ2bJe5itjnXtOlNHKuBViXsim4xDPrndL1pb45rS3Jys0d
+GwzUFudPQxfrSMZoAEjZ7/7e26gOeLU5clLL7ZoI0aFaclcAhNwaEN2Zwor4BfDN
+ddFCSCVQzI8sT13+oPgK3YdeOBZmy1dCSOBqCG/wHVoMMhXz5jx/DeqzEZW6l1OZ
+LPojid+yhmZERjS3TyJyGogfeD0Jqj4I8XsrXQafBna6Cc3MXejxSHOIlJsko2Dw
+k6qbnk7PMAKWOOMENszkjYz5fMcFaodt0+eQFKFYfaXvJVDxMr2CZfTgTyee3f7G
+fkPr/5n9SwjTzPm8DcfrM0VqgqjizLL/XFXZHR+QKBTueKc2ihwT8bhTHTpZ38th
+POgG5xIBsCBkde0VsXzSSGSIDYYHn6IIOGmWqEuVMHjJ6W7kGpTlCXr5/Ed1aJFG
+o4QLROT8WJhmcwcRCsKXyJHKp731xLkxFjdqvP/npIAIXZttjdbHtVxKFKk6pBzL
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+kJQc3jVsZI2ZFp5u6+dDBVUynh9nCuw6Qfhb53sle5a1uA363UDLiqAFlwdDCJ4o
+HgvWeOn6/XAns1tW9Qmhk7x7WNigU6IoqFcgdhHMmCeXYSftl8Tl8nC+9eZJ5CXf
+sptdqB53H905TCQDVABSf+02ZOtRKHqD4DRNteJ2F4Y=
+]
+INFO	[2015-07-15 14:36:46:866] <6890> VERIFY OK
+INFO	[2015-07-15 14:36:46:866] <6890> PARSE HEAD OK
+INFO	[2015-07-15 14:36:46:868] <6890> PARSE BODY OK
+INFO	[2015-07-15 14:37:46:606] <4325> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:37:46:606] <4325> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:37:46:606] <4325> type:securepay
+DEBUG	[2015-07-15 14:37:46:606] <4325> pgid:INIphp
+DEBUG	[2015-07-15 14:37:46:606] <4325> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:37:46:606] <4325> admin:1111
+DEBUG	[2015-07-15 14:37:46:606] <4325> debug:true
+DEBUG	[2015-07-15 14:37:46:606] <4325> uid:
+DEBUG	[2015-07-15 14:37:46:606] <4325> goodname:
+DEBUG	[2015-07-15 14:37:46:606] <4325> currency:
+DEBUG	[2015-07-15 14:37:46:606] <4325> mid:INIpayTest
+DEBUG	[2015-07-15 14:37:46:606] <4325> rn:MjAxNTA3MTUxNDM1NTk0NjMxNDQ1NQ==
+
+DEBUG	[2015-07-15 14:37:46:606] <4325> price:1000
+DEBUG	[2015-07-15 14:37:46:606] <4325> enctype:
+DEBUG	[2015-07-15 14:37:46:606] <4325> buyername:
+DEBUG	[2015-07-15 14:37:46:606] <4325> buyertel:
+DEBUG	[2015-07-15 14:37:46:606] <4325> buyeremail:
+DEBUG	[2015-07-15 14:37:46:606] <4325> paymethod:
+DEBUG	[2015-07-15 14:37:46:606] <4325> encrypted:
+DEBUG	[2015-07-15 14:37:46:606] <4325> sessionkey:
+DEBUG	[2015-07-15 14:37:46:606] <4325> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:37:46:606] <4325> cardcode:
+DEBUG	[2015-07-15 14:37:46:606] <4325> parentemail:
+DEBUG	[2015-07-15 14:37:46:606] <4325> recvname:
+DEBUG	[2015-07-15 14:37:46:606] <4325> recvtel:
+DEBUG	[2015-07-15 14:37:46:606] <4325> recvaddr:
+DEBUG	[2015-07-15 14:37:46:606] <4325> recvpostnum:
+DEBUG	[2015-07-15 14:37:46:606] <4325> recvmsg:
+DEBUG	[2015-07-15 14:37:46:606] <4325> joincard:
+DEBUG	[2015-07-15 14:37:46:606] <4325> joinexpire:
+DEBUG	[2015-07-15 14:37:46:606] <4325> id_customer:
+ERROR	[2015-07-15 14:37:46:611] <4325> « ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-15 14:37:46:611] <4325> END securepay [TX9224|« ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-15 14:37:46:611] <4325> ===============================================================
+INFO	[2015-07-15 14:45:38:402] <4323> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-15 14:45:38:402] <4323> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-15 14:45:38:402] <4323> type:securepay
+DEBUG	[2015-07-15 14:45:38:402] <4323> pgid:INIphp
+DEBUG	[2015-07-15 14:45:38:402] <4323> subpgip:203.238.3.10
+DEBUG	[2015-07-15 14:45:38:402] <4323> admin:1111
+DEBUG	[2015-07-15 14:45:38:402] <4323> debug:true
+DEBUG	[2015-07-15 14:45:38:402] <4323> uid:
+DEBUG	[2015-07-15 14:45:38:402] <4323> goodname:
+DEBUG	[2015-07-15 14:45:38:402] <4323> currency:
+DEBUG	[2015-07-15 14:45:38:402] <4323> mid:INIpayTest
+DEBUG	[2015-07-15 14:45:38:402] <4323> rn:MjAxNTA3MTUxNDM1NTk0NjMxNDQ1NQ==
+
+DEBUG	[2015-07-15 14:45:38:402] <4323> price:1000
+DEBUG	[2015-07-15 14:45:38:402] <4323> enctype:
+DEBUG	[2015-07-15 14:45:38:402] <4323> buyername:
+DEBUG	[2015-07-15 14:45:38:402] <4323> buyertel:
+DEBUG	[2015-07-15 14:45:38:402] <4323> buyeremail:
+DEBUG	[2015-07-15 14:45:38:402] <4323> paymethod:
+DEBUG	[2015-07-15 14:45:38:402] <4323> encrypted:
+DEBUG	[2015-07-15 14:45:38:402] <4323> sessionkey:
+DEBUG	[2015-07-15 14:45:38:402] <4323> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-15 14:45:38:402] <4323> cardcode:
+DEBUG	[2015-07-15 14:45:38:402] <4323> parentemail:
+DEBUG	[2015-07-15 14:45:38:402] <4323> recvname:
+DEBUG	[2015-07-15 14:45:38:402] <4323> recvtel:
+DEBUG	[2015-07-15 14:45:38:402] <4323> recvaddr:
+DEBUG	[2015-07-15 14:45:38:402] <4323> recvpostnum:
+DEBUG	[2015-07-15 14:45:38:402] <4323> recvmsg:
+DEBUG	[2015-07-15 14:45:38:402] <4323> joincard:
+DEBUG	[2015-07-15 14:45:38:402] <4323> joinexpire:
+DEBUG	[2015-07-15 14:45:38:402] <4323> id_customer:
+ERROR	[2015-07-15 14:45:38:410] <4323> « ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-15 14:45:38:410] <4323> END securepay [TX9224|« ºˆ«◊∏Ò(currency)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.009sec]
+INFO	[2015-07-15 14:45:38:410] <4323> ===============================================================

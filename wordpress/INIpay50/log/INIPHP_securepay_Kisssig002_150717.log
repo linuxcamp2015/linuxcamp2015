@@ -1,0 +1,342 @@
+INFO	[2015-07-17 18:32:25:717] <31342> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 18:32:25:717] <31342> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 18:32:25:717] <31342> type:chkfake
+DEBUG	[2015-07-17 18:32:25:717] <31342> debug:true
+DEBUG	[2015-07-17 18:32:25:717] <31342> enctype:asym
+DEBUG	[2015-07-17 18:32:25:717] <31342> admin:1111
+DEBUG	[2015-07-17 18:32:25:717] <31342> checkopt:false
+DEBUG	[2015-07-17 18:32:25:717] <31342> mid:Kisssig002
+DEBUG	[2015-07-17 18:32:25:717] <31342> price:1000
+DEBUG	[2015-07-17 18:32:25:717] <31342> nointerest:no
+DEBUG	[2015-07-17 18:32:25:717] <31342> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 18:32:25:717] <31342> Check Field OK
+INFO	[2015-07-17 18:32:25:717] <31342> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 18:32:25:718] <31342> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 18:32:25:719] <31342> CHKFAKE KEY MAKE OK:MjAxNTA3MTcxODMyMjU3MTgxNDA0OA==
+
+INFO	[2015-07-17 18:32:25:719] <31342> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 18:32:25:719] <31342> ===============================================================
+INFO	[2015-07-17 18:34:19:356] <9861> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 18:34:19:356] <9861> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 18:34:19:356] <9861> type:chkfake
+DEBUG	[2015-07-17 18:34:19:356] <9861> debug:true
+DEBUG	[2015-07-17 18:34:19:356] <9861> enctype:asym
+DEBUG	[2015-07-17 18:34:19:356] <9861> admin:1111
+DEBUG	[2015-07-17 18:34:19:356] <9861> checkopt:false
+DEBUG	[2015-07-17 18:34:19:356] <9861> mid:Kisssig002
+DEBUG	[2015-07-17 18:34:19:356] <9861> price:1000
+DEBUG	[2015-07-17 18:34:19:356] <9861> nointerest:no
+DEBUG	[2015-07-17 18:34:19:356] <9861> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 18:34:19:356] <9861> Check Field OK
+INFO	[2015-07-17 18:34:19:356] <9861> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 18:34:19:357] <9861> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 18:34:19:358] <9861> CHKFAKE KEY MAKE OK:MjAxNTA3MTcxODM0MTkzNTcxMDU1NQ==
+
+INFO	[2015-07-17 18:34:19:358] <9861> END chkfake  Laptime:[0.007sec]
+INFO	[2015-07-17 18:34:19:358] <9861> ===============================================================
+INFO	[2015-07-17 18:41:51:717] <9154> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 18:41:51:717] <9154> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 18:41:51:717] <9154> type:chkfake
+DEBUG	[2015-07-17 18:41:51:717] <9154> debug:true
+DEBUG	[2015-07-17 18:41:51:717] <9154> enctype:asym
+DEBUG	[2015-07-17 18:41:51:717] <9154> admin:1111
+DEBUG	[2015-07-17 18:41:51:717] <9154> checkopt:false
+DEBUG	[2015-07-17 18:41:51:717] <9154> mid:Kisssig002
+DEBUG	[2015-07-17 18:41:51:717] <9154> price:1000
+DEBUG	[2015-07-17 18:41:51:717] <9154> nointerest:no
+DEBUG	[2015-07-17 18:41:51:717] <9154> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 18:41:51:717] <9154> Check Field OK
+INFO	[2015-07-17 18:41:51:718] <9154> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 18:41:51:718] <9154> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 18:41:51:720] <9154> CHKFAKE KEY MAKE OK:MjAxNTA3MTcxODQxNTE3MTgzMTIwNw==
+
+INFO	[2015-07-17 18:41:51:720] <9154> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 18:41:51:720] <9154> ===============================================================
+INFO	[2015-07-17 20:01:44:155] <9860> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:01:44:155] <9860> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:01:44:155] <9860> type:chkfake
+DEBUG	[2015-07-17 20:01:44:155] <9860> debug:true
+DEBUG	[2015-07-17 20:01:44:155] <9860> enctype:asym
+DEBUG	[2015-07-17 20:01:44:155] <9860> admin:1111
+DEBUG	[2015-07-17 20:01:44:155] <9860> checkopt:false
+DEBUG	[2015-07-17 20:01:44:155] <9860> mid:Kisssig002
+DEBUG	[2015-07-17 20:01:44:155] <9860> price:500000
+DEBUG	[2015-07-17 20:01:44:155] <9860> nointerest:no
+DEBUG	[2015-07-17 20:01:44:155] <9860> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:01:44:155] <9860> Check Field OK
+INFO	[2015-07-17 20:01:44:156] <9860> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:01:44:156] <9860> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:01:44:158] <9860> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDAxNDQxNTYxMDQ1Mw==
+
+INFO	[2015-07-17 20:01:44:158] <9860> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 20:01:44:158] <9860> ===============================================================
+INFO	[2015-07-17 20:02:04:81] <31342> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:02:04:82] <31342> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:02:04:82] <31342> type:chkfake
+DEBUG	[2015-07-17 20:02:04:82] <31342> debug:true
+DEBUG	[2015-07-17 20:02:04:82] <31342> enctype:asym
+DEBUG	[2015-07-17 20:02:04:82] <31342> admin:1111
+DEBUG	[2015-07-17 20:02:04:82] <31342> checkopt:false
+DEBUG	[2015-07-17 20:02:04:82] <31342> mid:Kisssig002
+DEBUG	[2015-07-17 20:02:04:82] <31342> price:500000
+DEBUG	[2015-07-17 20:02:04:82] <31342> nointerest:no
+DEBUG	[2015-07-17 20:02:04:82] <31342> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:02:04:82] <31342> Check Field OK
+INFO	[2015-07-17 20:02:04:82] <31342> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:02:04:82] <31342> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:02:04:84] <31342> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDAyMDQwODIxODc1Ng==
+
+INFO	[2015-07-17 20:02:04:84] <31342> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 20:02:04:84] <31342> ===============================================================
+INFO	[2015-07-17 20:24:13:530] <9801> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:24:13:530] <9801> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:24:13:530] <9801> type:chkfake
+DEBUG	[2015-07-17 20:24:13:530] <9801> debug:true
+DEBUG	[2015-07-17 20:24:13:530] <9801> enctype:asym
+DEBUG	[2015-07-17 20:24:13:530] <9801> admin:1111
+DEBUG	[2015-07-17 20:24:13:530] <9801> checkopt:false
+DEBUG	[2015-07-17 20:24:13:530] <9801> mid:Kisssig002
+DEBUG	[2015-07-17 20:24:13:530] <9801> price:500000
+DEBUG	[2015-07-17 20:24:13:530] <9801> nointerest:no
+DEBUG	[2015-07-17 20:24:13:530] <9801> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:24:13:531] <9801> Check Field OK
+INFO	[2015-07-17 20:24:13:531] <9801> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:24:13:531] <9801> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:24:13:533] <9801> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDI0MTM1MzE2NjQ5Ng==
+
+INFO	[2015-07-17 20:24:13:533] <9801> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 20:24:13:533] <9801> ===============================================================
+INFO	[2015-07-17 20:24:18:294] <9801> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:24:18:294] <9801> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:24:18:294] <9801> type:chkfake
+DEBUG	[2015-07-17 20:24:18:294] <9801> debug:true
+DEBUG	[2015-07-17 20:24:18:294] <9801> enctype:asym
+DEBUG	[2015-07-17 20:24:18:294] <9801> admin:1111
+DEBUG	[2015-07-17 20:24:18:294] <9801> checkopt:false
+DEBUG	[2015-07-17 20:24:18:294] <9801> mid:Kisssig002
+DEBUG	[2015-07-17 20:24:18:294] <9801> price:500000
+DEBUG	[2015-07-17 20:24:18:294] <9801> nointerest:no
+DEBUG	[2015-07-17 20:24:18:294] <9801> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:24:18:294] <9801> Check Field OK
+INFO	[2015-07-17 20:24:18:295] <9801> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:24:18:295] <9801> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:24:18:296] <9801> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDI0MTgyOTUzMjY4Nw==
+
+INFO	[2015-07-17 20:24:18:296] <9801> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 20:24:18:297] <9801> ===============================================================
+INFO	[2015-07-17 20:37:43:484] <9154> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:37:43:484] <9154> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:37:43:484] <9154> type:chkfake
+DEBUG	[2015-07-17 20:37:43:484] <9154> debug:true
+DEBUG	[2015-07-17 20:37:43:484] <9154> enctype:asym
+DEBUG	[2015-07-17 20:37:43:484] <9154> admin:1111
+DEBUG	[2015-07-17 20:37:43:484] <9154> checkopt:false
+DEBUG	[2015-07-17 20:37:43:484] <9154> mid:Kisssig002
+DEBUG	[2015-07-17 20:37:43:484] <9154> price:500000
+DEBUG	[2015-07-17 20:37:43:484] <9154> nointerest:no
+DEBUG	[2015-07-17 20:37:43:484] <9154> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:37:43:484] <9154> Check Field OK
+INFO	[2015-07-17 20:37:43:484] <9154> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:37:43:484] <9154> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:37:43:486] <9154> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDM3NDM0ODQ1MjY4Ng==
+
+INFO	[2015-07-17 20:37:43:486] <9154> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 20:37:43:486] <9154> ===============================================================
+INFO	[2015-07-17 20:41:57:122] <8908> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:41:57:122] <8908> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:41:57:122] <8908> type:chkfake
+DEBUG	[2015-07-17 20:41:57:122] <8908> debug:true
+DEBUG	[2015-07-17 20:41:57:122] <8908> enctype:asym
+DEBUG	[2015-07-17 20:41:57:122] <8908> admin:1111
+DEBUG	[2015-07-17 20:41:57:122] <8908> checkopt:false
+DEBUG	[2015-07-17 20:41:57:122] <8908> mid:Kisssig002
+DEBUG	[2015-07-17 20:41:57:122] <8908> price:500000
+DEBUG	[2015-07-17 20:41:57:122] <8908> nointerest:no
+DEBUG	[2015-07-17 20:41:57:122] <8908> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:41:57:122] <8908> Check Field OK
+INFO	[2015-07-17 20:41:57:123] <8908> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:41:57:123] <8908> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:41:57:125] <8908> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDQxNTcxMjM5Mzk4Nw==
+
+INFO	[2015-07-17 20:41:57:125] <8908> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 20:41:57:125] <8908> ===============================================================
+INFO	[2015-07-17 20:50:27:838] <9802> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:50:27:838] <9802> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:50:27:838] <9802> type:chkfake
+DEBUG	[2015-07-17 20:50:27:838] <9802> debug:true
+DEBUG	[2015-07-17 20:50:27:838] <9802> enctype:asym
+DEBUG	[2015-07-17 20:50:27:838] <9802> admin:1111
+DEBUG	[2015-07-17 20:50:27:838] <9802> checkopt:false
+DEBUG	[2015-07-17 20:50:27:838] <9802> mid:Kisssig002
+DEBUG	[2015-07-17 20:50:27:838] <9802> price:1000
+DEBUG	[2015-07-17 20:50:27:838] <9802> nointerest:no
+DEBUG	[2015-07-17 20:50:27:838] <9802> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:50:27:838] <9802> Check Field OK
+INFO	[2015-07-17 20:50:27:838] <9802> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:50:27:839] <9802> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:50:27:840] <9802> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDUwMjc4Mzk5MDM4NA==
+
+INFO	[2015-07-17 20:50:27:840] <9802> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 20:50:27:840] <9802> ===============================================================
+INFO	[2015-07-17 20:50:44:816] <9801> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 20:50:44:816] <9801> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 20:50:44:816] <9801> type:chkfake
+DEBUG	[2015-07-17 20:50:44:816] <9801> debug:true
+DEBUG	[2015-07-17 20:50:44:816] <9801> enctype:asym
+DEBUG	[2015-07-17 20:50:44:816] <9801> admin:1111
+DEBUG	[2015-07-17 20:50:44:816] <9801> checkopt:false
+DEBUG	[2015-07-17 20:50:44:816] <9801> mid:Kisssig002
+DEBUG	[2015-07-17 20:50:44:816] <9801> price:1000
+DEBUG	[2015-07-17 20:50:44:816] <9801> nointerest:no
+DEBUG	[2015-07-17 20:50:44:816] <9801> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 20:50:44:817] <9801> Check Field OK
+INFO	[2015-07-17 20:50:44:817] <9801> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 20:50:44:817] <9801> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 20:50:44:818] <9801> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMDUwNDQ4MTcyMjI1MQ==
+
+INFO	[2015-07-17 20:50:44:819] <9801> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 20:50:44:819] <9801> ===============================================================
+INFO	[2015-07-17 21:05:30:308] <9154> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 21:05:30:308] <9154> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 21:05:30:308] <9154> type:chkfake
+DEBUG	[2015-07-17 21:05:30:308] <9154> debug:true
+DEBUG	[2015-07-17 21:05:30:308] <9154> enctype:asym
+DEBUG	[2015-07-17 21:05:30:308] <9154> admin:1111
+DEBUG	[2015-07-17 21:05:30:308] <9154> checkopt:false
+DEBUG	[2015-07-17 21:05:30:308] <9154> mid:Kisssig002
+DEBUG	[2015-07-17 21:05:30:308] <9154> price:500000
+DEBUG	[2015-07-17 21:05:30:308] <9154> nointerest:no
+DEBUG	[2015-07-17 21:05:30:308] <9154> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 21:05:30:308] <9154> Check Field OK
+INFO	[2015-07-17 21:05:30:308] <9154> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 21:05:30:309] <9154> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 21:05:30:310] <9154> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMTA1MzAzMDk1ODkxNA==
+
+INFO	[2015-07-17 21:05:30:310] <9154> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 21:05:30:310] <9154> ===============================================================
+INFO	[2015-07-17 21:09:01:396] <8908> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 21:09:01:396] <8908> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 21:09:01:396] <8908> type:chkfake
+DEBUG	[2015-07-17 21:09:01:396] <8908> debug:true
+DEBUG	[2015-07-17 21:09:01:396] <8908> enctype:asym
+DEBUG	[2015-07-17 21:09:01:396] <8908> admin:1111
+DEBUG	[2015-07-17 21:09:01:396] <8908> checkopt:false
+DEBUG	[2015-07-17 21:09:01:396] <8908> mid:Kisssig002
+DEBUG	[2015-07-17 21:09:01:396] <8908> price:500000
+DEBUG	[2015-07-17 21:09:01:396] <8908> nointerest:no
+DEBUG	[2015-07-17 21:09:01:396] <8908> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 21:09:01:396] <8908> Check Field OK
+INFO	[2015-07-17 21:09:01:396] <8908> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 21:09:01:396] <8908> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 21:09:01:398] <8908> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMTA5MDEzOTc0NzM2Mw==
+
+INFO	[2015-07-17 21:09:01:398] <8908> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 21:09:01:398] <8908> ===============================================================
+INFO	[2015-07-17 21:33:39:68] <31342> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 21:33:39:68] <31342> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 21:33:39:68] <31342> type:chkfake
+DEBUG	[2015-07-17 21:33:39:68] <31342> debug:true
+DEBUG	[2015-07-17 21:33:39:68] <31342> enctype:asym
+DEBUG	[2015-07-17 21:33:39:68] <31342> admin:1111
+DEBUG	[2015-07-17 21:33:39:68] <31342> checkopt:false
+DEBUG	[2015-07-17 21:33:39:68] <31342> mid:Kisssig002
+DEBUG	[2015-07-17 21:33:39:68] <31342> price:500000
+DEBUG	[2015-07-17 21:33:39:68] <31342> nointerest:no
+DEBUG	[2015-07-17 21:33:39:68] <31342> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-17 21:33:39:68] <31342> Check Field OK
+INFO	[2015-07-17 21:33:39:68] <31342> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 21:33:39:68] <31342> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 21:33:39:70] <31342> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMTMzMzkwNjk3MTc3NQ==
+
+INFO	[2015-07-17 21:33:39:70] <31342> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 21:33:39:70] <31342> ===============================================================
+INFO	[2015-07-17 23:05:57:429] <12638> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 23:05:57:429] <12638> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 23:05:57:429] <12638> type:chkfake
+DEBUG	[2015-07-17 23:05:57:429] <12638> debug:true
+DEBUG	[2015-07-17 23:05:57:429] <12638> enctype:asym
+DEBUG	[2015-07-17 23:05:57:429] <12638> admin:1111
+DEBUG	[2015-07-17 23:05:57:429] <12638> checkopt:false
+DEBUG	[2015-07-17 23:05:57:429] <12638> mid:Kisssig002
+DEBUG	[2015-07-17 23:05:57:429] <12638> price:500000
+DEBUG	[2015-07-17 23:05:57:429] <12638> nointerest:no
+DEBUG	[2015-07-17 23:05:57:429] <12638> quotabase:º±≈√:¿œΩ√∫“:2∞≥ø˘:3∞≥ø˘:6∞≥ø˘
+INFO	[2015-07-17 23:05:57:429] <12638> Check Field OK
+INFO	[2015-07-17 23:05:57:429] <12638> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 23:05:57:430] <12638> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 23:05:57:430] <12638> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMzA1NTc0MzA0NjQ5MQ==
+
+INFO	[2015-07-17 23:05:57:430] <12638> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 23:05:57:430] <12638> ===============================================================
+INFO	[2015-07-17 23:10:11:927] <12629> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 23:10:11:927] <12629> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 23:10:11:927] <12629> type:chkfake
+DEBUG	[2015-07-17 23:10:11:927] <12629> debug:true
+DEBUG	[2015-07-17 23:10:11:927] <12629> enctype:asym
+DEBUG	[2015-07-17 23:10:11:927] <12629> admin:1111
+DEBUG	[2015-07-17 23:10:11:927] <12629> checkopt:false
+DEBUG	[2015-07-17 23:10:11:927] <12629> mid:Kisssig002
+DEBUG	[2015-07-17 23:10:11:927] <12629> price:500000
+DEBUG	[2015-07-17 23:10:11:927] <12629> nointerest:no
+DEBUG	[2015-07-17 23:10:11:927] <12629> quotabase:º±≈√:¿œΩ√∫“:2∞≥ø˘:3∞≥ø˘:6∞≥ø˘
+INFO	[2015-07-17 23:10:11:927] <12629> Check Field OK
+INFO	[2015-07-17 23:10:11:927] <12629> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 23:10:11:928] <12629> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 23:10:11:929] <12629> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMzEwMTE5Mjg0MDMxNg==
+
+INFO	[2015-07-17 23:10:11:929] <12629> END chkfake  Laptime:[0.005sec]
+INFO	[2015-07-17 23:10:11:929] <12629> ===============================================================
+INFO	[2015-07-17 23:13:42:44] <12631> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 23:13:42:44] <12631> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 23:13:42:44] <12631> type:chkfake
+DEBUG	[2015-07-17 23:13:42:44] <12631> debug:true
+DEBUG	[2015-07-17 23:13:42:44] <12631> enctype:asym
+DEBUG	[2015-07-17 23:13:42:44] <12631> admin:1111
+DEBUG	[2015-07-17 23:13:42:44] <12631> checkopt:false
+DEBUG	[2015-07-17 23:13:42:44] <12631> mid:Kisssig002
+DEBUG	[2015-07-17 23:13:42:44] <12631> price:500000
+DEBUG	[2015-07-17 23:13:42:44] <12631> nointerest:no
+DEBUG	[2015-07-17 23:13:42:44] <12631> quotabase:º±≈√:¿œΩ√∫“:2∞≥ø˘:3∞≥ø˘:6∞≥ø˘
+INFO	[2015-07-17 23:13:42:44] <12631> Check Field OK
+INFO	[2015-07-17 23:13:42:45] <12631> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 23:13:42:45] <12631> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 23:13:42:47] <12631> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMzEzNDIwNDU3OTMwMA==
+
+INFO	[2015-07-17 23:13:42:47] <12631> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-17 23:13:42:47] <12631> ===============================================================
+INFO	[2015-07-17 23:21:11:129] <12631> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 23:21:11:129] <12631> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 23:21:11:129] <12631> type:chkfake
+DEBUG	[2015-07-17 23:21:11:129] <12631> debug:true
+DEBUG	[2015-07-17 23:21:11:129] <12631> enctype:asym
+DEBUG	[2015-07-17 23:21:11:129] <12631> admin:1111
+DEBUG	[2015-07-17 23:21:11:129] <12631> checkopt:false
+DEBUG	[2015-07-17 23:21:11:129] <12631> mid:Kisssig002
+DEBUG	[2015-07-17 23:21:11:129] <12631> price:500000
+DEBUG	[2015-07-17 23:21:11:129] <12631> nointerest:no
+DEBUG	[2015-07-17 23:21:11:129] <12631> quotabase:º±≈√:¿œΩ√∫“:2∞≥ø˘:3∞≥ø˘:6∞≥ø˘
+INFO	[2015-07-17 23:21:11:129] <12631> Check Field OK
+INFO	[2015-07-17 23:21:11:129] <12631> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 23:21:11:129] <12631> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 23:21:11:131] <12631> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMzIxMTExMjk1MzcyOQ==
+
+INFO	[2015-07-17 23:21:11:131] <12631> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 23:21:11:131] <12631> ===============================================================
+INFO	[2015-07-17 23:31:14:538] <12638> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-17 23:31:14:538] <12638> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-17 23:31:14:538] <12638> type:chkfake
+DEBUG	[2015-07-17 23:31:14:538] <12638> debug:true
+DEBUG	[2015-07-17 23:31:14:538] <12638> enctype:asym
+DEBUG	[2015-07-17 23:31:14:538] <12638> admin:1111
+DEBUG	[2015-07-17 23:31:14:538] <12638> checkopt:false
+DEBUG	[2015-07-17 23:31:14:538] <12638> mid:Kisssig002
+DEBUG	[2015-07-17 23:31:14:538] <12638> price:500000
+DEBUG	[2015-07-17 23:31:14:538] <12638> nointerest:no
+DEBUG	[2015-07-17 23:31:14:538] <12638> quotabase:º±≈√:¿œΩ√∫“:2∞≥ø˘:3∞≥ø˘:6∞≥ø˘
+INFO	[2015-07-17 23:31:14:538] <12638> Check Field OK
+INFO	[2015-07-17 23:31:14:539] <12638> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-17 23:31:14:539] <12638> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-17 23:31:14:540] <12638> CHKFAKE KEY MAKE OK:MjAxNTA3MTcyMzMxMTQ1Mzk1MzgyOQ==
+
+INFO	[2015-07-17 23:31:14:541] <12638> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-17 23:31:14:541] <12638> ===============================================================

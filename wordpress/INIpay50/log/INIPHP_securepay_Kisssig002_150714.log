@@ -1,0 +1,834 @@
+INFO	[2015-07-14 16:52:43:989] <23658> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:52:43:989] <23658> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:52:43:989] <23658> type:chkfake
+DEBUG	[2015-07-14 16:52:43:989] <23658> debug:true
+DEBUG	[2015-07-14 16:52:43:989] <23658> enctype:asym
+DEBUG	[2015-07-14 16:52:43:989] <23658> admin:1111
+DEBUG	[2015-07-14 16:52:43:989] <23658> checkopt:false
+DEBUG	[2015-07-14 16:52:43:989] <23658> mid:Kisssig002
+DEBUG	[2015-07-14 16:52:43:989] <23658> price:1000
+DEBUG	[2015-07-14 16:52:43:989] <23658> nointerest:no
+DEBUG	[2015-07-14 16:52:43:989] <23658> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 16:52:43:989] <23658> Check Field OK
+INFO	[2015-07-14 16:52:43:990] <23658> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 16:52:43:990] <23658> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 16:52:43:992] <23658> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNjUyNDM5OTA2MDEzOQ==
+
+INFO	[2015-07-14 16:52:43:992] <23658> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 16:52:43:992] <23658> ===============================================================
+INFO	[2015-07-14 16:55:50:23] <23655> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:55:50:23] <23655> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:55:50:23] <23655> type:chkfake
+DEBUG	[2015-07-14 16:55:50:23] <23655> debug:true
+DEBUG	[2015-07-14 16:55:50:23] <23655> enctype:asym
+DEBUG	[2015-07-14 16:55:50:23] <23655> admin:1111
+DEBUG	[2015-07-14 16:55:50:23] <23655> checkopt:false
+DEBUG	[2015-07-14 16:55:50:23] <23655> mid:Kisssig002
+DEBUG	[2015-07-14 16:55:50:23] <23655> price:1000
+DEBUG	[2015-07-14 16:55:50:23] <23655> nointerest:no
+DEBUG	[2015-07-14 16:55:50:23] <23655> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 16:55:50:24] <23655> Check Field OK
+INFO	[2015-07-14 16:55:50:24] <23655> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 16:55:50:24] <23655> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 16:55:50:26] <23655> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNjU1NTAwMjQ3NDgwMw==
+
+INFO	[2015-07-14 16:55:50:26] <23655> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 16:55:50:26] <23655> ===============================================================
+INFO	[2015-07-14 16:56:43:640] <23642> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:56:43:640] <23642> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:56:43:640] <23642> type:securepay
+DEBUG	[2015-07-14 16:56:43:640] <23642> pgid:INIphp
+DEBUG	[2015-07-14 16:56:43:640] <23642> subpgip:203.238.3.10
+DEBUG	[2015-07-14 16:56:43:640] <23642> admin:1111
+DEBUG	[2015-07-14 16:56:43:640] <23642> debug:true
+DEBUG	[2015-07-14 16:56:43:640] <23642> uid:
+DEBUG	[2015-07-14 16:56:43:640] <23642> goodname:Ï∂ïÍµ¨Í≥µ
+DEBUG	[2015-07-14 16:56:43:640] <23642> currency:WON
+DEBUG	[2015-07-14 16:56:43:640] <23642> mid:Kisssig002
+DEBUG	[2015-07-14 16:56:43:640] <23642> rn:MjAxNTA3MTQxNjU1NTAwMjQ3NDgwMw==
+
+DEBUG	[2015-07-14 16:56:43:640] <23642> price:10
+DEBUG	[2015-07-14 16:56:43:640] <23642> enctype:
+DEBUG	[2015-07-14 16:56:43:640] <23642> buyername:ÌôçÍ∏∏Îèô
+DEBUG	[2015-07-14 16:56:43:640] <23642> buyertel:011-123-1234
+DEBUG	[2015-07-14 16:56:43:640] <23642> buyeremail:hkd@abcd.com
+DEBUG	[2015-07-14 16:56:43:640] <23642> paymethod:
+DEBUG	[2015-07-14 16:56:43:640] <23642> encrypted:
+DEBUG	[2015-07-14 16:56:43:640] <23642> sessionkey:
+DEBUG	[2015-07-14 16:56:43:640] <23642> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 16:56:43:640] <23642> cardcode:
+DEBUG	[2015-07-14 16:56:43:640] <23642> parentemail:parents@parents.com
+DEBUG	[2015-07-14 16:56:43:640] <23642> recvname:
+DEBUG	[2015-07-14 16:56:43:640] <23642> recvtel:
+DEBUG	[2015-07-14 16:56:43:640] <23642> recvaddr:
+DEBUG	[2015-07-14 16:56:43:640] <23642> recvpostnum:
+DEBUG	[2015-07-14 16:56:43:640] <23642> recvmsg:
+DEBUG	[2015-07-14 16:56:43:640] <23642> joincard:
+DEBUG	[2015-07-14 16:56:43:640] <23642> joinexpire:
+DEBUG	[2015-07-14 16:56:43:640] <23642> id_customer:
+ERROR	[2015-07-14 16:56:43:645] <23642> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 16:56:43:646] <23642> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 16:56:43:646] <23642> ===============================================================
+INFO	[2015-07-14 16:56:54:696] <23657> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:56:54:696] <23657> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:56:54:696] <23657> type:chkfake
+DEBUG	[2015-07-14 16:56:54:696] <23657> debug:true
+DEBUG	[2015-07-14 16:56:54:696] <23657> enctype:asym
+DEBUG	[2015-07-14 16:56:54:696] <23657> admin:1111
+DEBUG	[2015-07-14 16:56:54:696] <23657> checkopt:false
+DEBUG	[2015-07-14 16:56:54:696] <23657> mid:Kisssig002
+DEBUG	[2015-07-14 16:56:54:696] <23657> price:1000
+DEBUG	[2015-07-14 16:56:54:696] <23657> nointerest:no
+DEBUG	[2015-07-14 16:56:54:696] <23657> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 16:56:54:697] <23657> Check Field OK
+INFO	[2015-07-14 16:56:54:697] <23657> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 16:56:54:697] <23657> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 16:56:54:699] <23657> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNjU2NTQ2OTc5ODM2NQ==
+
+INFO	[2015-07-14 16:56:54:699] <23657> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 16:56:54:699] <23657> ===============================================================
+INFO	[2015-07-14 16:56:57:964] <23657> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:56:57:965] <23657> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:56:57:965] <23657> type:securepay
+DEBUG	[2015-07-14 16:56:57:965] <23657> pgid:INIphp
+DEBUG	[2015-07-14 16:56:57:965] <23657> subpgip:203.238.3.10
+DEBUG	[2015-07-14 16:56:57:965] <23657> admin:1111
+DEBUG	[2015-07-14 16:56:57:965] <23657> debug:true
+DEBUG	[2015-07-14 16:56:57:965] <23657> uid:
+DEBUG	[2015-07-14 16:56:57:965] <23657> goodname:Ï∂ïÍµ¨Í≥µ
+DEBUG	[2015-07-14 16:56:57:965] <23657> currency:WON
+DEBUG	[2015-07-14 16:56:57:965] <23657> mid:Kisssig002
+DEBUG	[2015-07-14 16:56:57:965] <23657> rn:MjAxNTA3MTQxNjU2NTQ2OTc5ODM2NQ==
+
+DEBUG	[2015-07-14 16:56:57:965] <23657> price:10
+DEBUG	[2015-07-14 16:56:57:965] <23657> enctype:
+DEBUG	[2015-07-14 16:56:57:965] <23657> buyername:ÌôçÍ∏∏Îèô
+DEBUG	[2015-07-14 16:56:57:965] <23657> buyertel:011-123-1234
+DEBUG	[2015-07-14 16:56:57:965] <23657> buyeremail:hkd@abcd.com
+DEBUG	[2015-07-14 16:56:57:965] <23657> paymethod:
+DEBUG	[2015-07-14 16:56:57:965] <23657> encrypted:
+DEBUG	[2015-07-14 16:56:57:965] <23657> sessionkey:
+DEBUG	[2015-07-14 16:56:57:965] <23657> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 16:56:57:965] <23657> cardcode:
+DEBUG	[2015-07-14 16:56:57:965] <23657> parentemail:parents@parents.com
+DEBUG	[2015-07-14 16:56:57:965] <23657> recvname:
+DEBUG	[2015-07-14 16:56:57:965] <23657> recvtel:
+DEBUG	[2015-07-14 16:56:57:965] <23657> recvaddr:
+DEBUG	[2015-07-14 16:56:57:965] <23657> recvpostnum:
+DEBUG	[2015-07-14 16:56:57:965] <23657> recvmsg:
+DEBUG	[2015-07-14 16:56:57:965] <23657> joincard:
+DEBUG	[2015-07-14 16:56:57:965] <23657> joinexpire:
+DEBUG	[2015-07-14 16:56:57:965] <23657> id_customer:
+ERROR	[2015-07-14 16:56:57:970] <23657> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 16:56:57:970] <23657> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 16:56:57:970] <23657> ===============================================================
+INFO	[2015-07-14 16:57:13:372] <23653> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:57:13:372] <23653> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:57:13:372] <23653> type:securepay
+DEBUG	[2015-07-14 16:57:13:372] <23653> pgid:INIphp
+DEBUG	[2015-07-14 16:57:13:372] <23653> subpgip:203.238.3.10
+DEBUG	[2015-07-14 16:57:13:372] <23653> admin:1111
+DEBUG	[2015-07-14 16:57:13:372] <23653> debug:true
+DEBUG	[2015-07-14 16:57:13:372] <23653> uid:
+DEBUG	[2015-07-14 16:57:13:372] <23653> goodname:Ï∂ïÍµ¨Í≥µ
+DEBUG	[2015-07-14 16:57:13:372] <23653> currency:WON
+DEBUG	[2015-07-14 16:57:13:372] <23653> mid:Kisssig002
+DEBUG	[2015-07-14 16:57:13:372] <23653> rn:MjAxNTA3MTQxNjU2NTQ2OTc5ODM2NQ==
+
+DEBUG	[2015-07-14 16:57:13:372] <23653> price:10
+DEBUG	[2015-07-14 16:57:13:372] <23653> enctype:
+DEBUG	[2015-07-14 16:57:13:372] <23653> buyername:ÌôçÍ∏∏Îèô
+DEBUG	[2015-07-14 16:57:13:372] <23653> buyertel:011-123-1234
+DEBUG	[2015-07-14 16:57:13:372] <23653> buyeremail:hkd@abcd.com
+DEBUG	[2015-07-14 16:57:13:372] <23653> paymethod:
+DEBUG	[2015-07-14 16:57:13:372] <23653> encrypted:
+DEBUG	[2015-07-14 16:57:13:372] <23653> sessionkey:
+DEBUG	[2015-07-14 16:57:13:372] <23653> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 16:57:13:372] <23653> cardcode:
+DEBUG	[2015-07-14 16:57:13:372] <23653> parentemail:parents@parents.com
+DEBUG	[2015-07-14 16:57:13:372] <23653> recvname:
+DEBUG	[2015-07-14 16:57:13:372] <23653> recvtel:
+DEBUG	[2015-07-14 16:57:13:372] <23653> recvaddr:
+DEBUG	[2015-07-14 16:57:13:372] <23653> recvpostnum:
+DEBUG	[2015-07-14 16:57:13:372] <23653> recvmsg:
+DEBUG	[2015-07-14 16:57:13:372] <23653> joincard:
+DEBUG	[2015-07-14 16:57:13:372] <23653> joinexpire:
+DEBUG	[2015-07-14 16:57:13:372] <23653> id_customer:
+ERROR	[2015-07-14 16:57:13:378] <23653> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 16:57:13:379] <23653> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.007sec]
+INFO	[2015-07-14 16:57:13:379] <23653> ===============================================================
+INFO	[2015-07-14 16:59:54:601] <23647> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 16:59:54:601] <23647> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 16:59:54:601] <23647> type:chkfake
+DEBUG	[2015-07-14 16:59:54:601] <23647> debug:true
+DEBUG	[2015-07-14 16:59:54:601] <23647> enctype:asym
+DEBUG	[2015-07-14 16:59:54:601] <23647> admin:1111
+DEBUG	[2015-07-14 16:59:54:601] <23647> checkopt:false
+DEBUG	[2015-07-14 16:59:54:601] <23647> mid:Kisssig002
+DEBUG	[2015-07-14 16:59:54:601] <23647> price:1000
+DEBUG	[2015-07-14 16:59:54:601] <23647> nointerest:no
+DEBUG	[2015-07-14 16:59:54:601] <23647> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 16:59:54:602] <23647> Check Field OK
+INFO	[2015-07-14 16:59:54:602] <23647> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 16:59:54:602] <23647> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 16:59:54:604] <23647> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNjU5NTQ2MDIzMTAxNA==
+
+INFO	[2015-07-14 16:59:54:604] <23647> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 16:59:54:604] <23647> ===============================================================
+INFO	[2015-07-14 17:02:29:385] <23659> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:02:29:385] <23659> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:02:29:385] <23659> type:chkfake
+DEBUG	[2015-07-14 17:02:29:385] <23659> debug:true
+DEBUG	[2015-07-14 17:02:29:385] <23659> enctype:asym
+DEBUG	[2015-07-14 17:02:29:385] <23659> admin:1111
+DEBUG	[2015-07-14 17:02:29:385] <23659> checkopt:false
+DEBUG	[2015-07-14 17:02:29:385] <23659> mid:Kisssig002
+DEBUG	[2015-07-14 17:02:29:385] <23659> price:1000
+DEBUG	[2015-07-14 17:02:29:385] <23659> nointerest:no
+DEBUG	[2015-07-14 17:02:29:385] <23659> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:02:29:386] <23659> Check Field OK
+INFO	[2015-07-14 17:02:29:386] <23659> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:02:29:386] <23659> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:02:29:388] <23659> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzAyMjkzODYyMjE0Nw==
+
+INFO	[2015-07-14 17:02:29:388] <23659> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 17:02:29:388] <23659> ===============================================================
+INFO	[2015-07-14 17:05:15:18] <23643> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:05:15:18] <23643> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:05:15:18] <23643> type:chkfake
+DEBUG	[2015-07-14 17:05:15:18] <23643> debug:true
+DEBUG	[2015-07-14 17:05:15:18] <23643> enctype:asym
+DEBUG	[2015-07-14 17:05:15:18] <23643> admin:1111
+DEBUG	[2015-07-14 17:05:15:18] <23643> checkopt:false
+DEBUG	[2015-07-14 17:05:15:18] <23643> mid:Kisssig002
+DEBUG	[2015-07-14 17:05:15:18] <23643> price:1000
+DEBUG	[2015-07-14 17:05:15:18] <23643> nointerest:no
+DEBUG	[2015-07-14 17:05:15:18] <23643> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:05:15:18] <23643> Check Field OK
+INFO	[2015-07-14 17:05:15:18] <23643> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:05:15:19] <23643> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:05:15:20] <23643> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA1MTUwMTk5NTEwMw==
+
+INFO	[2015-07-14 17:05:15:20] <23643> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 17:05:15:20] <23643> ===============================================================
+INFO	[2015-07-14 17:06:11:730] <23657> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:06:11:730] <23657> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:06:11:730] <23657> type:chkfake
+DEBUG	[2015-07-14 17:06:11:730] <23657> debug:true
+DEBUG	[2015-07-14 17:06:11:730] <23657> enctype:asym
+DEBUG	[2015-07-14 17:06:11:730] <23657> admin:1111
+DEBUG	[2015-07-14 17:06:11:730] <23657> checkopt:false
+DEBUG	[2015-07-14 17:06:11:730] <23657> mid:Kisssig002
+DEBUG	[2015-07-14 17:06:11:730] <23657> price:1000
+DEBUG	[2015-07-14 17:06:11:730] <23657> nointerest:no
+DEBUG	[2015-07-14 17:06:11:730] <23657> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:06:11:730] <23657> Check Field OK
+INFO	[2015-07-14 17:06:11:731] <23657> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:06:11:731] <23657> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:06:11:732] <23657> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA2MTE3MzE5MzAwMw==
+
+INFO	[2015-07-14 17:06:11:732] <23657> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-14 17:06:11:732] <23657> ===============================================================
+INFO	[2015-07-14 17:07:02:406] <23642> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:07:02:406] <23642> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:07:02:406] <23642> type:chkfake
+DEBUG	[2015-07-14 17:07:02:406] <23642> debug:true
+DEBUG	[2015-07-14 17:07:02:406] <23642> enctype:asym
+DEBUG	[2015-07-14 17:07:02:406] <23642> admin:1111
+DEBUG	[2015-07-14 17:07:02:406] <23642> checkopt:false
+DEBUG	[2015-07-14 17:07:02:406] <23642> mid:Kisssig002
+DEBUG	[2015-07-14 17:07:02:406] <23642> price:1000
+DEBUG	[2015-07-14 17:07:02:406] <23642> nointerest:no
+DEBUG	[2015-07-14 17:07:02:406] <23642> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:07:02:406] <23642> Check Field OK
+INFO	[2015-07-14 17:07:02:406] <23642> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:07:02:407] <23642> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:07:02:408] <23642> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA3MDI0MDc2NTI3Mw==
+
+INFO	[2015-07-14 17:07:02:408] <23642> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 17:07:02:408] <23642> ===============================================================
+INFO	[2015-07-14 17:07:15:927] <23657> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:07:15:927] <23657> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:07:15:927] <23657> type:chkfake
+DEBUG	[2015-07-14 17:07:15:927] <23657> debug:true
+DEBUG	[2015-07-14 17:07:15:927] <23657> enctype:asym
+DEBUG	[2015-07-14 17:07:15:927] <23657> admin:1111
+DEBUG	[2015-07-14 17:07:15:927] <23657> checkopt:false
+DEBUG	[2015-07-14 17:07:15:927] <23657> mid:Kisssig002
+DEBUG	[2015-07-14 17:07:15:927] <23657> price:1000
+DEBUG	[2015-07-14 17:07:15:927] <23657> nointerest:no
+DEBUG	[2015-07-14 17:07:15:927] <23657> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:07:15:927] <23657> Check Field OK
+INFO	[2015-07-14 17:07:15:928] <23657> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:07:15:928] <23657> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:07:15:929] <23657> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA3MTU5MjgzNDU2MQ==
+
+INFO	[2015-07-14 17:07:15:929] <23657> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-14 17:07:15:929] <23657> ===============================================================
+INFO	[2015-07-14 17:07:44:757] <23773> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:07:44:758] <23773> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:07:44:758] <23773> type:chkfake
+DEBUG	[2015-07-14 17:07:44:758] <23773> debug:true
+DEBUG	[2015-07-14 17:07:44:758] <23773> enctype:asym
+DEBUG	[2015-07-14 17:07:44:758] <23773> admin:1111
+DEBUG	[2015-07-14 17:07:44:758] <23773> checkopt:false
+DEBUG	[2015-07-14 17:07:44:758] <23773> mid:Kisssig002
+DEBUG	[2015-07-14 17:07:44:758] <23773> price:1000
+DEBUG	[2015-07-14 17:07:44:758] <23773> nointerest:no
+DEBUG	[2015-07-14 17:07:44:758] <23773> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:07:44:758] <23773> Check Field OK
+INFO	[2015-07-14 17:07:44:758] <23773> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:07:44:758] <23773> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:07:44:760] <23773> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA3NDQ3NTk2NTE4MA==
+
+INFO	[2015-07-14 17:07:44:760] <23773> END chkfake  Laptime:[0.006sec]
+INFO	[2015-07-14 17:07:44:760] <23773> ===============================================================
+INFO	[2015-07-14 17:08:00:464] <23655> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:08:00:464] <23655> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:08:00:464] <23655> type:chkfake
+DEBUG	[2015-07-14 17:08:00:464] <23655> debug:true
+DEBUG	[2015-07-14 17:08:00:464] <23655> enctype:asym
+DEBUG	[2015-07-14 17:08:00:464] <23655> admin:1111
+DEBUG	[2015-07-14 17:08:00:464] <23655> checkopt:false
+DEBUG	[2015-07-14 17:08:00:464] <23655> mid:Kisssig002
+DEBUG	[2015-07-14 17:08:00:464] <23655> price:1000
+DEBUG	[2015-07-14 17:08:00:464] <23655> nointerest:no
+DEBUG	[2015-07-14 17:08:00:464] <23655> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:08:00:464] <23655> Check Field OK
+INFO	[2015-07-14 17:08:00:464] <23655> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:08:00:465] <23655> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:08:00:466] <23655> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA4MDA0NjU0NDEyOA==
+
+INFO	[2015-07-14 17:08:00:466] <23655> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-14 17:08:00:466] <23655> ===============================================================
+INFO	[2015-07-14 17:08:11:389] <23659> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:08:11:390] <23659> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:08:11:390] <23659> type:chkfake
+DEBUG	[2015-07-14 17:08:11:390] <23659> debug:true
+DEBUG	[2015-07-14 17:08:11:390] <23659> enctype:asym
+DEBUG	[2015-07-14 17:08:11:390] <23659> admin:1111
+DEBUG	[2015-07-14 17:08:11:390] <23659> checkopt:false
+DEBUG	[2015-07-14 17:08:11:390] <23659> mid:Kisssig002
+DEBUG	[2015-07-14 17:08:11:390] <23659> price:1000
+DEBUG	[2015-07-14 17:08:11:390] <23659> nointerest:no
+DEBUG	[2015-07-14 17:08:11:390] <23659> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:08:11:390] <23659> Check Field OK
+INFO	[2015-07-14 17:08:11:390] <23659> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:08:11:390] <23659> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:08:11:392] <23659> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA4MTEzOTAxNzI0MQ==
+
+INFO	[2015-07-14 17:08:11:392] <23659> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-14 17:08:11:392] <23659> ===============================================================
+INFO	[2015-07-14 17:08:49:701] <23647> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:08:49:701] <23647> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:08:49:701] <23647> type:chkfake
+DEBUG	[2015-07-14 17:08:49:701] <23647> debug:true
+DEBUG	[2015-07-14 17:08:49:701] <23647> enctype:asym
+DEBUG	[2015-07-14 17:08:49:701] <23647> admin:1111
+DEBUG	[2015-07-14 17:08:49:701] <23647> checkopt:false
+DEBUG	[2015-07-14 17:08:49:701] <23647> mid:Kisssig002
+DEBUG	[2015-07-14 17:08:49:701] <23647> price:1000
+DEBUG	[2015-07-14 17:08:49:701] <23647> nointerest:no
+DEBUG	[2015-07-14 17:08:49:701] <23647> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:08:49:701] <23647> Check Field OK
+INFO	[2015-07-14 17:08:49:702] <23647> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:08:49:702] <23647> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:08:49:703] <23647> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA4NDk3MDIxNzUwNQ==
+
+INFO	[2015-07-14 17:08:49:704] <23647> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-14 17:08:49:704] <23647> ===============================================================
+INFO	[2015-07-14 17:09:23:798] <23649> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:09:23:798] <23649> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:09:23:798] <23649> type:chkfake
+DEBUG	[2015-07-14 17:09:23:798] <23649> debug:true
+DEBUG	[2015-07-14 17:09:23:798] <23649> enctype:asym
+DEBUG	[2015-07-14 17:09:23:798] <23649> admin:1111
+DEBUG	[2015-07-14 17:09:23:798] <23649> checkopt:false
+DEBUG	[2015-07-14 17:09:23:798] <23649> mid:Kisssig002
+DEBUG	[2015-07-14 17:09:23:798] <23649> price:1000
+DEBUG	[2015-07-14 17:09:23:798] <23649> nointerest:no
+DEBUG	[2015-07-14 17:09:23:798] <23649> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:09:23:798] <23649> Check Field OK
+INFO	[2015-07-14 17:09:23:799] <23649> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:09:23:799] <23649> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:09:23:801] <23649> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzA5MjM3OTk3MTYyNw==
+
+INFO	[2015-07-14 17:09:23:801] <23649> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 17:09:23:801] <23649> ===============================================================
+INFO	[2015-07-14 17:12:34:536] <23653> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:12:34:536] <23653> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:12:34:536] <23653> type:chkfake
+DEBUG	[2015-07-14 17:12:34:536] <23653> debug:true
+DEBUG	[2015-07-14 17:12:34:536] <23653> enctype:asym
+DEBUG	[2015-07-14 17:12:34:536] <23653> admin:1111
+DEBUG	[2015-07-14 17:12:34:536] <23653> checkopt:false
+DEBUG	[2015-07-14 17:12:34:536] <23653> mid:Kisssig002
+DEBUG	[2015-07-14 17:12:34:536] <23653> price:1000
+DEBUG	[2015-07-14 17:12:34:536] <23653> nointerest:no
+DEBUG	[2015-07-14 17:12:34:536] <23653> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:12:34:536] <23653> Check Field OK
+INFO	[2015-07-14 17:12:34:537] <23653> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:12:34:537] <23653> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:12:34:538] <23653> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzEyMzQ1Mzc2MjA5Mw==
+
+INFO	[2015-07-14 17:12:34:539] <23653> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 17:12:34:539] <23653> ===============================================================
+INFO	[2015-07-14 17:14:46:77] <23642> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:14:46:77] <23642> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:14:46:77] <23642> type:chkfake
+DEBUG	[2015-07-14 17:14:46:77] <23642> debug:true
+DEBUG	[2015-07-14 17:14:46:77] <23642> enctype:asym
+DEBUG	[2015-07-14 17:14:46:77] <23642> admin:1111
+DEBUG	[2015-07-14 17:14:46:77] <23642> checkopt:false
+DEBUG	[2015-07-14 17:14:46:77] <23642> mid:Kisssig002
+DEBUG	[2015-07-14 17:14:46:77] <23642> price:1000
+DEBUG	[2015-07-14 17:14:46:77] <23642> nointerest:no
+DEBUG	[2015-07-14 17:14:46:77] <23642> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:14:46:77] <23642> Check Field OK
+INFO	[2015-07-14 17:14:46:77] <23642> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:14:46:78] <23642> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:14:46:79] <23642> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzE0NDYwNzgxNzk4Mw==
+
+INFO	[2015-07-14 17:14:46:79] <23642> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 17:14:46:79] <23642> ===============================================================
+INFO	[2015-07-14 17:32:34:476] <23846> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:32:34:476] <23846> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:32:34:476] <23846> type:chkfake
+DEBUG	[2015-07-14 17:32:34:476] <23846> debug:true
+DEBUG	[2015-07-14 17:32:34:476] <23846> enctype:asym
+DEBUG	[2015-07-14 17:32:34:476] <23846> admin:1111
+DEBUG	[2015-07-14 17:32:34:476] <23846> checkopt:false
+DEBUG	[2015-07-14 17:32:34:476] <23846> mid:Kisssig002
+DEBUG	[2015-07-14 17:32:34:476] <23846> price:1000
+DEBUG	[2015-07-14 17:32:34:476] <23846> nointerest:no
+DEBUG	[2015-07-14 17:32:34:476] <23846> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:32:34:476] <23846> Check Field OK
+INFO	[2015-07-14 17:32:34:476] <23846> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:32:34:477] <23846> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:32:34:478] <23846> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzMyMzQ0Nzc5NzAwNg==
+
+INFO	[2015-07-14 17:32:34:479] <23846> END chkfake  Laptime:[0.006sec]
+INFO	[2015-07-14 17:32:34:479] <23846> ===============================================================
+INFO	[2015-07-14 17:32:53:255] <23845> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:32:53:255] <23845> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:32:53:255] <23845> type:securepay
+DEBUG	[2015-07-14 17:32:53:255] <23845> pgid:INIphp
+DEBUG	[2015-07-14 17:32:53:255] <23845> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:32:53:255] <23845> admin:1111
+DEBUG	[2015-07-14 17:32:53:255] <23845> debug:true
+DEBUG	[2015-07-14 17:32:53:255] <23845> uid:
+DEBUG	[2015-07-14 17:32:53:255] <23845> goodname:
+DEBUG	[2015-07-14 17:32:53:255] <23845> currency:WON
+DEBUG	[2015-07-14 17:32:53:255] <23845> mid:Kisssig002
+DEBUG	[2015-07-14 17:32:53:255] <23845> rn:MjAxNTA3MTQxNzMyMzQ0Nzc5NzAwNg==
+
+DEBUG	[2015-07-14 17:32:53:255] <23845> price:10
+DEBUG	[2015-07-14 17:32:53:255] <23845> enctype:
+DEBUG	[2015-07-14 17:32:53:255] <23845> buyername:
+DEBUG	[2015-07-14 17:32:53:255] <23845> buyertel:
+DEBUG	[2015-07-14 17:32:53:255] <23845> buyeremail:
+DEBUG	[2015-07-14 17:32:53:255] <23845> paymethod:
+DEBUG	[2015-07-14 17:32:53:255] <23845> encrypted:
+DEBUG	[2015-07-14 17:32:53:255] <23845> sessionkey:
+DEBUG	[2015-07-14 17:32:53:255] <23845> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:32:53:255] <23845> cardcode:
+DEBUG	[2015-07-14 17:32:53:255] <23845> parentemail:
+DEBUG	[2015-07-14 17:32:53:255] <23845> recvname:
+DEBUG	[2015-07-14 17:32:53:255] <23845> recvtel:
+DEBUG	[2015-07-14 17:32:53:255] <23845> recvaddr:
+DEBUG	[2015-07-14 17:32:53:255] <23845> recvpostnum:
+DEBUG	[2015-07-14 17:32:53:255] <23845> recvmsg:
+DEBUG	[2015-07-14 17:32:53:255] <23845> joincard:
+DEBUG	[2015-07-14 17:32:53:255] <23845> joinexpire:
+DEBUG	[2015-07-14 17:32:53:255] <23845> id_customer:
+ERROR	[2015-07-14 17:32:53:260] <23845> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:32:53:261] <23845> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 17:32:53:261] <23845> ===============================================================
+INFO	[2015-07-14 17:33:10:234] <23658> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:33:10:234] <23658> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:33:10:234] <23658> type:chkfake
+DEBUG	[2015-07-14 17:33:10:234] <23658> debug:true
+DEBUG	[2015-07-14 17:33:10:234] <23658> enctype:asym
+DEBUG	[2015-07-14 17:33:10:234] <23658> admin:1111
+DEBUG	[2015-07-14 17:33:10:234] <23658> checkopt:false
+DEBUG	[2015-07-14 17:33:10:234] <23658> mid:Kisssig002
+DEBUG	[2015-07-14 17:33:10:234] <23658> price:1000
+DEBUG	[2015-07-14 17:33:10:234] <23658> nointerest:no
+DEBUG	[2015-07-14 17:33:10:234] <23658> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 17:33:10:234] <23658> Check Field OK
+INFO	[2015-07-14 17:33:10:234] <23658> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 17:33:10:234] <23658> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 17:33:10:236] <23658> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+INFO	[2015-07-14 17:33:10:236] <23658> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-14 17:33:10:236] <23658> ===============================================================
+INFO	[2015-07-14 17:33:11:346] <23658> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:33:11:346] <23658> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:33:11:346] <23658> type:securepay
+DEBUG	[2015-07-14 17:33:11:346] <23658> pgid:INIphp
+DEBUG	[2015-07-14 17:33:11:346] <23658> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:33:11:346] <23658> admin:1111
+DEBUG	[2015-07-14 17:33:11:346] <23658> debug:true
+DEBUG	[2015-07-14 17:33:11:346] <23658> uid:
+DEBUG	[2015-07-14 17:33:11:346] <23658> goodname:
+DEBUG	[2015-07-14 17:33:11:346] <23658> currency:WON
+DEBUG	[2015-07-14 17:33:11:346] <23658> mid:Kisssig002
+DEBUG	[2015-07-14 17:33:11:346] <23658> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:33:11:346] <23658> price:10
+DEBUG	[2015-07-14 17:33:11:346] <23658> enctype:
+DEBUG	[2015-07-14 17:33:11:346] <23658> buyername:
+DEBUG	[2015-07-14 17:33:11:346] <23658> buyertel:
+DEBUG	[2015-07-14 17:33:11:346] <23658> buyeremail:
+DEBUG	[2015-07-14 17:33:11:346] <23658> paymethod:
+DEBUG	[2015-07-14 17:33:11:346] <23658> encrypted:
+DEBUG	[2015-07-14 17:33:11:346] <23658> sessionkey:
+DEBUG	[2015-07-14 17:33:11:346] <23658> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:33:11:346] <23658> cardcode:
+DEBUG	[2015-07-14 17:33:11:346] <23658> parentemail:
+DEBUG	[2015-07-14 17:33:11:346] <23658> recvname:
+DEBUG	[2015-07-14 17:33:11:346] <23658> recvtel:
+DEBUG	[2015-07-14 17:33:11:346] <23658> recvaddr:
+DEBUG	[2015-07-14 17:33:11:346] <23658> recvpostnum:
+DEBUG	[2015-07-14 17:33:11:346] <23658> recvmsg:
+DEBUG	[2015-07-14 17:33:11:346] <23658> joincard:
+DEBUG	[2015-07-14 17:33:11:346] <23658> joinexpire:
+DEBUG	[2015-07-14 17:33:11:346] <23658> id_customer:
+ERROR	[2015-07-14 17:33:11:352] <23658> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:33:11:352] <23658> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 17:33:11:352] <23658> ===============================================================
+INFO	[2015-07-14 17:33:30:763] <23659> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:33:30:763] <23659> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:33:30:763] <23659> type:securepay
+DEBUG	[2015-07-14 17:33:30:763] <23659> pgid:INIphp
+DEBUG	[2015-07-14 17:33:30:763] <23659> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:33:30:763] <23659> admin:1111
+DEBUG	[2015-07-14 17:33:30:763] <23659> debug:true
+DEBUG	[2015-07-14 17:33:30:763] <23659> uid:
+DEBUG	[2015-07-14 17:33:30:763] <23659> goodname:
+DEBUG	[2015-07-14 17:33:30:763] <23659> currency:WON
+DEBUG	[2015-07-14 17:33:30:763] <23659> mid:Kisssig002
+DEBUG	[2015-07-14 17:33:30:763] <23659> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:33:30:763] <23659> price:10
+DEBUG	[2015-07-14 17:33:30:763] <23659> enctype:
+DEBUG	[2015-07-14 17:33:30:763] <23659> buyername:
+DEBUG	[2015-07-14 17:33:30:763] <23659> buyertel:
+DEBUG	[2015-07-14 17:33:30:763] <23659> buyeremail:
+DEBUG	[2015-07-14 17:33:30:763] <23659> paymethod:
+DEBUG	[2015-07-14 17:33:30:763] <23659> encrypted:
+DEBUG	[2015-07-14 17:33:30:763] <23659> sessionkey:
+DEBUG	[2015-07-14 17:33:30:763] <23659> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:33:30:763] <23659> cardcode:
+DEBUG	[2015-07-14 17:33:30:763] <23659> parentemail:
+DEBUG	[2015-07-14 17:33:30:763] <23659> recvname:
+DEBUG	[2015-07-14 17:33:30:763] <23659> recvtel:
+DEBUG	[2015-07-14 17:33:30:763] <23659> recvaddr:
+DEBUG	[2015-07-14 17:33:30:763] <23659> recvpostnum:
+DEBUG	[2015-07-14 17:33:30:763] <23659> recvmsg:
+DEBUG	[2015-07-14 17:33:30:763] <23659> joincard:
+DEBUG	[2015-07-14 17:33:30:763] <23659> joinexpire:
+DEBUG	[2015-07-14 17:33:30:763] <23659> id_customer:
+ERROR	[2015-07-14 17:33:30:768] <23659> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:33:30:768] <23659> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.005sec]
+INFO	[2015-07-14 17:33:30:768] <23659> ===============================================================
+INFO	[2015-07-14 17:52:04:543] <23845> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:52:04:544] <23845> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:52:04:544] <23845> type:securepay
+DEBUG	[2015-07-14 17:52:04:544] <23845> pgid:INIphp
+DEBUG	[2015-07-14 17:52:04:544] <23845> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:52:04:544] <23845> admin:1111
+DEBUG	[2015-07-14 17:52:04:544] <23845> debug:true
+DEBUG	[2015-07-14 17:52:04:544] <23845> uid:
+DEBUG	[2015-07-14 17:52:04:544] <23845> goodname:
+DEBUG	[2015-07-14 17:52:04:544] <23845> currency:WON
+DEBUG	[2015-07-14 17:52:04:544] <23845> mid:Kisssig002
+DEBUG	[2015-07-14 17:52:04:544] <23845> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:52:04:544] <23845> price:10
+DEBUG	[2015-07-14 17:52:04:544] <23845> enctype:
+DEBUG	[2015-07-14 17:52:04:544] <23845> buyername:
+DEBUG	[2015-07-14 17:52:04:544] <23845> buyertel:
+DEBUG	[2015-07-14 17:52:04:544] <23845> buyeremail:
+DEBUG	[2015-07-14 17:52:04:544] <23845> paymethod:
+DEBUG	[2015-07-14 17:52:04:544] <23845> encrypted:
+DEBUG	[2015-07-14 17:52:04:544] <23845> sessionkey:
+DEBUG	[2015-07-14 17:52:04:544] <23845> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:52:04:544] <23845> cardcode:
+DEBUG	[2015-07-14 17:52:04:544] <23845> parentemail:
+DEBUG	[2015-07-14 17:52:04:544] <23845> recvname:
+DEBUG	[2015-07-14 17:52:04:544] <23845> recvtel:
+DEBUG	[2015-07-14 17:52:04:544] <23845> recvaddr:
+DEBUG	[2015-07-14 17:52:04:544] <23845> recvpostnum:
+DEBUG	[2015-07-14 17:52:04:544] <23845> recvmsg:
+DEBUG	[2015-07-14 17:52:04:544] <23845> joincard:
+DEBUG	[2015-07-14 17:52:04:544] <23845> joinexpire:
+DEBUG	[2015-07-14 17:52:04:544] <23845> id_customer:
+ERROR	[2015-07-14 17:52:04:556] <23845> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:52:04:556] <23845> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.013sec]
+INFO	[2015-07-14 17:52:04:556] <23845> ===============================================================
+INFO	[2015-07-14 17:52:09:615] <23643> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:52:09:615] <23643> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:52:09:615] <23643> type:securepay
+DEBUG	[2015-07-14 17:52:09:615] <23643> pgid:INIphp
+DEBUG	[2015-07-14 17:52:09:615] <23643> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:52:09:615] <23643> admin:1111
+DEBUG	[2015-07-14 17:52:09:615] <23643> debug:true
+DEBUG	[2015-07-14 17:52:09:615] <23643> uid:
+DEBUG	[2015-07-14 17:52:09:615] <23643> goodname:
+DEBUG	[2015-07-14 17:52:09:615] <23643> currency:WON
+DEBUG	[2015-07-14 17:52:09:615] <23643> mid:Kisssig002
+DEBUG	[2015-07-14 17:52:09:615] <23643> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:52:09:615] <23643> price:10
+DEBUG	[2015-07-14 17:52:09:615] <23643> enctype:
+DEBUG	[2015-07-14 17:52:09:615] <23643> buyername:
+DEBUG	[2015-07-14 17:52:09:615] <23643> buyertel:
+DEBUG	[2015-07-14 17:52:09:615] <23643> buyeremail:
+DEBUG	[2015-07-14 17:52:09:615] <23643> paymethod:
+DEBUG	[2015-07-14 17:52:09:615] <23643> encrypted:
+DEBUG	[2015-07-14 17:52:09:615] <23643> sessionkey:
+DEBUG	[2015-07-14 17:52:09:615] <23643> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:52:09:615] <23643> cardcode:
+DEBUG	[2015-07-14 17:52:09:615] <23643> parentemail:
+DEBUG	[2015-07-14 17:52:09:615] <23643> recvname:
+DEBUG	[2015-07-14 17:52:09:615] <23643> recvtel:
+DEBUG	[2015-07-14 17:52:09:615] <23643> recvaddr:
+DEBUG	[2015-07-14 17:52:09:615] <23643> recvpostnum:
+DEBUG	[2015-07-14 17:52:09:615] <23643> recvmsg:
+DEBUG	[2015-07-14 17:52:09:615] <23643> joincard:
+DEBUG	[2015-07-14 17:52:09:615] <23643> joinexpire:
+DEBUG	[2015-07-14 17:52:09:615] <23643> id_customer:
+ERROR	[2015-07-14 17:52:09:620] <23643> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:52:09:620] <23643> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 17:52:09:621] <23643> ===============================================================
+INFO	[2015-07-14 17:55:08:242] <23842> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:55:08:242] <23842> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:55:08:242] <23842> type:securepay
+DEBUG	[2015-07-14 17:55:08:242] <23842> pgid:INIphp
+DEBUG	[2015-07-14 17:55:08:242] <23842> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:55:08:242] <23842> admin:1111
+DEBUG	[2015-07-14 17:55:08:242] <23842> debug:true
+DEBUG	[2015-07-14 17:55:08:242] <23842> uid:
+DEBUG	[2015-07-14 17:55:08:242] <23842> goodname:
+DEBUG	[2015-07-14 17:55:08:242] <23842> currency:WON
+DEBUG	[2015-07-14 17:55:08:242] <23842> mid:Kisssig002
+DEBUG	[2015-07-14 17:55:08:242] <23842> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:55:08:242] <23842> price:10
+DEBUG	[2015-07-14 17:55:08:242] <23842> enctype:
+DEBUG	[2015-07-14 17:55:08:242] <23842> buyername:
+DEBUG	[2015-07-14 17:55:08:242] <23842> buyertel:
+DEBUG	[2015-07-14 17:55:08:242] <23842> buyeremail:
+DEBUG	[2015-07-14 17:55:08:242] <23842> paymethod:
+DEBUG	[2015-07-14 17:55:08:242] <23842> encrypted:
+DEBUG	[2015-07-14 17:55:08:242] <23842> sessionkey:
+DEBUG	[2015-07-14 17:55:08:242] <23842> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:55:08:242] <23842> cardcode:
+DEBUG	[2015-07-14 17:55:08:242] <23842> parentemail:
+DEBUG	[2015-07-14 17:55:08:242] <23842> recvname:
+DEBUG	[2015-07-14 17:55:08:242] <23842> recvtel:
+DEBUG	[2015-07-14 17:55:08:242] <23842> recvaddr:
+DEBUG	[2015-07-14 17:55:08:242] <23842> recvpostnum:
+DEBUG	[2015-07-14 17:55:08:242] <23842> recvmsg:
+DEBUG	[2015-07-14 17:55:08:242] <23842> joincard:
+DEBUG	[2015-07-14 17:55:08:242] <23842> joinexpire:
+DEBUG	[2015-07-14 17:55:08:242] <23842> id_customer:
+ERROR	[2015-07-14 17:55:08:247] <23842> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:55:08:247] <23842> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 17:55:08:247] <23842> ===============================================================
+INFO	[2015-07-14 17:58:52:377] <23844> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:58:52:377] <23844> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:58:52:377] <23844> type:securepay
+DEBUG	[2015-07-14 17:58:52:377] <23844> pgid:INIphp
+DEBUG	[2015-07-14 17:58:52:377] <23844> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:58:52:377] <23844> admin:1111
+DEBUG	[2015-07-14 17:58:52:377] <23844> debug:true
+DEBUG	[2015-07-14 17:58:52:377] <23844> uid:
+DEBUG	[2015-07-14 17:58:52:377] <23844> goodname:
+DEBUG	[2015-07-14 17:58:52:377] <23844> currency:WON
+DEBUG	[2015-07-14 17:58:52:377] <23844> mid:Kisssig002
+DEBUG	[2015-07-14 17:58:52:377] <23844> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:58:52:377] <23844> price:10
+DEBUG	[2015-07-14 17:58:52:377] <23844> enctype:
+DEBUG	[2015-07-14 17:58:52:377] <23844> buyername:
+DEBUG	[2015-07-14 17:58:52:377] <23844> buyertel:
+DEBUG	[2015-07-14 17:58:52:377] <23844> buyeremail:
+DEBUG	[2015-07-14 17:58:52:377] <23844> paymethod:
+DEBUG	[2015-07-14 17:58:52:377] <23844> encrypted:
+DEBUG	[2015-07-14 17:58:52:377] <23844> sessionkey:
+DEBUG	[2015-07-14 17:58:52:377] <23844> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:58:52:377] <23844> cardcode:
+DEBUG	[2015-07-14 17:58:52:377] <23844> parentemail:
+DEBUG	[2015-07-14 17:58:52:377] <23844> recvname:
+DEBUG	[2015-07-14 17:58:52:377] <23844> recvtel:
+DEBUG	[2015-07-14 17:58:52:377] <23844> recvaddr:
+DEBUG	[2015-07-14 17:58:52:377] <23844> recvpostnum:
+DEBUG	[2015-07-14 17:58:52:377] <23844> recvmsg:
+DEBUG	[2015-07-14 17:58:52:377] <23844> joincard:
+DEBUG	[2015-07-14 17:58:52:377] <23844> joinexpire:
+DEBUG	[2015-07-14 17:58:52:377] <23844> id_customer:
+ERROR	[2015-07-14 17:58:52:383] <23844> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:58:52:384] <23844> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.007sec]
+INFO	[2015-07-14 17:58:52:384] <23844> ===============================================================
+INFO	[2015-07-14 17:59:58:70] <23792> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 17:59:58:70] <23792> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 17:59:58:70] <23792> type:securepay
+DEBUG	[2015-07-14 17:59:58:70] <23792> pgid:INIphp
+DEBUG	[2015-07-14 17:59:58:70] <23792> subpgip:203.238.3.10
+DEBUG	[2015-07-14 17:59:58:70] <23792> admin:1111
+DEBUG	[2015-07-14 17:59:58:70] <23792> debug:true
+DEBUG	[2015-07-14 17:59:58:70] <23792> uid:
+DEBUG	[2015-07-14 17:59:58:70] <23792> goodname:
+DEBUG	[2015-07-14 17:59:58:70] <23792> currency:WON
+DEBUG	[2015-07-14 17:59:58:70] <23792> mid:Kisssig002
+DEBUG	[2015-07-14 17:59:58:70] <23792> rn:MjAxNTA3MTQxNzMzMTAyMzQ1MjgzNQ==
+
+DEBUG	[2015-07-14 17:59:58:70] <23792> price:10
+DEBUG	[2015-07-14 17:59:58:70] <23792> enctype:
+DEBUG	[2015-07-14 17:59:58:70] <23792> buyername:
+DEBUG	[2015-07-14 17:59:58:70] <23792> buyertel:
+DEBUG	[2015-07-14 17:59:58:70] <23792> buyeremail:
+DEBUG	[2015-07-14 17:59:58:70] <23792> paymethod:
+DEBUG	[2015-07-14 17:59:58:70] <23792> encrypted:
+DEBUG	[2015-07-14 17:59:58:70] <23792> sessionkey:
+DEBUG	[2015-07-14 17:59:58:70] <23792> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 17:59:58:70] <23792> cardcode:
+DEBUG	[2015-07-14 17:59:58:70] <23792> parentemail:
+DEBUG	[2015-07-14 17:59:58:70] <23792> recvname:
+DEBUG	[2015-07-14 17:59:58:70] <23792> recvtel:
+DEBUG	[2015-07-14 17:59:58:70] <23792> recvaddr:
+DEBUG	[2015-07-14 17:59:58:70] <23792> recvpostnum:
+DEBUG	[2015-07-14 17:59:58:70] <23792> recvmsg:
+DEBUG	[2015-07-14 17:59:58:70] <23792> joincard:
+DEBUG	[2015-07-14 17:59:58:70] <23792> joinexpire:
+DEBUG	[2015-07-14 17:59:58:70] <23792> id_customer:
+ERROR	[2015-07-14 17:59:58:76] <23792> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 17:59:58:76] <23792> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 17:59:58:76] <23792> ===============================================================
+INFO	[2015-07-14 18:36:06:905] <24460> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 18:36:06:906] <24460> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 18:36:06:906] <24460> type:chkfake
+DEBUG	[2015-07-14 18:36:06:906] <24460> debug:true
+DEBUG	[2015-07-14 18:36:06:906] <24460> enctype:asym
+DEBUG	[2015-07-14 18:36:06:906] <24460> admin:1111
+DEBUG	[2015-07-14 18:36:06:906] <24460> checkopt:false
+DEBUG	[2015-07-14 18:36:06:906] <24460> mid:Kisssig002
+DEBUG	[2015-07-14 18:36:06:906] <24460> price:10
+DEBUG	[2015-07-14 18:36:06:906] <24460> nointerest:no
+DEBUG	[2015-07-14 18:36:06:906] <24460> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 18:36:06:906] <24460> Check Field OK
+INFO	[2015-07-14 18:36:06:906] <24460> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 18:36:06:907] <24460> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 18:36:06:908] <24460> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxODM2MDY5MDcyMTYwMQ==
+
+INFO	[2015-07-14 18:36:06:908] <24460> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 18:36:06:908] <24460> ===============================================================
+INFO	[2015-07-14 18:36:27:559] <25261> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 18:36:27:559] <25261> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 18:36:27:559] <25261> type:securepay
+DEBUG	[2015-07-14 18:36:27:559] <25261> pgid:INIphp
+DEBUG	[2015-07-14 18:36:27:559] <25261> subpgip:203.238.3.10
+DEBUG	[2015-07-14 18:36:27:559] <25261> admin:1111
+DEBUG	[2015-07-14 18:36:27:559] <25261> debug:true
+DEBUG	[2015-07-14 18:36:27:559] <25261> uid:
+DEBUG	[2015-07-14 18:36:27:559] <25261> goodname:
+DEBUG	[2015-07-14 18:36:27:559] <25261> currency:WON
+DEBUG	[2015-07-14 18:36:27:559] <25261> mid:Kisssig002
+DEBUG	[2015-07-14 18:36:27:559] <25261> rn:MjAxNTA3MTQxODM2MDY5MDcyMTYwMQ==
+
+DEBUG	[2015-07-14 18:36:27:559] <25261> price:10
+DEBUG	[2015-07-14 18:36:27:559] <25261> enctype:
+DEBUG	[2015-07-14 18:36:27:559] <25261> buyername:
+DEBUG	[2015-07-14 18:36:27:559] <25261> buyertel:
+DEBUG	[2015-07-14 18:36:27:559] <25261> buyeremail:
+DEBUG	[2015-07-14 18:36:27:559] <25261> paymethod:
+DEBUG	[2015-07-14 18:36:27:559] <25261> encrypted:
+DEBUG	[2015-07-14 18:36:27:559] <25261> sessionkey:
+DEBUG	[2015-07-14 18:36:27:559] <25261> url:http://www.your_domain.co.kr
+DEBUG	[2015-07-14 18:36:27:559] <25261> cardcode:
+DEBUG	[2015-07-14 18:36:27:559] <25261> parentemail:
+DEBUG	[2015-07-14 18:36:27:559] <25261> recvname:
+DEBUG	[2015-07-14 18:36:27:559] <25261> recvtel:
+DEBUG	[2015-07-14 18:36:27:559] <25261> recvaddr:
+DEBUG	[2015-07-14 18:36:27:559] <25261> recvpostnum:
+DEBUG	[2015-07-14 18:36:27:559] <25261> recvmsg:
+DEBUG	[2015-07-14 18:36:27:559] <25261> joincard:
+DEBUG	[2015-07-14 18:36:27:559] <25261> joinexpire:
+DEBUG	[2015-07-14 18:36:27:559] <25261> id_customer:
+ERROR	[2015-07-14 18:36:27:564] <25261> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-07-14 18:36:27:564] <25261> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.006sec]
+INFO	[2015-07-14 18:36:27:564] <25261> ===============================================================
+INFO	[2015-07-14 18:57:09:138] <24782> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 18:57:09:139] <24782> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 18:57:09:139] <24782> type:chkfake
+DEBUG	[2015-07-14 18:57:09:139] <24782> debug:true
+DEBUG	[2015-07-14 18:57:09:139] <24782> enctype:asym
+DEBUG	[2015-07-14 18:57:09:139] <24782> admin:1111
+DEBUG	[2015-07-14 18:57:09:139] <24782> checkopt:false
+DEBUG	[2015-07-14 18:57:09:139] <24782> mid:Kisssig002
+DEBUG	[2015-07-14 18:57:09:139] <24782> price:1000
+DEBUG	[2015-07-14 18:57:09:139] <24782> nointerest:no
+DEBUG	[2015-07-14 18:57:09:139] <24782> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 18:57:09:139] <24782> Check Field OK
+INFO	[2015-07-14 18:57:09:139] <24782> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 18:57:09:139] <24782> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 18:57:09:141] <24782> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxODU3MDkxNDA5NjY0NQ==
+
+INFO	[2015-07-14 18:57:09:141] <24782> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 18:57:09:141] <24782> ===============================================================
+INFO	[2015-07-14 18:57:33:626] <25254> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 18:57:33:626] <25254> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 18:57:33:626] <25254> type:chkfake
+DEBUG	[2015-07-14 18:57:33:626] <25254> debug:true
+DEBUG	[2015-07-14 18:57:33:626] <25254> enctype:asym
+DEBUG	[2015-07-14 18:57:33:626] <25254> admin:1111
+DEBUG	[2015-07-14 18:57:33:626] <25254> checkopt:false
+DEBUG	[2015-07-14 18:57:33:626] <25254> mid:Kisssig002
+DEBUG	[2015-07-14 18:57:33:626] <25254> price:1000
+DEBUG	[2015-07-14 18:57:33:626] <25254> nointerest:no
+DEBUG	[2015-07-14 18:57:33:626] <25254> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 18:57:33:627] <25254> Check Field OK
+INFO	[2015-07-14 18:57:33:627] <25254> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 18:57:33:627] <25254> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 18:57:33:629] <25254> CHKFAKE KEY MAKE OK:MjAxNTA3MTQxODU3MzM2Mjc1MTI1NA==
+
+INFO	[2015-07-14 18:57:33:629] <25254> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 18:57:33:629] <25254> ===============================================================
+INFO	[2015-07-14 20:47:59:877] <25289> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 20:47:59:877] <25289> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 20:47:59:877] <25289> type:chkfake
+DEBUG	[2015-07-14 20:47:59:877] <25289> debug:true
+DEBUG	[2015-07-14 20:47:59:877] <25289> enctype:asym
+DEBUG	[2015-07-14 20:47:59:877] <25289> admin:1111
+DEBUG	[2015-07-14 20:47:59:877] <25289> checkopt:false
+DEBUG	[2015-07-14 20:47:59:877] <25289> mid:Kisssig002
+DEBUG	[2015-07-14 20:47:59:877] <25289> price:1000
+DEBUG	[2015-07-14 20:47:59:877] <25289> nointerest:no
+DEBUG	[2015-07-14 20:47:59:877] <25289> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 20:47:59:877] <25289> Check Field OK
+INFO	[2015-07-14 20:47:59:877] <25289> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 20:47:59:878] <25289> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 20:47:59:879] <25289> CHKFAKE KEY MAKE OK:MjAxNTA3MTQyMDQ3NTk4Nzg3ODUxNA==
+
+INFO	[2015-07-14 20:47:59:879] <25289> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-14 20:47:59:880] <25289> ===============================================================
+INFO	[2015-07-14 20:49:11:67] <27797> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-14 20:49:11:68] <27797> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-14 20:49:11:68] <27797> type:chkfake
+DEBUG	[2015-07-14 20:49:11:68] <27797> debug:true
+DEBUG	[2015-07-14 20:49:11:68] <27797> enctype:asym
+DEBUG	[2015-07-14 20:49:11:68] <27797> admin:1111
+DEBUG	[2015-07-14 20:49:11:68] <27797> checkopt:false
+DEBUG	[2015-07-14 20:49:11:68] <27797> mid:Kisssig002
+DEBUG	[2015-07-14 20:49:11:68] <27797> price:1000
+DEBUG	[2015-07-14 20:49:11:68] <27797> nointerest:no
+DEBUG	[2015-07-14 20:49:11:68] <27797> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:6Í∞úÏõî
+INFO	[2015-07-14 20:49:11:68] <27797> Check Field OK
+INFO	[2015-07-14 20:49:11:68] <27797> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-14 20:49:11:69] <27797> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-14 20:49:11:70] <27797> CHKFAKE KEY MAKE OK:MjAxNTA3MTQyMDQ5MTEwNjk4Mjk3OA==
+
+INFO	[2015-07-14 20:49:11:70] <27797> END chkfake  Laptime:[0.006sec]
+INFO	[2015-07-14 20:49:11:70] <27797> ===============================================================

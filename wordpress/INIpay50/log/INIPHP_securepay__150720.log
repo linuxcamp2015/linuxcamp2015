@@ -1,0 +1,44 @@
+INFO	[2015-07-20 12:17:29:102] <10414> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-20 12:17:29:102] <10414> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-20 12:17:29:102] <10414> type:securepay
+DEBUG	[2015-07-20 12:17:29:102] <10414> pgid:INIphpCARD
+DEBUG	[2015-07-20 12:17:29:102] <10414> subpgip:203.238.3.10
+DEBUG	[2015-07-20 12:17:29:102] <10414> admin:
+DEBUG	[2015-07-20 12:17:29:102] <10414> debug:true
+DEBUG	[2015-07-20 12:17:29:102] <10414> uid:
+DEBUG	[2015-07-20 12:17:29:102] <10414> goodname:리눅스커널캠프 참가신청
+DEBUG	[2015-07-20 12:17:29:102] <10414> currency:WON
+DEBUG	[2015-07-20 12:17:29:102] <10414> mid:
+DEBUG	[2015-07-20 12:17:29:102] <10414> rn:
+DEBUG	[2015-07-20 12:17:29:102] <10414> price:
+DEBUG	[2015-07-20 12:17:29:102] <10414> enctype:
+DEBUG	[2015-07-20 12:17:29:102] <10414> buyername:이응종
+DEBUG	[2015-07-20 12:17:29:102] <10414> buyertel:01049427371
+DEBUG	[2015-07-20 12:17:29:102] <10414> buyeremail:dmdwhd1002@knu.ac.kr
+DEBUG	[2015-07-20 12:17:29:102] <10414> paymethod:Card
+DEBUG	[2015-07-20 12:17:29:102] <10414> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=linuxcamp_36176798&ver_trace=main(6095,6058)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=ZzgP9ZHp05feQ3qVjyGgQoSJVTf0SBEMew3SYjq07/Je/MKJm1LokfGLDjIDdk0X
+HryNKZr8B6yF1YbLtesDFoTh1pMv9Ycidn54b6r0w/KOBlWdu3UGIi/NMySceaZ4
+Kj2mOJmoomfitxIfXSmVXZiDKMr1hn021IrAyn6dKhNd6mdSjTtiA+VriZkXqYbT
+Ctfr4m3dynoXe9yV2Q1AuXkoQymRojz8MXUbHFQnYmqRjYRnctX8iZgvonxiXTuR
+ICrmDLnVgC76f/RoEgELOsZDE5FcqKEnmxlkyBu316PRS+IwHF3PAp44KWb5TbTR
++tIrHm7kRgHvPJBVj8qaloFq44wRnMsBzQUZEhLURuP2pCMJegpZOvrgxfbXf6KI
+c8lV7DLbaBK2tIMtTt6rCXmXFmCgnZ8aT93IaSp/mLShmMFsm8CGLbwgVjiwQgd4
+7/efBU3Auyhw6EuFCq7Kfy91ZsppyIb0mqHp4Vq7OLwO6eadphxTYyW/ajSwq93q
+kocMWS10rqweQMfMzbjPpRxHFAuZuNIpKnoVhe5A7BvSaeF91o6I6wZ1bhspFSWp
+TjXbH6nvCgfHNsPha42MvAX2ltXHEdM9HG2+v1h9G9S1x73sF0ZtJkFeJP7hKSRA
+NW+pOfOnQkpXkXRg6giFIaCU0HL4UP46DJqWHYR467BIl/Nm7cdoY7lnqcLt
+DEBUG	[2015-07-20 12:17:29:102] <10414> sessionkey:KEGZKR/Psyzvpre6PpTsbHGitqEw8irXLKnO591YEfJl2FlxH7dSxzB5DoKk8ifP
+MH7yicpcCPr/PiIlJQAE+Sz3x6JjUEZirzmoaTltTtW0ZooiD+jpMlTFws5QMIS3
+2yGpxlrqYIGYfcDDo+GzldTcwjXQ97FFpH/pOdjxQN4=
+DEBUG	[2015-07-20 12:17:29:102] <10414> url:http://linuxcamp.kau.ac.kr
+DEBUG	[2015-07-20 12:17:29:102] <10414> cardcode:14
+DEBUG	[2015-07-20 12:17:29:102] <10414> workplace:경북대학교
+DEBUG	[2015-07-20 12:17:29:102] <10414> pfname:정임영
+DEBUG	[2015-07-20 12:17:29:102] <10414> pos:500000
+DEBUG	[2015-07-20 12:17:29:102] <10414> dealoid:linuxcamp_36176798
+DEBUG	[2015-07-20 12:17:29:102] <10414> joincard:
+DEBUG	[2015-07-20 12:17:29:102] <10414> joinexpire:
+DEBUG	[2015-07-20 12:17:29:102] <10414> id_customer:
+ERROR	[2015-07-20 12:17:29:112] <10414> 필수항목(mid)이 누락되었습니다.
+INFO	[2015-07-20 12:17:29:112] <10414> END securepay [TX9202|필수항목(mid)이 누락되었습니다.] Laptime:[0.011sec]
+INFO	[2015-07-20 12:17:29:112] <10414> ===============================================================

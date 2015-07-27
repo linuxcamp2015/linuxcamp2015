@@ -1,0 +1,966 @@
+INFO	[2015-07-21 00:36:42:437] <14088> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 00:36:42:437] <14088> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 00:36:42:437] <14088> type:chkfake
+DEBUG	[2015-07-21 00:36:42:437] <14088> debug:true
+DEBUG	[2015-07-21 00:36:42:437] <14088> enctype:asym
+DEBUG	[2015-07-21 00:36:42:437] <14088> admin:1111
+DEBUG	[2015-07-21 00:36:42:437] <14088> checkopt:false
+DEBUG	[2015-07-21 00:36:42:437] <14088> mid:Kisssig002
+DEBUG	[2015-07-21 00:36:42:437] <14088> price:900000
+DEBUG	[2015-07-21 00:36:42:437] <14088> nointerest:no
+DEBUG	[2015-07-21 00:36:42:437] <14088> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 00:36:42:437] <14088> oid:linuxcamp_54334095
+INFO	[2015-07-21 00:36:42:437] <14088> Check Field OK
+INFO	[2015-07-21 00:36:42:438] <14088> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 00:36:42:438] <14088> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 00:36:42:440] <14088> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwMDM2NDI0Mzg3NTA2Ng==
+
+INFO	[2015-07-21 00:36:42:440] <14088> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-21 00:36:42:440] <14088> ===============================================================
+INFO	[2015-07-21 00:38:02:954] <14249> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 00:38:02:954] <14249> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 00:38:02:954] <14249> type:chkfake
+DEBUG	[2015-07-21 00:38:02:954] <14249> debug:true
+DEBUG	[2015-07-21 00:38:02:954] <14249> enctype:asym
+DEBUG	[2015-07-21 00:38:02:954] <14249> admin:1111
+DEBUG	[2015-07-21 00:38:02:954] <14249> checkopt:false
+DEBUG	[2015-07-21 00:38:02:954] <14249> mid:Kisssig002
+DEBUG	[2015-07-21 00:38:02:954] <14249> price:900000
+DEBUG	[2015-07-21 00:38:02:954] <14249> nointerest:no
+DEBUG	[2015-07-21 00:38:02:954] <14249> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 00:38:02:954] <14249> oid:linuxcamp_45770862
+INFO	[2015-07-21 00:38:02:955] <14249> Check Field OK
+INFO	[2015-07-21 00:38:02:955] <14249> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 00:38:02:955] <14249> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 00:38:02:957] <14249> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwMDM4MDI5NTUxMjk4Nw==
+
+INFO	[2015-07-21 00:38:02:957] <14249> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-21 00:38:02:957] <14249> ===============================================================
+INFO	[2015-07-21 00:38:27:778] <14088> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 00:38:27:778] <14088> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 00:38:27:778] <14088> type:chkfake
+DEBUG	[2015-07-21 00:38:27:778] <14088> debug:true
+DEBUG	[2015-07-21 00:38:27:778] <14088> enctype:asym
+DEBUG	[2015-07-21 00:38:27:778] <14088> admin:1111
+DEBUG	[2015-07-21 00:38:27:778] <14088> checkopt:false
+DEBUG	[2015-07-21 00:38:27:778] <14088> mid:Kisssig002
+DEBUG	[2015-07-21 00:38:27:778] <14088> price:900000
+DEBUG	[2015-07-21 00:38:27:778] <14088> nointerest:no
+DEBUG	[2015-07-21 00:38:27:778] <14088> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 00:38:27:778] <14088> oid:linuxcamp_20609866
+INFO	[2015-07-21 00:38:27:778] <14088> Check Field OK
+INFO	[2015-07-21 00:38:27:779] <14088> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 00:38:27:779] <14088> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 00:38:27:780] <14088> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwMDM4Mjc3Nzk0NDUyMQ==
+
+INFO	[2015-07-21 00:38:27:780] <14088> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-21 00:38:27:780] <14088> ===============================================================
+INFO	[2015-07-21 00:50:16:469] <14103> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 00:50:16:469] <14103> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 00:50:16:469] <14103> type:chkfake
+DEBUG	[2015-07-21 00:50:16:469] <14103> debug:true
+DEBUG	[2015-07-21 00:50:16:469] <14103> enctype:asym
+DEBUG	[2015-07-21 00:50:16:469] <14103> admin:1111
+DEBUG	[2015-07-21 00:50:16:469] <14103> checkopt:false
+DEBUG	[2015-07-21 00:50:16:469] <14103> mid:Kisssig002
+DEBUG	[2015-07-21 00:50:16:469] <14103> price:500000
+DEBUG	[2015-07-21 00:50:16:469] <14103> nointerest:no
+DEBUG	[2015-07-21 00:50:16:469] <14103> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 00:50:16:469] <14103> oid:linuxcamp_75167002
+INFO	[2015-07-21 00:50:16:469] <14103> Check Field OK
+INFO	[2015-07-21 00:50:16:469] <14103> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 00:50:16:470] <14103> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 00:50:16:471] <14103> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwMDUwMTY0NzA3OTUzOA==
+
+INFO	[2015-07-21 00:50:16:471] <14103> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-21 00:50:16:471] <14103> ===============================================================
+INFO	[2015-07-21 00:57:42:705] <14103> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 00:57:42:705] <14103> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 00:57:42:705] <14103> type:securepay
+DEBUG	[2015-07-21 00:57:42:705] <14103> pgid:INIphpCARD
+DEBUG	[2015-07-21 00:57:42:705] <14103> subpgip:203.238.3.10
+DEBUG	[2015-07-21 00:57:42:705] <14103> admin:1111
+DEBUG	[2015-07-21 00:57:42:705] <14103> debug:true
+DEBUG	[2015-07-21 00:57:42:705] <14103> uid:
+DEBUG	[2015-07-21 00:57:42:705] <14103> goodname:리눅스커널캠프 참가신청
+DEBUG	[2015-07-21 00:57:42:705] <14103> currency:WON
+DEBUG	[2015-07-21 00:57:42:705] <14103> mid:Kisssig002
+DEBUG	[2015-07-21 00:57:42:705] <14103> rn:MjAxNTA3MjEwMDUwMTY0NzA3OTUzOA==
+
+DEBUG	[2015-07-21 00:57:42:705] <14103> price:500000
+DEBUG	[2015-07-21 00:57:42:705] <14103> enctype:
+DEBUG	[2015-07-21 00:57:42:705] <14103> buyername:강형석
+DEBUG	[2015-07-21 00:57:42:705] <14103> buyertel:01036910394
+DEBUG	[2015-07-21 00:57:42:705] <14103> buyeremail:hseokkang@gmail.com
+DEBUG	[2015-07-21 00:57:42:705] <14103> paymethod:Card
+DEBUG	[2015-07-21 00:57:42:705] <14103> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=linuxcamp_75167002&ver_trace=main(6095,6058)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=bQKIEFhxALxNfcaS9qKqFMYki3j3QOw6dhybArP/WAg8TcSgx8y8RV/NVtZxo2C7
+VpnM3/Yml6BrqgLYJW+csk4B8B5Fo5rN8n9dfJqEWNTlel+E3Mwg0WixaXcNmiQL
+nlfodOO9RRSJyWZYB1SFEud5D/peyIIPrkULL7m7CcZUZn1Z/gRAp6qrT28r7ch3
+Rnx3j4WMBTt0r+Ck91X5vtCoErM+xohLsTX88XciRlOp4hI244vuC9GIhrChl885
+iecME+XvKQDXnBzvmkgbXzw/gd+2y02CnmtntRTulTqFRVQXzz9XorCvagEm2NLi
+a5M0mEs0GQ4pDrwo6w9/nEy1FRyL2UEd7b41C9ZQym6li3MqCSV9toh5n5+ioeaf
+unXitJB4Ls8vaiL+WmPeN2Ix/73Bj52U7OyCz51aUEyNKOQGUdRy7pomKO05fIdP
+VEqFDXkGvn+6y3Sy0kbv4VhpIy2/tskSrySisfIg66J+fY+/lPOdpZRbcfbT+HCL
+FGrl83WQvFswvzZNs4pifOfDI7WxZpCzE08h32Xtsh57XzfVCrokzMH2m/SAUdP4
+ctiJ06vR3YlUZfJKfPZAvdeCcbgnGTBUhEJBK9flS32Ky5rxE6kO3PE2+xbXY0Mz
+XGDG8hANVkQ2jMNxSUOvCqqF+yhbRUG7DMGVrA+Q3gSqGbLancbQjN3zQi43GF4=
+DEBUG	[2015-07-21 00:57:42:705] <14103> sessionkey:WdfdcKCJ03+bQC3kDdSXHLXpzc3CZMRno3TpTBJENV6GZB78x7okb1zaiRc9yuBS
+MpGTZjYko3KGRED9ozyrQDOY0oysfyKexoEWrFutf5X3O9ntJOrT4HsT18C750CZ
+lZJrVtHooRCOh+ms5HCjPAS0gSn3KpjB18ZIUmCxIEs=
+DEBUG	[2015-07-21 00:57:42:705] <14103> url:http://linuxcamp.kau.ac.kr
+DEBUG	[2015-07-21 00:57:42:705] <14103> cardcode:14
+DEBUG	[2015-07-21 00:57:42:705] <14103> workplace:숭실대학교
+DEBUG	[2015-07-21 00:57:42:705] <14103> pfname:김강희
+DEBUG	[2015-07-21 00:57:42:705] <14103> pos:500000
+DEBUG	[2015-07-21 00:57:42:705] <14103> dealoid:linuxcamp_75167002
+DEBUG	[2015-07-21 00:57:42:705] <14103> joincard:
+DEBUG	[2015-07-21 00:57:42:705] <14103> joinexpire:
+DEBUG	[2015-07-21 00:57:42:705] <14103> id_customer:
+INFO	[2015-07-21 00:57:42:705] <14103> Check Field OK
+INFO	[2015-07-21 00:57:42:705] <14103> Make TID OK INIphpCARDKisssig00220150721005742053347
+INFO	[2015-07-21 00:57:42:706] <14103> PI PUB KEY LOAD OK [39]
+INFO	[2015-07-21 00:57:42:706] <14103> PG PUB KEY LOAD OK [30]
+INFO	[2015-07-21 00:57:42:707] <14103> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 00:57:42:707] <14103> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-07-21 00:57:42:708] <14103> MAKE BODY OK
+INFO	[2015-07-21 00:57:42:710] <14103> SIGN OK
+INFO	[2015-07-21 00:57:42:710] <14103> MAKE HEAD OK
+INFO	[2015-07-21 00:57:42:710] <14103> MSG_TO_PG:[0278100175R SHA1                   0                  39                  300200Kisssig002              500000INIphpCARDKisssig00220150721005742053347<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>Kisssig002</SMID>
+	      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+	      <GoodsPrice>500000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%B0%AD%C7%FC%BC%AE</BuyerName>
+	    <BuyerTel>01036910394</BuyerTel>
+	    <BuyerEmail urlencode="1">hseokkang%40gmail.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>Card</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>WdfdcKCJ03+bQC3kDdSXHLXpzc3CZMRno3TpTBJENV6GZB78x7okb1zaiRc9yuBS
+MpGTZjYko3KGRED9ozyrQDOY0oysfyKexoEWrFutf5X3O9ntJOrT4HsT18C750CZ
+lZJrVtHooRCOh+ms5HCjPAS0gSn3KpjB18ZIUmCxIEs=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3Dlinuxcamp_75167002%26ver_trace%3Dmain%286095%2C6058%29card%286138%2C6122%29n%286008%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286006%29P%286033%29en%286052%29nP%286006%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26Data%3DbQKIEFhxALxNfcaS9qKqFMYki3j3QOw6dhybArP%2FWAg8TcSgx8y8RV%2FNVtZxo2C7%0D%0AVpnM3%2FYml6BrqgLYJW%2Bcsk4B8B5Fo5rN8n9dfJqEWNTlel%2BE3Mwg0WixaXcNmiQL%0D%0AnlfodOO9RRSJyWZYB1SFEud5D%2FpeyIIPrkULL7m7CcZUZn1Z%2FgRAp6qrT28r7ch3%0D%0ARnx3j4WMBTt0r%2BCk91X5vtCoErM%2BxohLsTX88XciRlOp4hI244vuC9GIhrChl885%0D%0AiecME%2BXvKQDXnBzvmkgbXzw%2Fgd%2B2y02CnmtntRTulTqFRVQXzz9XorCvagEm2NLi%0D%0Aa5M0mEs0GQ4pDrwo6w9%2FnEy1FRyL2UEd7b41C9ZQym6li3MqCSV9toh5n5%2Bioeaf%0D%0AunXitJB4Ls8vaiL%2BWmPeN2Ix%2F73Bj52U7OyCz51aUEyNKOQGUdRy7pomKO05fIdP%0D%0AVEqFDXkGvn%2B6y3Sy0kbv4VhpIy2%2FtskSrySisfIg66J%2BfY%2B%2FlPOdpZRbcfbT%2BHCL%0D%0AFGrl83WQvFswvzZNs4pifOfDI7WxZpCzE08h32Xtsh57XzfVCrokzMH2m%2FSAUdP4%0D%0ActiJ06vR3YlUZfJKfPZAvdeCcbgnGTBUhEJBK9flS32Ky5rxE6kO3PE2%2BxbXY0Mz%0D%0AXGDG8hANVkQ2jMNxSUOvCqqF%2ByhbRUG7DMGVrA%2BQ3gSqGbLancbQjN3zQi43GF4%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Flinuxcamp.kau.ac.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.13.0-44-genericPHP:5.5.9-1ub</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA3MjEwMDUwMTY0NzA3OTUzOA==
+</TXRN></ManageInfo></INIpay>dEPBc39Fcu58FYndVnn79LbOUPYqgE736h7J9SY5FUNckFpxws9HSQfYELAiS60B
+q9YZhzlgtL2o/C+nsEcAV6KLVWVBoJ9Zf3WuuoiJKmZV9RyIUsSXZcO3XdKsBCdQ
+k3vLH9U64zePUD2P669UFbtwWWfjuf5bn8toxLV1lHc=
+]
+INFO	[2015-07-21 00:57:42:710] <14103> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-07-21 00:57:42:713] <14103> SOCKET CONNECT OK
+INFO	[2015-07-21 00:57:42:713] <14103> SEND OK
+INFO	[2015-07-21 00:57:43:708] <14103> RECV OK
+INFO	[2015-07-21 00:57:43:708] <14103> MSG_FROM_PG:[0312800175D SHA1                   0                  39                  300210Kisssig002              500000INIphpCARDKisssig00220150721005742053347<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">linuxcamp_75167002</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>Kisssig002</SMID>
+      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>500000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>EuyKi+EgGod0mOTGjhGpW1tt/PB6yDhzkcm4rW6b4Tyt1hpMmzGKEZ9Ncc+iI9ss
+2yPJTCZV86Gmh4UvQ1VbLJPz8oFu/bQbFtpBK/T3pXEfJd2RHYVo3yOJ1+VNcZS5
+2+B1huNTN/83xoyabuIFd0NF9O4fHD0QYyv2IEa/w7QH49Ce//GbXg==
+</SessionKey>
+      <Encrypted>KfOgq/XsPOi8ljzo9y3AMa1T25RsF7QX41EYiL03GL8Syf9xiAKmMV0mpulGfsYH
+eFQosFppT9CYI7xgTOVO0gIacLRDSyNPxgHamTRX936VT0AG2dwZPMvMZrbGDvq/
+EZtpVcAeitxFuDCYCULqQ6So9pCS2QS8R74l1YJLh4UmC+yANp/ZUxQDhC/7jHAh
+VGNt0/R9QcU5ofWidobAuwnMS2NkwZWqJGVXx7Q6fuhmRYAY21xKceCM8tlmS3cl
+4rMJyCFauYQQURIzY2YgWXTcupvkPRHIntg9Vw68vW4eyZtxNheHZ9wK3eFU7kYB
+o9xcNEJPNXiJ/vkh+HI/2U2axbg2UjAr3DvchFOrkVll4LGG/xHALAt+9rn3nKI4
+pk5z+mzbSjSiuvh/7NSd5Czr0E+LD+QQDoUR2njHZMMoNnJTaSL2fA3Cpnyh1dqo
+xKuR1Cu4/1JQtiEeWCglPPG/suZJD81DvilZzWfxA6rXea1hozg5sr0dLUmaPQWr
+0sTPhgCsP6+Y20cC4EbZSe1LtGlBjGSS21jMbwJ1Q8qUPsVfeN9hbXQzPG5nHF4f
+eaZROLzWSD7VkHDDmA7BSkTPjKD2nHpCSJDSqpAgwCVtfAStIZ+iKUQNueHe2z8n
+pVA6dwuugIzz7thvPfBsSbKttmMcslT97ptexkO036Gs4CIjzWFvZp/stOZYfjcw
+1ZsKSITAwbsWPUIRZ30FEVGoPRIsrfQqEOzDaeHIbHcw/Jxf1kdwXo2ZquEDt3He
+ZQtsBTrAdkDGboat8Ia00I3comtKt5MzI20FhhKBBXnozkqZSF+i3NMq309fOVcA
+3RGMA7t45vDmnFGSXtSwYfMtjSTaSqKq34cq7ngkgDNNpVy2Rq9jZz/jTEOcTlM3
+zWhjszOwN7ur9GSQkV4nidH421UtaABOIVXvGbgfj2XO7enXJVIwx33sc3ZEPOZa
+U7/txhW2SwbQIVHIKUVHgU+xLG/vF3N4KaY2v36AV5avHRArGB5ycND11VwhuQmz
+N1aztSpcXhmk1vb+5Hcf5PsE0p/+aJ8cgiBsa7BE5zCrmP3IA+aHsiSF6iHkaS0b
+fJv+dbsCXmWxvk9R1HF/kRMEJrWGZqWTUv5zFxz/o2ZHu9c4xAbYPJMtUds9JFOv
+dvmiDrByiuHcIKdvkvVDqvG1ayo/jtw1rnhgzhy9AP/NvLxcjs0Ii0sgkPv+LzJG
+mVPaiJOOU45mjKPGcJPNehQxgrnq7eT/F0cS77L7kHN1A6M1edDUch0Y9szw0EKD
+/gssRAtT4EIWgT2i0NREsuTojI/rUZ+26FXUMx3sIsts24ci4YJjTIUhVFuA0B6Q
+2qthOpcXbgy2NKNXT5fFISZq1YTmbhnQaVHkWCtIYr9hmiiE3i6Dsy+hYxu7OzDQ
+Dl9XnmGBurpLH6HkKkroaLutDHMo7czKJwb7bcQPMr1LL7ROPKraWyELTGWxh1jm
+/wAh6FAARPxGtLVXNZ5kgSToemC6cXowTXBumnFAQ+pf5zXgvNNFLPRDzpLZIslS
+xk5AtRNdwQN+LqIkzTXCxfifiwhVLeYGk3pvRGIN0iWmzFQTRhYsykJKDer07U/H
+mLxE5k+PakpYGg/l+3VaPxypqz7kHN/j98DtUTiEKriKVRraw8gUsMc8bryU4arq
+f56jFFG3zc57G2z5n/kjJ82H0F+dvjkUIdNL7keEDaOzYE6mD5d7EromXH/94eQo
+</Encrypted>
+      <PayMethod>Card</PayMethod>
+      <ResultCode>120000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+eCK8bkSSsndwbn7MZvB+35enxkCHhlmPrMxph/aUKaqm3RMQel8fzQb687mN+fro
+mPZzcy8HdX6CI8AqT2hSDsW55VkW0TF81UmLuqYDk2XAeT7lki0RfVMYX28t11UY
+GCZ2r1uDVCxM+m8IFREXq/wvW3zDzqwbfH4egSjhxSg=
+]
+INFO	[2015-07-21 00:57:43:708] <14103> VERIFY OK
+INFO	[2015-07-21 00:57:43:708] <14103> PARSE HEAD OK
+INFO	[2015-07-21 00:57:43:711] <14103> PARSE BODY OK
+INFO	[2015-07-21 00:57:43:713] <14103> DECRYPT OK
+DEBUG	[2015-07-21 00:57:43:713] <14103> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <Card>
+      <CARD_ApplPrice>500000</CARD_ApplPrice>
+      <CARD_Num></CARD_Num>
+      <CARD_Expire></CARD_Expire>
+      <CARD_Code>14</CARD_Code>
+      <CARD_BankCode>26</CARD_BankCode>
+      <CARD_Quota>00</CARD_Quota>
+      <CARD_Interest>0</CARD_Interest>
+      <CARD_Point></CARD_Point>
+      <CARD_AuthType>99</CARD_AuthType>
+      <CARD_RegNum></CARD_RegNum>
+      <CARD_ApplDate>20150721</CARD_ApplDate>
+      <CARD_ApplTime>005737</CARD_ApplTime>
+      <CARD_ApplNum>02184480</CARD_ApplNum>
+      <CARD_TerminalNum>0197727000</CARD_TerminalNum>
+      <CARD_MemberNum></CARD_MemberNum>
+      <CARD_PurchaseCode></CARD_PurchaseCode>
+      <CARD_ResultCode>120000</CARD_ResultCode>
+      <CARD_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CARD_ResultMsg>
+      <CARD_PrtcCode>1</CARD_PrtcCode>
+      <CARD_Quota_Point>00</CARD_Quota_Point>
+      <CARD_CheckFlag>1</CARD_CheckFlag>
+      <CARD_PurchaseName urlencode="1"></CARD_PurchaseName>
+      <CARD_IssuerName urlencode="1"></CARD_IssuerName>
+      <CARD_JoinUsePoint></CARD_JoinUsePoint>
+      <CARD_UsePoint></CARD_UsePoint>
+      <CARD_CouponOnlyMer></CARD_CouponOnlyMer>
+    </Card>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-07-21 00:57:43:716] <14103> DECRYPT PARSE OK
+INFO	[2015-07-21 00:57:43:716] <14103> WAIT ACK INVOKING
+DEBUG	[2015-07-21 00:57:43:716] <14103> MAKE HEAD OK
+INFO	[2015-07-21 00:57:43:719] <14103> SUCCESS ACK INVOKING
+INFO	[2015-07-21 00:57:43:719] <14103> END securepay 정상처리되었습니다. Laptime:[1.014sec]
+INFO	[2015-07-21 00:57:43:719] <14103> ===============================================================
+INFO	[2015-07-21 00:59:23:474] <14418> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 00:59:23:474] <14418> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 00:59:23:474] <14418> type:chkfake
+DEBUG	[2015-07-21 00:59:23:474] <14418> debug:true
+DEBUG	[2015-07-21 00:59:23:474] <14418> enctype:asym
+DEBUG	[2015-07-21 00:59:23:474] <14418> admin:1111
+DEBUG	[2015-07-21 00:59:23:474] <14418> checkopt:false
+DEBUG	[2015-07-21 00:59:23:474] <14418> mid:Kisssig002
+DEBUG	[2015-07-21 00:59:23:474] <14418> price:500000
+DEBUG	[2015-07-21 00:59:23:474] <14418> nointerest:no
+DEBUG	[2015-07-21 00:59:23:474] <14418> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 00:59:23:474] <14418> oid:linuxcamp_45652714
+INFO	[2015-07-21 00:59:23:474] <14418> Check Field OK
+INFO	[2015-07-21 00:59:23:474] <14418> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 00:59:23:474] <14418> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 00:59:23:475] <14418> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwMDU5MjM0NzQxMzczOA==
+
+INFO	[2015-07-21 00:59:23:475] <14418> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-21 00:59:23:475] <14418> ===============================================================
+INFO	[2015-07-21 01:00:23:738] <14103> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 01:00:23:738] <14103> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 01:00:23:738] <14103> type:securepay
+DEBUG	[2015-07-21 01:00:23:738] <14103> pgid:INIphpCARD
+DEBUG	[2015-07-21 01:00:23:738] <14103> subpgip:203.238.3.10
+DEBUG	[2015-07-21 01:00:23:738] <14103> admin:1111
+DEBUG	[2015-07-21 01:00:23:738] <14103> debug:true
+DEBUG	[2015-07-21 01:00:23:738] <14103> uid:
+DEBUG	[2015-07-21 01:00:23:738] <14103> goodname:리눅스커널캠프 참가신청
+DEBUG	[2015-07-21 01:00:23:738] <14103> currency:WON
+DEBUG	[2015-07-21 01:00:23:738] <14103> mid:Kisssig002
+DEBUG	[2015-07-21 01:00:23:738] <14103> rn:MjAxNTA3MjEwMDU5MjM0NzQxMzczOA==
+
+DEBUG	[2015-07-21 01:00:23:738] <14103> price:500000
+DEBUG	[2015-07-21 01:00:23:738] <14103> enctype:
+DEBUG	[2015-07-21 01:00:23:738] <14103> buyername:조민정
+DEBUG	[2015-07-21 01:00:23:738] <14103> buyertel:01088667206
+DEBUG	[2015-07-21 01:00:23:738] <14103> buyeremail:jomin9292@gmail.com
+DEBUG	[2015-07-21 01:00:23:738] <14103> paymethod:Card
+DEBUG	[2015-07-21 01:00:23:738] <14103> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=linuxcamp_45652714&ver_trace=main(6095,6058)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=N/RtBDrjS2wfto0c6Ggd6CL/MGZi0L9blXjw4L7KSMZIuiDzjU303VRGRywdzP0E
+ciWWtAMKczDjtBnXl/6o6p5/QZ+kqtX6q6tu6tjVn04bqW0lVDNrzmqn34B17KF8
+BDAyBmFVL/NXHfVo3R4Xc2YNk2CDE0VKtldvWbNbccVv6ptysYu/ENH9VPh4Lwif
+MINoGRZL8evzpqCbywr+97ns8Nkat0OlIuM1X9IfICmjxxfmQQl+4PF3kTig+78D
+/K2YvBOrOT+EUF+hGKXMJRZrcHRWPXRGm479XH2p/++fYxjQW0rBGK66X3b/sK7O
+/voAzKQSm2voIQJA7w1/tr8400CdPanDuWQOcFi+TW5xQrYUIM+aW6r57D2Nyqn6
+NUlbtitP4DCdafTXQyNPdFCSIbQ/jMVDGvLgNbvCD/ofIRrLE/z0jrbUShJaOXGy
+v+DUao+sGT2bZAlHIeVYFQIXQxQ9+YFxjGCn4uu7A+LAKZ9Jg1Akzb4QJYQa01nt
+4klw1YlH5VwEuNIX1E75MHATWtx9yvhtSHWyzaOjY/FEuld93jNaEWYRrkTGiCwK
+IYnZN9C1L74wCFpxbLhflI/lMwnQkg+E3hFMfkMCYwQuLkI+e7If2vMs70wgpasv
+ARFrqdSFdONi2aRv1d+ss97z59+WsLhxq3FfAimwa9/JGVpgDb9hbmc2rLEWZH0=
+DEBUG	[2015-07-21 01:00:23:738] <14103> sessionkey:aVdJK4Q4tCY7QqKIe1mjTZ0sgkWOECc6CifM6dsILXf652+PlBWiPbFVYVeTfI99
+dNhZX2nwFPaEUMIm3hHVanZONsLDRkI/PMJBw5PsAX/rzx75r1TLAZ1yzJItxN+P
+oxZPRoJrsdIpqUbRDy0piZCuPbsWQev84+WykMtQhjQ=
+DEBUG	[2015-07-21 01:00:23:738] <14103> url:http://linuxcamp.kau.ac.kr
+DEBUG	[2015-07-21 01:00:23:738] <14103> cardcode:14
+DEBUG	[2015-07-21 01:00:23:738] <14103> workplace:숭실대학교
+DEBUG	[2015-07-21 01:00:23:738] <14103> pfname:김강희
+DEBUG	[2015-07-21 01:00:23:738] <14103> pos:500000
+DEBUG	[2015-07-21 01:00:23:738] <14103> dealoid:linuxcamp_45652714
+DEBUG	[2015-07-21 01:00:23:738] <14103> joincard:
+DEBUG	[2015-07-21 01:00:23:738] <14103> joinexpire:
+DEBUG	[2015-07-21 01:00:23:738] <14103> id_customer:
+INFO	[2015-07-21 01:00:23:738] <14103> Check Field OK
+INFO	[2015-07-21 01:00:23:739] <14103> Make TID OK INIphpCARDKisssig00220150721010023395699
+INFO	[2015-07-21 01:00:23:739] <14103> PI PUB KEY LOAD OK [39]
+INFO	[2015-07-21 01:00:23:739] <14103> PG PUB KEY LOAD OK [30]
+INFO	[2015-07-21 01:00:23:740] <14103> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 01:00:23:740] <14103> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-07-21 01:00:23:741] <14103> MAKE BODY OK
+INFO	[2015-07-21 01:00:23:743] <14103> SIGN OK
+INFO	[2015-07-21 01:00:23:743] <14103> MAKE HEAD OK
+INFO	[2015-07-21 01:00:23:743] <14103> MSG_TO_PG:[0279900175R SHA1                   0                  39                  300200Kisssig002              500000INIphpCARDKisssig00220150721010023395699<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>Kisssig002</SMID>
+	      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+	      <GoodsPrice>500000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C1%B6%B9%CE%C1%A4</BuyerName>
+	    <BuyerTel>01088667206</BuyerTel>
+	    <BuyerEmail urlencode="1">jomin9292%40gmail.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>Card</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>aVdJK4Q4tCY7QqKIe1mjTZ0sgkWOECc6CifM6dsILXf652+PlBWiPbFVYVeTfI99
+dNhZX2nwFPaEUMIm3hHVanZONsLDRkI/PMJBw5PsAX/rzx75r1TLAZ1yzJItxN+P
+oxZPRoJrsdIpqUbRDy0piZCuPbsWQev84+WykMtQhjQ=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3Dlinuxcamp_45652714%26ver_trace%3Dmain%286095%2C6058%29card%286138%2C6122%29n%286008%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286006%29P%286033%29en%286052%29nP%286006%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26Data%3DN%2FRtBDrjS2wfto0c6Ggd6CL%2FMGZi0L9blXjw4L7KSMZIuiDzjU303VRGRywdzP0E%0D%0AciWWtAMKczDjtBnXl%2F6o6p5%2FQZ%2BkqtX6q6tu6tjVn04bqW0lVDNrzmqn34B17KF8%0D%0ABDAyBmFVL%2FNXHfVo3R4Xc2YNk2CDE0VKtldvWbNbccVv6ptysYu%2FENH9VPh4Lwif%0D%0AMINoGRZL8evzpqCbywr%2B97ns8Nkat0OlIuM1X9IfICmjxxfmQQl%2B4PF3kTig%2B78D%0D%0A%2FK2YvBOrOT%2BEUF%2BhGKXMJRZrcHRWPXRGm479XH2p%2F%2B%2BfYxjQW0rBGK66X3b%2FsK7O%0D%0A%2FvoAzKQSm2voIQJA7w1%2Ftr8400CdPanDuWQOcFi%2BTW5xQrYUIM%2BaW6r57D2Nyqn6%0D%0ANUlbtitP4DCdafTXQyNPdFCSIbQ%2FjMVDGvLgNbvCD%2FofIRrLE%2Fz0jrbUShJaOXGy%0D%0Av%2BDUao%2BsGT2bZAlHIeVYFQIXQxQ9%2BYFxjGCn4uu7A%2BLAKZ9Jg1Akzb4QJYQa01nt%0D%0A4klw1YlH5VwEuNIX1E75MHATWtx9yvhtSHWyzaOjY%2FFEuld93jNaEWYRrkTGiCwK%0D%0AIYnZN9C1L74wCFpxbLhflI%2FlMwnQkg%2BE3hFMfkMCYwQuLkI%2Be7If2vMs70wgpasv%0D%0AARFrqdSFdONi2aRv1d%2Bss97z59%2BWsLhxq3FfAimwa9%2FJGVpgDb9hbmc2rLEWZH0%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Flinuxcamp.kau.ac.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.13.0-44-genericPHP:5.5.9-1ub</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA3MjEwMDU5MjM0NzQxMzczOA==
+</TXRN></ManageInfo></INIpay>xDCxn08E2/44V4zxZlOZF+RaPcudEbFdkxdKDpIic1a2YnR7CAE3UVOHV9gzt4a3
+J17PksEfaOzvbxkjdrpdcOVbElmZh7e6+zFnB3JFdyMkzfu1qTrsDwaPBZ1U8Zei
+L4HXZ+DiygWuYzF8XiPuw1KSnfq5nI3K3b0Mm62o92A=
+]
+INFO	[2015-07-21 01:00:23:743] <14103> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-07-21 01:00:23:745] <14103> SOCKET CONNECT OK
+INFO	[2015-07-21 01:00:23:745] <14103> SEND OK
+INFO	[2015-07-21 01:00:24:546] <14103> RECV OK
+INFO	[2015-07-21 01:00:24:546] <14103> MSG_FROM_PG:[0315300175D SHA1                   0                  39                  300210Kisssig002              500000INIphpCARDKisssig00220150721010023395699<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">linuxcamp_45652714</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>Kisssig002</SMID>
+      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>500000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>CPkcEleZE4RS86Z8Bbka5MMqO+fOxNKRIAR41uuIjToMfpVIYN25hulQPP2nco4E
+VRJ/5V2cXiQIqV8/ESqcAh7PGDs+uZuQP1fNhISwf1KqyVc7dCxscfHalxlYkseb
+ifJvECmE0UMYRnq2FQSfQLcN9hNEe5yVICWeKe0lXzowV98EqkM0kQ==
+</SessionKey>
+      <Encrypted>Fcpl3bK/eNGbgu91qlm1JFcRpRPwOAPbkHXeWOicjVHuxoFMsKE5gbYDNfoza3jc
+jrX1P0E5OOr+5Pd1UFvqP5IOPlkBDtI2XKSQXk2ThXYCk7xAl++ef5wAfEgf7HGt
+U2REC+g35j86O7eDZSV96Z/NfgHMB/B3m5pytR0dPL07P8Yx5pg9CFXzYnCfttpI
+PFVnEzSzERj88ICgbfQv5O6CO71rxhC2iaN0kEkjTTfOJLcI5fNg7yd5zodY0tvp
+MyVJ/TApITnFEp1Eq9syHlhum1efZZglNXkF2RcrYmeIM07rjrlO3w5u85AXlBp5
+4G7KeF3SOKfY7Sb1Ku05YuLUUM12UZZ7VR3ne/rB+YWpL+LhDfNZxFPPKtAND1oz
+nvFaDUdIEj7xhWn3Y7Y1zQRYZgv/EvGX97qCe9ERly+LEzxw6rU+4/WabKlKNAQL
+KFUBljgpnYQI8sY6EG6XMweTaVISSdFc2ghy72ODmYa9Wy1O92eyQZncSA/Tbpn5
+kDR56ndr5es7PIbJRYLU64fqDzD2X2dWtwTxOpDMETzy9Uxy0QO+rJBWaZi+MDjw
+7ZBC3eFCMGqOsqV4+PmA89EPHRkGRiIOUHOSgsVZmchVTGBo8L/8m2JmyNn4aqsb
+4By6hYTrenOcs2FnT7F9HdOOHtxDqlpGJN4dPgF3M8IC73zXQGnn+Wy2GfzLvdiU
+4SOlYuq001JGiZzB2syoHetDX5+odTCIe7ZDX1Rc37PNgYYbpTHV9hidnFDZ5OaR
++CJTNacjbAECzm3L1ihQABAuaUkEmoZ2vjijyAC/FcU039lglt8FoTesECbexS6h
+dkW1Hi/G31HeNzEhBDKE3PejwtxJXivXGeiLVPgYoQqQiy2MwMRyY/baKQTDrgcD
+H+I4+b99mdgfdowiy7iCjJnWSq9yRq5sF7dvfb0JEVWgltBWS6FFF4fK4QsOcfrE
+1UxXyjj4qXllqhS7BB5fARtuF2a756cspIdAIXMzc+VUJoqY9nY+ooDf2mOUKuh1
+r+YX6AfDTM/SRCQDsrLnxm3Cbfxvx3XTxk2Hy7qs0Z+anOj9yJ4nr+sQ+J3y4yqy
+ElgNh/N8tzP5YuGF0ffiUtjJ0RkiaxcKJP6/B5OfetDkchD5NrMq1ojQl1i+G/LY
+QpcKN5FKk55jHQzfXYsGA7qGMsWAjAE5PWcWyWHmkfqJTRFdxA6aN4gNwZTSzCjT
+GjPFTScZkujWobCQflwiSV+OqcDzd7/7d8IWxa7uxnm7RfXEfQBK3xFXOKa9evZa
+rhWrvcL34oEgbyObsYBaN9W0l8SdQGP58hFTgxALpmUZT0ZIuyKkVvvh/j0OHv7i
+fr9JJW+nPzGH95Nuxcz7NnFqiH+IGxP3GVN0ttnmQY5f+JAgOLoGFhUUhVdhXxlZ
+IGVYeMOk4PEd8Z1lAJN/ybaHUI2GugLb0YJx8k4b0HDrviGA9DR6qWBpPbPjsjif
+dW9Qvr8/OyOkaOnPDI0yrQ4lOYW/WdDQq52kdt0Y9FD3vHsTtHwvPDuEoKHw4Fgo
+dkNeA6l7lCHVVFIRpr9tpriYAWI9SuCc+yWGSNAHihcPEDx4abLTIRJAxCxO/lwS
+QX2v9tjzjQzjBjrhFPdP8ArOpxBsWruEB0At5ZTV3h3Q+1sqbsXVkePZOztEKtBl
+7ybZYM/sYIIUYEOSofgV1lDNRvEXwGXi6bFDS4yKDW0QyY3P8flmRATEm0SjH2+t
+D/aDMPlZCuZdFMMUDgVX4A==
+</Encrypted>
+      <PayMethod>Card</PayMethod>
+      <ResultCode>120000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+FkbOSFkDLFAlQS6A5LGiRHH+9uikE4YDcvt/TrlA120mZRvMmN+pMRdlRQLVIQUP
+OFQ6QMIeL5bD9zZLrv1r9Q6dfRjD1Wq4nBPN2eVvTEAXS+/BwwxRzNzmgDuDpOWe
+69kVzydBxKCIvHKDHfFlLS9ZLrA7Y+jqNToqFAFODY0=
+]
+INFO	[2015-07-21 01:00:24:546] <14103> VERIFY OK
+INFO	[2015-07-21 01:00:24:546] <14103> PARSE HEAD OK
+INFO	[2015-07-21 01:00:24:548] <14103> PARSE BODY OK
+INFO	[2015-07-21 01:00:24:551] <14103> DECRYPT OK
+DEBUG	[2015-07-21 01:00:24:551] <14103> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <Card>
+      <CARD_ApplPrice>500000</CARD_ApplPrice>
+      <CARD_Num></CARD_Num>
+      <CARD_Expire></CARD_Expire>
+      <CARD_Code>14</CARD_Code>
+      <CARD_BankCode>26</CARD_BankCode>
+      <CARD_Quota>00</CARD_Quota>
+      <CARD_Interest>0</CARD_Interest>
+      <CARD_Point></CARD_Point>
+      <CARD_AuthType>99</CARD_AuthType>
+      <CARD_RegNum></CARD_RegNum>
+      <CARD_ApplDate>20150721</CARD_ApplDate>
+      <CARD_ApplTime>010018</CARD_ApplTime>
+      <CARD_ApplNum>02186710</CARD_ApplNum>
+      <CARD_TerminalNum>0197727000</CARD_TerminalNum>
+      <CARD_MemberNum></CARD_MemberNum>
+      <CARD_PurchaseCode></CARD_PurchaseCode>
+      <CARD_ResultCode>120000</CARD_ResultCode>
+      <CARD_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CARD_ResultMsg>
+      <CARD_PrtcCode>1</CARD_PrtcCode>
+      <CARD_Quota_Point>00</CARD_Quota_Point>
+      <CARD_CheckFlag>1</CARD_CheckFlag>
+      <CARD_PurchaseName urlencode="1"></CARD_PurchaseName>
+      <CARD_IssuerName urlencode="1"></CARD_IssuerName>
+      <CARD_JoinUsePoint></CARD_JoinUsePoint>
+      <CARD_UsePoint>000000000000</CARD_UsePoint>
+      <CARD_CouponOnlyMer></CARD_CouponOnlyMer>
+    </Card>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-07-21 01:00:24:553] <14103> DECRYPT PARSE OK
+INFO	[2015-07-21 01:00:24:553] <14103> WAIT ACK INVOKING
+DEBUG	[2015-07-21 01:00:24:553] <14103> MAKE HEAD OK
+INFO	[2015-07-21 01:00:24:555] <14103> SUCCESS ACK INVOKING
+INFO	[2015-07-21 01:00:24:555] <14103> END securepay 정상처리되었습니다. Laptime:[0.817sec]
+INFO	[2015-07-21 01:00:24:555] <14103> ===============================================================
+INFO	[2015-07-21 08:51:57:790] <14250> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 08:51:57:790] <14250> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 08:51:57:790] <14250> type:chkfake
+DEBUG	[2015-07-21 08:51:57:790] <14250> debug:true
+DEBUG	[2015-07-21 08:51:57:790] <14250> enctype:asym
+DEBUG	[2015-07-21 08:51:57:790] <14250> admin:1111
+DEBUG	[2015-07-21 08:51:57:790] <14250> checkopt:false
+DEBUG	[2015-07-21 08:51:57:790] <14250> mid:Kisssig002
+DEBUG	[2015-07-21 08:51:57:790] <14250> price:900000
+DEBUG	[2015-07-21 08:51:57:790] <14250> nointerest:no
+DEBUG	[2015-07-21 08:51:57:790] <14250> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 08:51:57:790] <14250> oid:linuxcamp_62121753
+INFO	[2015-07-21 08:51:57:790] <14250> Check Field OK
+INFO	[2015-07-21 08:51:57:791] <14250> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 08:51:57:791] <14250> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 08:51:57:793] <14250> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwODUxNTc3OTE2Mjg2Ng==
+
+INFO	[2015-07-21 08:51:57:793] <14250> END chkfake  Laptime:[0.003sec]
+INFO	[2015-07-21 08:51:57:793] <14250> ===============================================================
+INFO	[2015-07-21 08:52:44:233] <14822> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 08:52:44:233] <14822> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 08:52:44:233] <14822> type:securepay
+DEBUG	[2015-07-21 08:52:44:233] <14822> pgid:INIphpISP_
+DEBUG	[2015-07-21 08:52:44:233] <14822> subpgip:203.238.3.10
+DEBUG	[2015-07-21 08:52:44:233] <14822> admin:1111
+DEBUG	[2015-07-21 08:52:44:233] <14822> debug:true
+DEBUG	[2015-07-21 08:52:44:233] <14822> uid:
+DEBUG	[2015-07-21 08:52:44:233] <14822> goodname:리눅스커널캠프 참가신청
+DEBUG	[2015-07-21 08:52:44:233] <14822> currency:WON
+DEBUG	[2015-07-21 08:52:44:233] <14822> mid:Kisssig002
+DEBUG	[2015-07-21 08:52:44:233] <14822> rn:MjAxNTA3MjEwODUxNTc3OTE2Mjg2Ng==
+
+DEBUG	[2015-07-21 08:52:44:233] <14822> price:900000
+DEBUG	[2015-07-21 08:52:44:233] <14822> enctype:
+DEBUG	[2015-07-21 08:52:44:233] <14822> buyername:문영제
+DEBUG	[2015-07-21 08:52:44:233] <14822> buyertel:01053733268
+DEBUG	[2015-07-21 08:52:44:233] <14822> buyeremail:lemonkenya@gmail.com
+DEBUG	[2015-07-21 08:52:44:233] <14822> paymethod:VCard
+DEBUG	[2015-07-21 08:52:44:233] <14822> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=linuxcamp_62121753&ver_trace=main(6095,6058)vcard(6091)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&rn=3/jEtW4vAE1d1BiP2uMLD5K7mOlxjBLc62QEMrWkizo=
+&VCode=040100202467713&VQuota=00&VNoint=0&ip=223.194.71.53&mac=0C54A516BAA5&cardpoint=9&custemail=lemonkenya@gmail.com&price=4uDsrkVGeE4gjm3Is8QxAqyAlYVYtDDTlg==
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=HUyloy%2fIEp6R1ORcN3yPXqJuwr%2bWRIWn%2bPgMFBsanS4jWWx2CWYP0uYRU2YEjN98%0a6YI5ZTVhIGQ07l6jlwkmH3ND5osYobOGY1mJyMBCRTn7Rhv9sZy82Wt1ztyB4klO%0aNhnGOh3sV%2bisUNJRuogvhlH2j853pRfUV9ZpcIkwpiI%3d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3dsha256WithRSAEncryption%26Data%3dHj93zY4c%2fpBPnwh4NbxpTK5v3weVdUhjfJss%252bzO%2f3QEPjUUZr7aLNgmNt4rklANJ%250aaQYVDhr5ihkG96BjyfjfbZTCbiJrvl%2fp%252bPnvisWfxNdoZ8njIgFetFQ5ImbjKAed%250aQsGnvhaN6Lc4ZmgZXtwsXWDb1ewZWZp0n%2fai9DKVjSlDhJLLiUaVyD0zTDTj7U4i%250agZZTqJuF0J8N5ePmoZRl%2fvbDW1tx99f7rxlKjx6v2cKx78LZhFplWTMUu54NZaon%250aSPkP%2f2Zvi%252b3Ta8YqQREFRzH%2f2iZFpfcBv3urMpRb7c7BiQwdpk%252bpq3nkIMtfiHD5%250aTkhXsCUfX0I%2fmnrPkfdmqXXvnZaUe34k%252bxthThv6Qrp6vJVal6fRB6Vsc7ji9T0a%250aoAS2GqkXnJiSsHFg%252bJeLTFFYhLeb1zgMuWE2FX5BehG56IyxXN4PhkT8yBuUZSA%252b%250apTmPDS7GwL5qWsUteThZULyBYNL2Rc8Snu1s4LWIy%2f9Mg3jxFuYwVmti9mC%2fLVid%250atHxzRbQ2TL5Wn4mtuEuqIIShfR36JUODIUSrFCuN1y03unmJgy1FuVITSHGE7i4l%250aq799TpidLelEz0sSMWIRzEBb%252bmaiwYjx6HtI%252bJVeJtwvnFeiO9bnCz4Jo68c%2f%252bCD%250abRrYD9RmmofiXR35xT1uUUcxyLv6X%2fmbQwB96lIOJJ%2fS0fufSgPvfcePXSDgrN2j%250axUgNltuAXJOkK0KT8SBVbRVVkNoyTQlNQcbP6rjvzsheRhPSFwA7WsYM6lQUF5rp%250au92t%252b34JSnN0ZADxame1qEtc8my%252bm85E%252bayNk5fArOp4wnqfmwDk%252b375T03RoffA%250a87cq5mUcSGcKIwrTPuCMHhLx1sv%252bfrMV%2f7HqVw1FX0BsrMmsqpMOWLA46pHOooiE%250ayGA1RSd57xJR2iaBbgsIjQ5NXTWLq5jdwuGFE%2fauhc3i9JUwtDUcLfkogPonMoRL%250aC5rAhsT2AgJLXkcPSy2S%252bLBPWMz0ahR19M07eSmGDBf7vVGLomlgGl%2fPR3EKmlDF%250aYsQHAPQkeR9KUs%2fm09nqYm4Er9C9UD3gel1bKLhr9n0eykYVhpP3Ds3aIylZuWKR%250az2LEm2FWzJSd3Xj4W2bD8b43ejVuztNioR3KmiaQn9iRM%2fDyjW6XvVLidqblDHWe%250afrZOXxUGiwL0ZBcihNKZRmRi4bYeyaH1v7dAuBGVksoKcY3jmH5EfMuzvky5H2Ek%250amYP0CECr2Xtyfv63%252bBQHtkeDXe4R5%2fNgB2HT2s%2f8sHmWrOZRs1%252b22HzneRKmzKHV%250a%252bwk8j4hGUyCnzAOBpHsSCeONKba7uF0wjRW662rlKiomFHgWPelprPdu41VOEZQ4%250aWsFRX0S0RWEBrM%252bwAWkn1WD6%252b6pkY8%252b7z9bitlB4I7mjW09VrEOuMeonHXzi53OX%250ax54hwp%252bqho6LZQY%2ftS0at%252bcTOKQJK9YEBd6v%252bufZdFgCvWdpPe1SC5jt8hrAJf2b%250a%26PubCert%3d&ts=150721085228G0zGYXZit2hu0NrFGhvzgw001100&src_flg=0&OSv=IE11_Win7 6.01.7601 SP1 Professional_64B (CDN) (notray:J) [Kisssig002] (61_secuni_npapi)&ip2=223.194.71.53
+DEBUG	[2015-07-21 08:52:44:233] <14822> sessionkey:VCard
+DEBUG	[2015-07-21 08:52:44:233] <14822> url:http://linuxcamp.kau.ac.kr
+DEBUG	[2015-07-21 08:52:44:233] <14822> cardcode:11
+DEBUG	[2015-07-21 08:52:44:233] <14822> workplace:홍익대학교
+DEBUG	[2015-07-21 08:52:44:233] <14822> pfname:
+DEBUG	[2015-07-21 08:52:44:233] <14822> pos:900000
+DEBUG	[2015-07-21 08:52:44:233] <14822> dealoid:linuxcamp_62121753
+DEBUG	[2015-07-21 08:52:44:233] <14822> joincard:
+DEBUG	[2015-07-21 08:52:44:233] <14822> joinexpire:
+DEBUG	[2015-07-21 08:52:44:233] <14822> id_customer:
+INFO	[2015-07-21 08:52:44:233] <14822> Check Field OK
+INFO	[2015-07-21 08:52:44:233] <14822> Make TID OK INIphpISP_Kisssig00220150721085244334414
+INFO	[2015-07-21 08:52:44:233] <14822> PI PUB KEY LOAD OK [39]
+INFO	[2015-07-21 08:52:44:234] <14822> PG PUB KEY LOAD OK [30]
+INFO	[2015-07-21 08:52:44:234] <14822> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 08:52:44:235] <14822> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-07-21 08:52:44:236] <14822> MAKE BODY OK
+INFO	[2015-07-21 08:52:44:238] <14822> SIGN OK
+INFO	[2015-07-21 08:52:44:238] <14822> MAKE HEAD OK
+INFO	[2015-07-21 08:52:44:238] <14822> MSG_TO_PG:[0458300175R SHA1                   0                  39                  300200Kisssig002              900000INIphpISP_Kisssig00220150721085244334414<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>Kisssig002</SMID>
+	      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+	      <GoodsPrice>900000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%B9%AE%BF%B5%C1%A6</BuyerName>
+	    <BuyerTel>01053733268</BuyerTel>
+	    <BuyerEmail urlencode="1">lemonkenya%40gmail.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Dlinuxcamp_62121753%26ver_trace%3Dmain%286095%2C6058%29vcard%286091%29card%286138%2C6122%29n%286008%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286006%29P%286033%29en%286052%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAE1d1BiP2uMLD5K7mOlxjBLc62QEMrWkizo%3D%0D%0A%26VCode%3D040100202467713%26VQuota%3D00%26VNoint%3D0%26ip%3D223.194.71.53%26mac%3D0C54A516BAA5%26cardpoint%3D9%26custemail%3Dlemonkenya%40gmail.com%26price%3D4uDsrkVGeE4gjm3Is8QxAqyAlYVYtDDTlg%3D%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DHUyloy%252fIEp6R1ORcN3yPXqJuwr%252bWRIWn%252bPgMFBsanS4jWWx2CWYP0uYRU2YEjN98%250a6YI5ZTVhIGQ07l6jlwkmH3ND5osYobOGY1mJyMBCRTn7Rhv9sZy82Wt1ztyB4klO%250aNhnGOh3sV%252bisUNJRuogvhlH2j853pRfUV9ZpcIkwpiI%253d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253dsha256WithRSAEncryption%2526Data%253dHj93zY4c%252fpBPnwh4NbxpTK5v3weVdUhjfJss%25252bzO%252f3QEPjUUZr7aLNgmNt4rklANJ%25250aaQYVDhr5ihkG96BjyfjfbZTCbiJrvl%252fp%25252bPnvisWfxNdoZ8njIgFetFQ5ImbjKAed%25250aQsGnvhaN6Lc4ZmgZXtwsXWDb1ewZWZp0n%252fai9DKVjSlDhJLLiUaVyD0zTDTj7U4i%25250agZZTqJuF0J8N5ePmoZRl%252fvbDW1tx99f7rxlKjx6v2cKx78LZhFplWTMUu54NZaon%25250aSPkP%252f2Zvi%25252b3Ta8YqQREFRzH%252f2iZFpfcBv3urMpRb7c7BiQwdpk%25252bpq3nkIMtfiHD5%25250aTkhXsCUfX0I%252fmnrPkfdmqXXvnZaUe34k%25252bxthThv6Qrp6vJVal6fRB6Vsc7ji9T0a%25250aoAS2GqkXnJiSsHFg%25252bJeLTFFYhLeb1zgMuWE2FX5BehG56IyxXN4PhkT8yBuUZSA%25252b%25250apTmPDS7GwL5qWsUteThZULyBYNL2Rc8Snu1s4LWIy%252f9Mg3jxFuYwVmti9mC%252fLVid%25250atHxzRbQ2TL5Wn4mtuEuqIIShfR36JUODIUSrFCuN1y03unmJgy1FuVITSHGE7i4l%25250aq799TpidLelEz0sSMWIRzEBb%25252bmaiwYjx6HtI%25252bJVeJtwvnFeiO9bnCz4Jo68c%252f%25252bCD%25250abRrYD9RmmofiXR35xT1uUUcxyLv6X%252fmbQwB96lIOJJ%252fS0fufSgPvfcePXSDgrN2j%25250axUgNltuAXJOkK0KT8SBVbRVVkNoyTQlNQcbP6rjvzsheRhPSFwA7WsYM6lQUF5rp%25250au92t%25252b34JSnN0ZADxame1qEtc8my%25252bm85E%25252bayNk5fArOp4wnqfmwDk%25252b375T03RoffA%25250a87cq5mUcSGcKIwrTPuCMHhLx1sv%25252bfrMV%252f7HqVw1FX0BsrMmsqpMOWLA46pHOooiE%25250ayGA1RSd57xJR2iaBbgsIjQ5NXTWLq5jdwuGFE%252fauhc3i9JUwtDUcLfkogPonMoRL%25250aC5rAhsT2AgJLXkcPSy2S%25252bLBPWMz0ahR19M07eSmGDBf7vVGLomlgGl%252fPR3EKmlDF%25250aYsQHAPQkeR9KUs%252fm09nqYm4Er9C9UD3gel1bKLhr9n0eykYVhpP3Ds3aIylZuWKR%25250az2LEm2FWzJSd3Xj4W2bD8b43ejVuztNioR3KmiaQn9iRM%252fDyjW6XvVLidqblDHWe%25250afrZOXxUGiwL0ZBcihNKZRmRi4bYeyaH1v7dAuBGVksoKcY3jmH5EfMuzvky5H2Ek%25250amYP0CECr2Xtyfv63%25252bBQHtkeDXe4R5%252fNgB2HT2s%252f8sHmWrOZRs1%25252b22HzneRKmzKHV%25250a%25252bwk8j4hGUyCnzAOBpHsSCeONKba7uF0wjRW662rlKiomFHgWPelprPdu41VOEZQ4%25250aWsFRX0S0RWEBrM%25252bwAWkn1WD6%25252b6pkY8%25252b7z9bitlB4I7mjW09VrEOuMeonHXzi53OX%25250ax54hwp%25252bqho6LZQY%252ftS0at%25252bcTOKQJK9YEBd6v%25252bufZdFgCvWdpPe1SC5jt8hrAJf2b%25250a%2526PubCert%253d%26ts%3D150721085228G0zGYXZit2hu0NrFGhvzgw001100%26src_flg%3D0%26OSv%3DIE11_Win7+6.01.7601+SP1+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5BKisssig002%5D+%2861_secuni_npapi%29%26ip2%3D223.194.71.53</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Flinuxcamp.kau.ac.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.13.0-44-genericPHP:5.5.9-1ub</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA3MjEwODUxNTc3OTE2Mjg2Ng==
+</TXRN></ManageInfo></INIpay>hdEArx3pRYLufJ56/Aux11bDLIyXuZ3OyZCiHYXWnnkpgBL8APlkzmbSL0gULOGL
+FucVwWsQvCJKWpGlpPbdP3dVkOb40cKz2iWJZA/oavZdr2OGWr9Buitsy3j9HTBD
+dmyMZU0hhGC4RcNlvbHRLdGlXr1w/mXG9RWBEg+vIuk=
+]
+INFO	[2015-07-21 08:52:44:238] <14822> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-07-21 08:52:44:241] <14822> SOCKET CONNECT OK
+INFO	[2015-07-21 08:52:44:242] <14822> SEND OK
+INFO	[2015-07-21 08:52:46:838] <14822> RECV OK
+INFO	[2015-07-21 08:52:46:838] <14822> MSG_FROM_PG:[0281800175D SHA1                   0                  39                  300210Kisssig002              900000INIphpISP_Kisssig00220150721085244334414<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">linuxcamp_62121753</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>Kisssig002</SMID>
+      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>900000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>g/gd8rglwyUIO//CxDKcLf8xnFSvIRLq8bna4r2eNWxOwn6rqusitQxcikqbjupG
+I4V0IpVfivejjZHtUyjOjgW4MGo9EsjWP2l6xErqWE/6UcJ8N1r85eZNKGHPk2mK
+UTir03cM8/7QexnG02nS2zK7WfV5exzGWu53/wvp890mFpHpA+QDgg==
+</SessionKey>
+      <Encrypted>wv2ewkXfI8Eqb96izQcd0jRs85Bkj+HmcLSEnv1p6eZ+V3Butq+/XME5JUr+99hp
+ILZx/ZSy++ddS3ZKZ1VU/VYl3WW7Y6K8QD1LK45IedTJ7TP/s4UeDIhRPOBJOW1v
+cd9ElokwTHgUZbwLYD9HmRgq1dHWqo4lyTkedVEKniJYT/et3XevWpi8Nm6tJ/oV
+gkTn1WQE9BXnfrwoPcdnvB20ba8QQ12ngdFEtNKsd6Z0xqWqjrNPBU/bkwto+5AO
+P2pMSYpwQ1kfifv7qEMoClMdQgWCLjkL3idNxO2CUI3mebjJygyzgQgbmUo1GaNd
+wfwKIKk7BqPxSuTuGgciBi+cJo2rG6Y3qcGr8/5d4wTauXRns09yoOUBMdIyPzN5
+bJDjKVYWf+pU3Z1Le7sSmLQEbNmfI4Oaso24djnVcQVhNX9GobQ8PQxjHvu8AVuw
+lCJZvzP9kgTOtb+IuaGX9dw/yd7wXJ81E3HXH3GBnTPIS965qnn5p3vImlj/FNOd
+KOAYYYqWYQ5AmOMSBmijtcWLdE06xWdGokhQAjrLv52/BIobilBbsDl7d1nSdK9L
+TjJFze3A/PGKphLWi7C76d+5SqBKMLoNrfJ1V3WjA2KUoYQXNNU5os6Oi1tjhqLw
+MZU1z3iOZWLwQ0ZdAh0IieGZRRC6/an/TN3AdvS/dMRZIQsYsbjJoibMLJOAKqYu
+Xh8+Eb3AlJZlkbvGSblPdNZHromaQdDqeIRBNHwUX+jIv8B8l6D6gOshNVbvJPFD
+/SzbKCcaXQ9GXIQsXP91wg1nmaABzDudWlOn171tEfCre7MGcJNMkEpl0IlV8Cya
+LvIh2m1/GhfHCdPahLKkUtp8XyFJ+1OPz29MEDvt2BqzhZ3B3o9w4WIbwJZ4Ning
+9//IGytaEywFNGxfqCUQwJAnUMZ3ctAlE5QsNjcut1+pXX611GLu211Hz3JZXss9
+dK8wOkPXURMXo+JCOJzwAihzu0zwOPNf9BJyeStLvuyN+JGTcYUC/vGgtTAWvOk4
+L5lMDKrSiY+6Xb7TDpDIaF1X/0fpwRxupo8J9+ZkzSpNibnFVEtLSHSSSQ8aEN64
+JvspYYCvHm+EoIpZJUlfacttK5rvNkMAhx4DPs0ijOmHDnzRh2HqCU7qTxAZFjrT
+gn2L+QZ7WTrGFen7WaDUIlUYH+uW1QHlGiBOAjgKA0ji1doV3i1cQuvLuFnD0z2S
+ScFTvpbk/5/EqoyQVKotaOUWBdMp8K4LubBvWw1TTHyIQ3sKzmGJtLv11o4/EB7r
+FrVKkCyR2YrLIP3+GSOxf7IGJMlVchz/GGdTLsx+Hqh3160VF2hdPo6BJ4gCQ2Sx
+zfDojDi9C6e9qH1Fxouzw/DQuE/e6vEILOSjYY+zJn4CIhvTppSQrYnaURqHdmVe
+5QWWk2zLVY2QB2SQw7hhxE27jBZNmY0eHEr8His5H4g=
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+DeKYJQ8/s5I6SpBJxjM2IwEdBa3Nw7OyZ37Z9dIS5Nu7DQMhZddrPmL+oF/vgOms
+kjLXYYnL75J7JI1VUdUX68R2xMY12+YZZSXfCzJCsbqYWbIglgVWpntU4qTRqOrx
+BM4jkpmiom+k4R2VHpdB8A+EaEty++wUCQOcmqZ23Gs=
+]
+INFO	[2015-07-21 08:52:46:838] <14822> VERIFY OK
+INFO	[2015-07-21 08:52:46:838] <14822> PARSE HEAD OK
+INFO	[2015-07-21 08:52:46:841] <14822> PARSE BODY OK
+INFO	[2015-07-21 08:52:46:843] <14822> DECRYPT OK
+DEBUG	[2015-07-21 08:52:46:843] <14822> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>900000</ISP_ApplPrice>
+      <ISP_BankCode>00</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>11</ISP_CardCode>
+      <ISP_CardNum></ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20150721</ISP_ApplDate>
+      <ISP_ApplTime>085237</ISP_ApplTime>
+      <ISP_ApplNum>37621206</ISP_ApplNum>
+      <ISP_TerminalNum>0197727000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>0</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1"></ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1"></ISP_IssuerName>
+      <ISP_UsePoint></ISP_UsePoint>
+      <ISP_CouponOnlyMer></ISP_CouponOnlyMer>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-07-21 08:52:46:846] <14822> DECRYPT PARSE OK
+INFO	[2015-07-21 08:52:46:846] <14822> WAIT ACK INVOKING
+DEBUG	[2015-07-21 08:52:46:846] <14822> MAKE HEAD OK
+INFO	[2015-07-21 08:52:46:849] <14822> SUCCESS ACK INVOKING
+INFO	[2015-07-21 08:52:46:849] <14822> END securepay 정상완료 Laptime:[2.617sec]
+INFO	[2015-07-21 08:52:46:849] <14822> ===============================================================
+INFO	[2015-07-21 08:54:16:310] <14088> START INIPHP chkfake (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 08:54:16:310] <14088> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 08:54:16:310] <14088> type:chkfake
+DEBUG	[2015-07-21 08:54:16:310] <14088> debug:true
+DEBUG	[2015-07-21 08:54:16:310] <14088> enctype:asym
+DEBUG	[2015-07-21 08:54:16:310] <14088> admin:1111
+DEBUG	[2015-07-21 08:54:16:310] <14088> checkopt:false
+DEBUG	[2015-07-21 08:54:16:310] <14088> mid:Kisssig002
+DEBUG	[2015-07-21 08:54:16:310] <14088> price:900000
+DEBUG	[2015-07-21 08:54:16:310] <14088> nointerest:no
+DEBUG	[2015-07-21 08:54:16:310] <14088> quotabase:선택:일시불:2개월:3개월:6개월
+DEBUG	[2015-07-21 08:54:16:310] <14088> oid:linuxcamp_39535530
+INFO	[2015-07-21 08:54:16:310] <14088> Check Field OK
+INFO	[2015-07-21 08:54:16:310] <14088> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 08:54:16:311] <14088> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-07-21 08:54:16:312] <14088> CHKFAKE KEY MAKE OK:MjAxNTA3MjEwODU0MTYzMTE3Mjg5OA==
+
+INFO	[2015-07-21 08:54:16:312] <14088> END chkfake  Laptime:[0.002sec]
+INFO	[2015-07-21 08:54:16:312] <14088> ===============================================================
+INFO	[2015-07-21 08:54:53:958] <18291> START INIPHP securepay (V5036-141209)(OS:Linux3.13.0-44-generic,PHP:5.5.9-1ubuntu4.11)
+DEBUG	[2015-07-21 08:54:53:958] <18291> inipayhome:/var/www/html/linux_camp/wordpress/INIpay50
+DEBUG	[2015-07-21 08:54:53:958] <18291> type:securepay
+DEBUG	[2015-07-21 08:54:53:958] <18291> pgid:INIphpISP_
+DEBUG	[2015-07-21 08:54:53:958] <18291> subpgip:203.238.3.10
+DEBUG	[2015-07-21 08:54:53:958] <18291> admin:1111
+DEBUG	[2015-07-21 08:54:53:958] <18291> debug:true
+DEBUG	[2015-07-21 08:54:53:958] <18291> uid:
+DEBUG	[2015-07-21 08:54:53:958] <18291> goodname:리눅스커널캠프 참가신청
+DEBUG	[2015-07-21 08:54:53:958] <18291> currency:WON
+DEBUG	[2015-07-21 08:54:53:958] <18291> mid:Kisssig002
+DEBUG	[2015-07-21 08:54:53:958] <18291> rn:MjAxNTA3MjEwODU0MTYzMTE3Mjg5OA==
+
+DEBUG	[2015-07-21 08:54:53:958] <18291> price:900000
+DEBUG	[2015-07-21 08:54:53:958] <18291> enctype:
+DEBUG	[2015-07-21 08:54:53:958] <18291> buyername:박정규
+DEBUG	[2015-07-21 08:54:53:958] <18291> buyertel:01048996699
+DEBUG	[2015-07-21 08:54:53:958] <18291> buyeremail:smartjkpark@gmail.com
+DEBUG	[2015-07-21 08:54:53:958] <18291> paymethod:VCard
+DEBUG	[2015-07-21 08:54:53:958] <18291> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=linuxcamp_39535530&ver_trace=main(6095,6058)vcard(6091)card(6138,6122)n(6008)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6006)P(6033)en(6052)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&rn=3/jEtW4vAE1d1BiP2uMLR5G7oqBzjBLd62QENbSCizo=
+&VCode=040100202467713&VQuota=00&VNoint=0&ip=223.194.71.53&mac=0C54A516BAA5&cardpoint=9&custemail=smartjkpark@gmail.com&price=4uDsrkVGeE4gjm3Is8QxAqyAlYVYtDDTlg==
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=eRjVMDDc1gRawbCy0EM4u8p3PxSoive84vPz4LM1tcCtm6akFhwyJ7Sagktbx4fv%0aS8fHfLEz%2bCEAz%2fecjgjGCV8ln0Wsk%2fcUh%2f64lbTUYa%2bUKAx%2bOmoqQkDGA4B8YYdM%0ay3Z8OGhdHCkvydFs523X3DCkJYnFz2YQKxvTywc84lY%3d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3dsha256WithRSAEncryption%26Data%3dOTkPf5P8ZNXr8bBHWG%252bqDtxFx26sLfYVJfykC%2fTBKT%2f0O5FXPtNo60%252b48537mJoB%250aJGZEGjGN0ZK%2fNy0eYhPCDdccVBzS8%252bzVzCjU6WwNHTr4JmqMZ7%2fq1%2f09%2fL9nm9LM%250aqiSx3v0%252byLi3cpcP4dW5a%2fGuodep7bp%252borm9xPkQkJHNyHClvH%2f0Vm%252buWxUe6yGg%250a8GWS3ziXjcIafOiQj6TIJ6Ih5qRAjg08SKYb0X8gZ1B9ZRCAZhVDmvUndhCg%252bsKo%250agUWazkmPxfaVD7y9aBS8YbuoPOZrofmAlTFCmN0CIpE3P4i90lfp46%252bbJI3tHd4q%250ajQPh6N%252bKiuLQN2FOL6Fe%2fspi%2fo2a%2fTuN%2fDft44NbA4nFuDL0v7Bk93pxs%2fKWJzUA%250a1A0iVKQgyBwQ%252bIe9r%252bYQVhNpQgz2%252b%2fwIvj4IPkZPImmq3pkyvILONjdsXvN1vC%252bH%250aUq1SDLmRvh8to65mrS7FGY%2fliEMhY%2fHqxHlDrfALzaeYSood%2fiVbNU5JFHH0tOBX%250aFe6Zbv7ioEXSoQY%252bq2KKc9E4XoV6HgtiKSGBgn7Y6HmCqvxNpsikjK7iuqSVmKCk%250aOwWefv1QyHMPcaAibNQIoecZVDeq889Ju6Ym1W3idTyRzM5dZGB%2fzR1A3WnSgozO%250avu%2fgNq3YeGYAhxzHIqIhiFHebFU62by%252bRJzWi%252bWp3mcPhd6lqsmc2UyP0rQwk1BA%250aDFh9sjd9k1pXdcOhBLeUVtKtkgt%2fbloOzH6lsgPOWLsoi6%252bAIBmnTvl25FLGxkpm%250arW9VLOQBX6IwxNUAPZvLzqjQQfdkfWI%2f5aDQldXJgpUp62t7Oc9uSfrsEcM0RAOv%250ac9AkHo8aJAim0TdhdaMuTIYDiVxUy%2ff1%2f3Q1DR7nVheEOM9xmyMZvLz2k1etTAjB%250a7IT1KPyp1%252bpwJjfKxhnvNTvpbuf6RLR6%2fUzQBGmdHT0SXgbipkEgREYf%252b%2f9nwCci%250aLLcgY7aOu2HtOlaToMo6cZng6hylqqbfEDZcFW687c7vplLgoh6bwY%252beowRpSn5y%250aSKBYdWGF7p2UF%252bG9EVaewljBSzFlnJcWJWkx1z5jwZ71bQp5hV7mhKq5CnDK%2fkHS%250a1PKruuB8Z1DDOI0PbKgrikksnlS6lm%2fUMiJGe0AH1WJAuexE2ywAS2lBrmlhUVp3%250aOt7DKUxGn4ES1TM8jrDWhkG2asoP4MxEUrh9g0LysQwX3IJvtctbvAxTVi49Flz3%250aT%2f%2fjgxXvqfVmVUsMh4hkzwbdwAS8PBut5Yh12IEt3YJu26rnPvcFN3wpoVKTz7ze%250aIa5lnHZI%2fq4Jz3a4JHdC0GThkXqZ29QjBQ45mE%2fjVOtK%252bR%252bZvgwtZO%252bHiBk1%252bPRx%250a6YPq8FALW7kU5jvoAG1G3AkVwIx5Vh3y%252baSNJSG8MxYZUFIw5u7aGTpJTOpW8zTe%250aipAwnSKGZa226Le0QQikX3H8U3Lw8QBooMoce3BjbQnB0qsQrQ4jZjBMI8UaefZ%2f%250a%26PubCert%3d&ts=150721085438zG1hhCTZpybHLdUvidiWZg001079&src_flg=0&OSv=IE11_Win7 6.01.7601 SP1 Professional_64B (CDN) (notray:J) [Kisssig002] (61_secuni_npapi)&ip2=223.194.71.53
+DEBUG	[2015-07-21 08:54:53:958] <18291> sessionkey:VCard
+DEBUG	[2015-07-21 08:54:53:958] <18291> url:http://linuxcamp.kau.ac.kr
+DEBUG	[2015-07-21 08:54:53:958] <18291> cardcode:11
+DEBUG	[2015-07-21 08:54:53:958] <18291> workplace:홍익대학교
+DEBUG	[2015-07-21 08:54:53:958] <18291> pfname:
+DEBUG	[2015-07-21 08:54:53:958] <18291> pos:900000
+DEBUG	[2015-07-21 08:54:53:958] <18291> dealoid:linuxcamp_39535530
+DEBUG	[2015-07-21 08:54:53:958] <18291> joincard:
+DEBUG	[2015-07-21 08:54:53:958] <18291> joinexpire:
+DEBUG	[2015-07-21 08:54:53:958] <18291> id_customer:
+INFO	[2015-07-21 08:54:53:958] <18291> Check Field OK
+INFO	[2015-07-21 08:54:53:958] <18291> Make TID OK INIphpISP_Kisssig00220150721085453581539
+INFO	[2015-07-21 08:54:53:958] <18291> PI PUB KEY LOAD OK [39]
+INFO	[2015-07-21 08:54:53:959] <18291> PG PUB KEY LOAD OK [30]
+INFO	[2015-07-21 08:54:53:959] <18291> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-07-21 08:54:53:960] <18291> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-07-21 08:54:53:961] <18291> MAKE BODY OK
+INFO	[2015-07-21 08:54:53:963] <18291> SIGN OK
+INFO	[2015-07-21 08:54:53:963] <18291> MAKE HEAD OK
+INFO	[2015-07-21 08:54:53:963] <18291> MSG_TO_PG:[0464300175R SHA1                   0                  39                  300200Kisssig002              900000INIphpISP_Kisssig00220150721085453581539<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>Kisssig002</SMID>
+	      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+	      <GoodsPrice>900000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%B9%DA%C1%A4%B1%D4</BuyerName>
+	    <BuyerTel>01048996699</BuyerTel>
+	    <BuyerEmail urlencode="1">smartjkpark%40gmail.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Dlinuxcamp_39535530%26ver_trace%3Dmain%286095%2C6058%29vcard%286091%29card%286138%2C6122%29n%286008%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286006%29P%286033%29en%286052%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAE1d1BiP2uMLR5G7oqBzjBLd62QENbSCizo%3D%0D%0A%26VCode%3D040100202467713%26VQuota%3D00%26VNoint%3D0%26ip%3D223.194.71.53%26mac%3D0C54A516BAA5%26cardpoint%3D9%26custemail%3Dsmartjkpark%40gmail.com%26price%3D4uDsrkVGeE4gjm3Is8QxAqyAlYVYtDDTlg%3D%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DeRjVMDDc1gRawbCy0EM4u8p3PxSoive84vPz4LM1tcCtm6akFhwyJ7Sagktbx4fv%250aS8fHfLEz%252bCEAz%252fecjgjGCV8ln0Wsk%252fcUh%252f64lbTUYa%252bUKAx%252bOmoqQkDGA4B8YYdM%250ay3Z8OGhdHCkvydFs523X3DCkJYnFz2YQKxvTywc84lY%253d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253dsha256WithRSAEncryption%2526Data%253dOTkPf5P8ZNXr8bBHWG%25252bqDtxFx26sLfYVJfykC%252fTBKT%252f0O5FXPtNo60%25252b48537mJoB%25250aJGZEGjGN0ZK%252fNy0eYhPCDdccVBzS8%25252bzVzCjU6WwNHTr4JmqMZ7%252fq1%252f09%252fL9nm9LM%25250aqiSx3v0%25252byLi3cpcP4dW5a%252fGuodep7bp%25252borm9xPkQkJHNyHClvH%252f0Vm%25252buWxUe6yGg%25250a8GWS3ziXjcIafOiQj6TIJ6Ih5qRAjg08SKYb0X8gZ1B9ZRCAZhVDmvUndhCg%25252bsKo%25250agUWazkmPxfaVD7y9aBS8YbuoPOZrofmAlTFCmN0CIpE3P4i90lfp46%25252bbJI3tHd4q%25250ajQPh6N%25252bKiuLQN2FOL6Fe%252fspi%252fo2a%252fTuN%252fDft44NbA4nFuDL0v7Bk93pxs%252fKWJzUA%25250a1A0iVKQgyBwQ%25252bIe9r%25252bYQVhNpQgz2%25252b%252fwIvj4IPkZPImmq3pkyvILONjdsXvN1vC%25252bH%25250aUq1SDLmRvh8to65mrS7FGY%252fliEMhY%252fHqxHlDrfALzaeYSood%252fiVbNU5JFHH0tOBX%25250aFe6Zbv7ioEXSoQY%25252bq2KKc9E4XoV6HgtiKSGBgn7Y6HmCqvxNpsikjK7iuqSVmKCk%25250aOwWefv1QyHMPcaAibNQIoecZVDeq889Ju6Ym1W3idTyRzM5dZGB%252fzR1A3WnSgozO%25250avu%252fgNq3YeGYAhxzHIqIhiFHebFU62by%25252bRJzWi%25252bWp3mcPhd6lqsmc2UyP0rQwk1BA%25250aDFh9sjd9k1pXdcOhBLeUVtKtkgt%252fbloOzH6lsgPOWLsoi6%25252bAIBmnTvl25FLGxkpm%25250arW9VLOQBX6IwxNUAPZvLzqjQQfdkfWI%252f5aDQldXJgpUp62t7Oc9uSfrsEcM0RAOv%25250ac9AkHo8aJAim0TdhdaMuTIYDiVxUy%252ff1%252f3Q1DR7nVheEOM9xmyMZvLz2k1etTAjB%25250a7IT1KPyp1%25252bpwJjfKxhnvNTvpbuf6RLR6%252fUzQBGmdHT0SXgbipkEgREYf%25252b%252f9nwCci%25250aLLcgY7aOu2HtOlaToMo6cZng6hylqqbfEDZcFW687c7vplLgoh6bwY%25252beowRpSn5y%25250aSKBYdWGF7p2UF%25252bG9EVaewljBSzFlnJcWJWkx1z5jwZ71bQp5hV7mhKq5CnDK%252fkHS%25250a1PKruuB8Z1DDOI0PbKgrikksnlS6lm%252fUMiJGe0AH1WJAuexE2ywAS2lBrmlhUVp3%25250aOt7DKUxGn4ES1TM8jrDWhkG2asoP4MxEUrh9g0LysQwX3IJvtctbvAxTVi49Flz3%25250aT%252f%252fjgxXvqfVmVUsMh4hkzwbdwAS8PBut5Yh12IEt3YJu26rnPvcFN3wpoVKTz7ze%25250aIa5lnHZI%252fq4Jz3a4JHdC0GThkXqZ29QjBQ45mE%252fjVOtK%25252bR%25252bZvgwtZO%25252bHiBk1%25252bPRx%25250a6YPq8FALW7kU5jvoAG1G3AkVwIx5Vh3y%25252baSNJSG8MxYZUFIw5u7aGTpJTOpW8zTe%25250aipAwnSKGZa226Le0QQikX3H8U3Lw8QBooMoce3BjbQnB0qsQrQ4jZjBMI8UaefZ%252f%25250a%2526PubCert%253d%26ts%3D150721085438zG1hhCTZpybHLdUvidiWZg001079%26src_flg%3D0%26OSv%3DIE11_Win7+6.01.7601+SP1+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5BKisssig002%5D+%2861_secuni_npapi%29%26ip2%3D223.194.71.53</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Flinuxcamp.kau.ac.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.13.0-44-genericPHP:5.5.9-1ub</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA3MjEwODU0MTYzMTE3Mjg5OA==
+</TXRN></ManageInfo></INIpay>jx2dTHL2fU+yc4Olg9HfCrs0XW19zBkMzKgJ4sDfulfO3eeSEvPJMWIWD7qEYucb
+Q8UrsQzIum+e9dG7dD12PzxH06G1NQ4DlTJCWFLOmpJwmx2FGXAn4g9u7ee60oQ8
+ICeB6tpej1OX3jdme2fgvCWdqVtzvACpWx/necds1Ws=
+]
+INFO	[2015-07-21 08:54:53:963] <18291> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-07-21 08:54:53:966] <18291> SOCKET CONNECT OK
+INFO	[2015-07-21 08:54:53:966] <18291> SEND OK
+INFO	[2015-07-21 08:54:56:61] <18291> RECV OK
+INFO	[2015-07-21 08:54:56:61] <18291> MSG_FROM_PG:[0281800175D SHA1                   0                  39                  300210Kisssig002              900000INIphpISP_Kisssig00220150721085453581539<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">linuxcamp_39535530</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>Kisssig002</SMID>
+      <GoodsName urlencode="1">%B8%AE%B4%AA%BD%BA%C4%BF%B3%CE%C4%B7%C7%C1+%C2%FC%B0%A1%BD%C5%C3%BB</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>900000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>OU6gH9cSx7djr8jDctYXfky7xL1d24uXt4VjsuJNr1NV748D8wcb3lGJUwpwzJ4C
+1oaB3WAbh72fgltFT4KMYrvJxuQi9q15Eq8m2aj0vv1HjZD6J6R036c/Q8ESlEZy
+DZlB9DICZ5micG+cHGK91BLvYOULie4rL0sQkJzqUPYvQOqVOFUIlA==
+</SessionKey>
+      <Encrypted>lRMVQ/u61L7qItz9ttU35XF/EmCyHTxLW2LU/tbLJkCg4bLa1x6mTmWIC9ZAnxCo
+1cr3lmB9pOCC9ggtPqRUi9JnboJkk3nTpdEZ8em8K8SiLsnfkUSM6OIPexZ0aFr/
+wmxXyix6bQzrJk6VSpihRFSO6IgGwy0nAb1eJWvdVBit8HrEF7EqofQ301VLM/pb
+epzEvazh5DaYGyX3SBwXC1yD4RuP64Uhy9HaUL/FzAIeHOshDmjeXdPbN1jMyamN
+nT0QGaIEmTKe43S8DRwgl93CqziFEX7Z3JrgxVE74wvJ5rjZxJkTDCvtQdWCRK7E
+EDHEK5Z4bwT77VAqhpu5ALVnjnx8dq7rPmASEmN2g51EZBH5+y73ZDXP8r7fzplk
+amOkOjXU1fq7duyXB+S7i31dGjDKJV3j6VOojXskW8GOhiohgRcrDyadrlEUJdEa
+YrtdiGcLXg6OA5PsbKtaStkI1CIqlcl4z6h0kPRctm0gXRj8Cb2BvJmrkKx6MMsX
++APMke8IHK2kKUFm2Yp9C2RSZl2/5Vg4x4nsp6zLHNuealx689cJBYbta66FB9Px
+lss9t5HyvypJ4A1hE2bC85iSpeVg91dy5uHz1DdFTIqMmF5oahIebTn+BWwSET/3
+Epfma2hBz0iDdUNUzm5cUINiC1lBmC3NqyJp4BLblSxYYNSTPxYw/+L12Q2Ap5qV
+eOqySByuzNfMRaDYsWWF9RDb07bISfmAhFsh82ayine6NbkTmXuZ/VTtgvU3q0rW
+ctUOZkcf9NrO/aMLmo3dgtuUpITbzJgIkmHicpkT9iS08oArmf+aVpRdQgRlOpEv
+sV7OOnnWfTL1Vsaui68n53AxmKdoUDsI7cHHApvDH2clyPkBFpo7+cKu20B1LZnv
+wuwJEdZ9h+P8l138m8IX5mta1n08nn+f2YDVYbTyL5jsiqS++SZpOmgyNQVGFKmU
+13Kcox6dd3bOuP6mmp400XHfoM6OwNQndRCKn8/60WIVe4VI0Nj3bbP3qwZ2YJy/
+CC8ed16ZG04uCGUg1XOOloXT0PKghvOwwtQIG2L0jBxmiy/0n9Kik8BSMzMP71ah
+MyCV07phTrY1Ptnby3e6Oftd3/X/gWnidtiGVjyIPkEdgp81FQSjiurFpSCNA34b
+5STaaTVRfUQTorZIf3rhDWPUSHrRxqat/23yPChj22MvlP4/eEage5bi/PjJnjZ1
+A++ojKijrfgb52rOhNZgU8m8Tygq5YmIW/L81kp+B0ajAGrjxA094yarZJf0vq+p
+BnLUX+jcTLRQiiCaNFOHKWitw6c8vsyl2Gqa03IGzr7KT/c4DYZmOEsIgd0/Buap
+3IzM9XBadSF8MsiF2nmbuXn/oEsQas3wEy04ThK2zY6LFtlyM/JgRV2XaPJ4DLBH
+/Lxo41SsdF8PyOfzHUKYag+7B028ieLNgEGWlPJO2gw=
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+m5qoD4dJW1IZ2Jhgygp27enCdtECruQzwGmlt5s6bTB8oQOK0dcY/0ZzSAm7Ta7a
+d7jUMBt2RC/mNo9QrHnGER3L+eV27dHiwZvgdI3+e96Af9uocRpTLdPII0tbHJip
+SXAEG63TC9ePUB+SUDNBlYAfoR8yjJeqc+UJmiWgBT4=
+]
+INFO	[2015-07-21 08:54:56:62] <18291> VERIFY OK
+INFO	[2015-07-21 08:54:56:62] <18291> PARSE HEAD OK
+INFO	[2015-07-21 08:54:56:64] <18291> PARSE BODY OK
+INFO	[2015-07-21 08:54:56:67] <18291> DECRYPT OK
+DEBUG	[2015-07-21 08:54:56:67] <18291> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>900000</ISP_ApplPrice>
+      <ISP_BankCode>00</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>11</ISP_CardCode>
+      <ISP_CardNum></ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20150721</ISP_ApplDate>
+      <ISP_ApplTime>085447</ISP_ApplTime>
+      <ISP_ApplNum>37633144</ISP_ApplNum>
+      <ISP_TerminalNum>0197727000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>0</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1"></ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1"></ISP_IssuerName>
+      <ISP_UsePoint></ISP_UsePoint>
+      <ISP_CouponOnlyMer></ISP_CouponOnlyMer>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-07-21 08:54:56:69] <18291> DECRYPT PARSE OK
+INFO	[2015-07-21 08:54:56:69] <18291> WAIT ACK INVOKING
+DEBUG	[2015-07-21 08:54:56:69] <18291> MAKE HEAD OK
+INFO	[2015-07-21 08:54:56:73] <18291> SUCCESS ACK INVOKING
+INFO	[2015-07-21 08:54:56:73] <18291> END securepay 정상완료 Laptime:[2.115sec]
+INFO	[2015-07-21 08:54:56:73] <18291> ===============================================================
